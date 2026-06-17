@@ -4,6 +4,7 @@ import { AnimatePresence } from "framer-motion"
 import { CourtMap } from "@/components/court-map"
 import { SummaryHUD } from "@/components/summary-hud"
 import { MapOverlay } from "@/components/map-overlay"
+import { AiPromptBar } from "@/components/ai-prompt-bar"
 import { CourtPanel } from "@/components/court-panel"
 import { IntroSplash } from "@/components/intro-splash"
 import { Link } from "wouter"
@@ -59,6 +60,7 @@ export default function Home() {
           <div className="pointer-events-none fixed inset-0 z-30 [background:radial-gradient(ellipse_at_center,transparent_58%,rgba(0,0,0,0.55)_100%)]" />
           <SummaryHUD />
           <MapOverlay />
+          <AiPromptBar />
           <div className="fixed bottom-6 right-6 z-50">
             <Link
               href="/courts"

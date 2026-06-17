@@ -20,6 +20,8 @@ import type {
 } from '@tanstack/react-query';
 
 import type {
+  AiCourtUpdateRequest,
+  AiCourtUpdateResult,
   Court,
   CourtPlayersUpdate,
   CourtsSummary,
@@ -271,6 +273,79 @@ export function useGetCourtsSummary<TData = Awaited<ReturnType<typeof getCourtsS
 
 
 
+
+export const getAiUpdateCourtUrl = () => {
+
+
+
+
+  return `/api/courts/ai-update`
+}
+
+/**
+ * Parses a free-text command (e.g. "3 more people needed at percy williams jr ps"), fuzzy-matches the court, and applies the requested player updates.
+
+ * @summary Update a court from a natural-language prompt
+ */
+export const aiUpdateCourt = async (aiCourtUpdateRequest: AiCourtUpdateRequest, options?: RequestInit): Promise<AiCourtUpdateResult> => {
+
+  return customFetch<AiCourtUpdateResult>(getAiUpdateCourtUrl(),
+  {
+    ...options,
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', ...options?.headers },
+    body: JSON.stringify(
+      aiCourtUpdateRequest,)
+  }
+);}
+
+
+
+
+export const getAiUpdateCourtMutationOptions = <TError = ErrorType<unknown>,
+    TContext = unknown>(options?: { mutation?:UseMutationOptions<Awaited<ReturnType<typeof aiUpdateCourt>>, TError,{data: BodyType<AiCourtUpdateRequest>}, TContext>, request?: SecondParameter<typeof customFetch>}
+): UseMutationOptions<Awaited<ReturnType<typeof aiUpdateCourt>>, TError,{data: BodyType<AiCourtUpdateRequest>}, TContext> => {
+
+const mutationKey = ['aiUpdateCourt'];
+const {mutation: mutationOptions, request: requestOptions} = options ?
+      options.mutation && 'mutationKey' in options.mutation && options.mutation.mutationKey ?
+      options
+      : {...options, mutation: {...options.mutation, mutationKey}}
+      : {mutation: { mutationKey, }, request: undefined};
+
+
+
+
+      const mutationFn: MutationFunction<Awaited<ReturnType<typeof aiUpdateCourt>>, {data: BodyType<AiCourtUpdateRequest>}> = (props) => {
+          const {data} = props ?? {};
+
+          return  aiUpdateCourt(data,requestOptions)
+        }
+
+
+
+
+
+
+  return  { mutationFn, ...mutationOptions }}
+
+    export type AiUpdateCourtMutationResult = NonNullable<Awaited<ReturnType<typeof aiUpdateCourt>>>
+    export type AiUpdateCourtMutationBody = BodyType<AiCourtUpdateRequest>
+    export type AiUpdateCourtMutationError = ErrorType<unknown>
+
+    /**
+ * @summary Update a court from a natural-language prompt
+ */
+export const useAiUpdateCourt = <TError = ErrorType<unknown>,
+    TContext = unknown>(options?: { mutation?:UseMutationOptions<Awaited<ReturnType<typeof aiUpdateCourt>>, TError,{data: BodyType<AiCourtUpdateRequest>}, TContext>, request?: SecondParameter<typeof customFetch>}
+ ): UseMutationResult<
+        Awaited<ReturnType<typeof aiUpdateCourt>>,
+        TError,
+        {data: BodyType<AiCourtUpdateRequest>},
+        TContext
+      > => {
+      return useMutation(getAiUpdateCourtMutationOptions(options));
+    }
 
 export const getGetCourtUrl = (id: number,) => {
 

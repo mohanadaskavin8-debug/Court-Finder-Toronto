@@ -6,6 +6,9 @@
  * OpenAPI spec version: 0.1.0
  */
 
+export * from './aiCourtUpdateRequest';
+export * from './aiCourtUpdateResult';
+export * from './aiCourtUpdateResultStatus';
 export * from './court';
 export * from './courtPlayersUpdate';
 export * from './courtsSummary';

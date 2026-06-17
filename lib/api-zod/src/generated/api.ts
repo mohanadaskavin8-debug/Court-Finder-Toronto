@@ -51,6 +51,39 @@ export const GetCourtsSummaryResponse = zod.object({
 
 
 /**
+ * Parses a free-text command (e.g. "3 more people needed at percy williams jr ps"), fuzzy-matches the court, and applies the requested player updates.
+
+ * @summary Update a court from a natural-language prompt
+ */
+
+
+
+export const AiUpdateCourtBody = zod.object({
+  "prompt": zod.string().min(1).describe('Free-text command describing the court update')
+})
+
+export const AiUpdateCourtResponse = zod.object({
+  "status": zod.enum(['updated', 'not_found', 'ambiguous', 'no_change']).describe('Outcome of the assistant\'s attempt'),
+  "message": zod.string().describe('Human-readable confirmation or clarification message'),
+  "court": zod.object({
+  "id": zod.number(),
+  "name": zod.string(),
+  "address": zod.string(),
+  "neighborhood": zod.string(),
+  "lat": zod.number(),
+  "lng": zod.number(),
+  "currentPlayers": zod.number(),
+  "playersNeeded": zod.number(),
+  "maxPlayers": zod.number(),
+  "courtType": zod.string().describe('full, half, outdoor, indoor'),
+  "hasLights": zod.boolean().optional(),
+  "updatedAt": zod.string()
+}).optional(),
+  "candidates": zod.array(zod.string()).optional().describe('Candidate court names when the match is ambiguous')
+})
+
+
+/**
  * @summary Get a single court
  */
 export const GetCourtParams = zod.object({

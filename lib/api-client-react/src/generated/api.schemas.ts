@@ -39,3 +39,34 @@ export interface CourtsSummary {
   courtsNeedingPlayers: number;
 }
 
+export interface AiCourtUpdateRequest {
+  /**
+     * Free-text command describing the court update
+     * @minLength 1
+     */
+  prompt: string;
+}
+
+/**
+ * Outcome of the assistant's attempt
+ */
+export type AiCourtUpdateResultStatus = typeof AiCourtUpdateResultStatus[keyof typeof AiCourtUpdateResultStatus];
+
+
+export const AiCourtUpdateResultStatus = {
+  updated: 'updated',
+  not_found: 'not_found',
+  ambiguous: 'ambiguous',
+  no_change: 'no_change',
+} as const;
+
+export interface AiCourtUpdateResult {
+  /** Outcome of the assistant's attempt */
+  status: AiCourtUpdateResultStatus;
+  /** Human-readable confirmation or clarification message */
+  message: string;
+  court?: Court;
+  /** Candidate court names when the match is ambiguous */
+  candidates?: string[];
+}
+

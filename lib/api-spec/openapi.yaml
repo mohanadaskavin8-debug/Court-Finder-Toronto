@@ -56,6 +56,28 @@ paths:
               schema:
                 $ref: "#/components/schemas/CourtsSummary"
 
+  /courts/ai-update:
+    post:
+      operationId: aiUpdateCourt
+      tags: [courts]
+      summary: Update a court from a natural-language prompt
+      description: >
+        Parses a free-text command (e.g. "3 more people needed at percy williams
+        jr ps"), fuzzy-matches the court, and applies the requested player updates.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/AiCourtUpdateRequest"
+      responses:
+        "200":
+          description: Result of the assistant's attempt to update a court
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/AiCourtUpdateResult"
+
   /courts/{id}:
     get:
       operationId: getCourt
@@ -183,3 +205,38 @@ components:
           type: integer
         courtsNeedingPlayers:
           type: integer
+
+    AiCourtUpdateRequest:
+      type: object
+      required:
+        - prompt
+      properties:
+        prompt:
+          type: string
+          minLength: 1
+          description: Free-text command describing the court update
+
+    AiCourtUpdateResult:
+      type: object
+      required:
+        - status
+        - message
+      properties:
+        status:
+          type: string
+          enum:
+            - updated
+            - not_found
+            - ambiguous
+            - no_change
+          description: Outcome of the assistant's attempt
+        message:
+          type: string
+          description: Human-readable confirmation or clarification message
+        court:
+          $ref: "#/components/schemas/Court"
+        candidates:
+          type: array
+          description: Candidate court names when the match is ambiguous
+          items:
+            type: string
