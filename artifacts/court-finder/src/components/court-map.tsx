@@ -1,25 +1,22 @@
-import { MapContainer, TileLayer, Marker, useMap } from "react-leaflet"
+import { MapContainer, TileLayer, useMap } from "react-leaflet"
 import "leaflet/dist/leaflet.css"
+import "leaflet.markercluster/dist/MarkerCluster.css"
+import "leaflet.markercluster/dist/MarkerCluster.Default.css"
 import L from "leaflet"
+import "leaflet.markercluster"
 import { Court } from "@workspace/api-client-react"
-import { getCourtStatus, getStatusHex, getStatusGlow } from "@/lib/utils"
+import { getCourtStatus, getStatusHex } from "@/lib/utils"
 import { useEffect } from "react"
 
 // Create a custom pulsing marker icon
 const createMarkerIcon = (court: Court) => {
   const status = getCourtStatus(court)
   const color = getStatusHex(status)
-  
-  const svg = `
-    <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-      <circle cx="12" cy="12" r="8" fill="${color}" stroke="#0a0a0c" stroke-width="2"/>
-    </svg>
-  `
-  
+
   return L.divIcon({
-    className: 'bg-transparent border-0',
+    className: "bg-transparent border-0",
     html: `
-      <div class="relative flex items-center justify-center w-6 h-6 group">
+      <div class="relative flex items-center justify-center w-6 h-6">
         <div class="absolute inset-0 rounded-full animate-ping opacity-75" style="background-color: ${color}"></div>
         <div class="relative z-10 w-4 h-4 rounded-full border-2 border-background" style="background-color: ${color}; box-shadow: 0 0 10px ${color}"></div>
       </div>
@@ -35,22 +32,56 @@ interface CourtMapProps {
   onSelectCourt: (court: Court) => void
 }
 
-function MapUpdater({ center }: { center: [number, number] }) {
+function ClusterLayer({
+  courts,
+  onSelectCourt,
+}: {
+  courts: Court[]
+  onSelectCourt: (court: Court) => void
+}) {
   const map = useMap()
+
   useEffect(() => {
-    map.setView(center, map.getZoom())
-  }, [center, map])
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const group = (L as any).markerClusterGroup({
+      maxClusterRadius: 55,
+      showCoverageOnHover: false,
+      spiderfyOnMaxZoom: true,
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
+      iconCreateFunction: (cluster: any) => {
+        const count = cluster.getChildCount()
+        return L.divIcon({
+          className: "bg-transparent border-0",
+          html: `<div style="box-shadow:0 0 16px rgba(34,211,238,0.7)" class="flex items-center justify-center w-11 h-11 rounded-full bg-[#0a0a0c]/90 border-2 border-[#22d3ee] text-[#22d3ee] font-black text-base backdrop-blur-sm">${count}</div>`,
+          iconSize: [44, 44],
+          iconAnchor: [22, 22],
+        })
+      },
+    })
+
+    courts.forEach((court) => {
+      const marker = L.marker([court.lat, court.lng], { icon: createMarkerIcon(court) })
+      marker.on("click", () => onSelectCourt(court))
+      group.addLayer(marker)
+    })
+
+    map.addLayer(group)
+    return () => {
+      map.removeLayer(group)
+    }
+  }, [courts, map, onSelectCourt])
+
   return null
 }
 
-export function CourtMap({ courts, selectedCourtId, onSelectCourt }: CourtMapProps) {
-  const torontoCenter: [number, number] = [43.6532, -79.3832]
+export function CourtMap({ courts, onSelectCourt }: CourtMapProps) {
+  const torontoCenter: [number, number] = [43.7, -79.3832]
 
   return (
     <div className="w-full h-full relative z-0">
       <MapContainer
         center={torontoCenter}
-        zoom={13}
+        zoom={11}
         className="w-full h-full bg-[#0a0a0c]"
         zoomControl={false}
       >
@@ -58,16 +89,7 @@ export function CourtMap({ courts, selectedCourtId, onSelectCourt }: CourtMapPro
           url="https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png"
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
         />
-        {courts.map((court) => (
-          <Marker
-            key={court.id}
-            position={[court.lat, court.lng]}
-            icon={createMarkerIcon(court)}
-            eventHandlers={{
-              click: () => onSelectCourt(court),
-            }}
-          />
-        ))}
+        <ClusterLayer courts={courts} onSelectCourt={onSelectCourt} />
       </MapContainer>
     </div>
   )

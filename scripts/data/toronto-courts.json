@@ -1,0 +1,1754 @@
+[
+  {
+    "name": "Bethune Park",
+    "address": "75 Bethune Blvd",
+    "district": "Scarborough",
+    "lat": 43.7435687359414,
+    "lng": -79.2098666858774,
+    "courtType": "park"
+  },
+  {
+    "name": "Confederation Park",
+    "address": "250 Dolly Varden Blvd",
+    "district": "Scarborough",
+    "lat": 43.7739195595103,
+    "lng": -79.2361470739595,
+    "courtType": "park"
+  },
+  {
+    "name": "Mcnicoll Park",
+    "address": "215 McNicoll Ave",
+    "district": "North York",
+    "lat": 43.7986097905353,
+    "lng": -79.3532864284025,
+    "courtType": "park"
+  },
+  {
+    "name": "Birunthan Park",
+    "address": "31 Dragonfly Cres",
+    "district": "Scarborough",
+    "lat": 43.8227342725767,
+    "lng": -79.2255792804417,
+    "courtType": "park"
+  },
+  {
+    "name": "Roywood Park",
+    "address": "2 Roywood Dr",
+    "district": "North York",
+    "lat": 43.7645460317229,
+    "lng": -79.3207956490873,
+    "courtType": "park"
+  },
+  {
+    "name": "Wadsworth Park",
+    "address": "120 Connolly St",
+    "district": "Toronto",
+    "lat": 43.6723317760734,
+    "lng": -79.4579824179909,
+    "courtType": "park"
+  },
+  {
+    "name": "Noble Park",
+    "address": "74 Sandcliff Rd",
+    "district": "York",
+    "lat": 43.6772297481904,
+    "lng": -79.5012384961313,
+    "courtType": "park"
+  },
+  {
+    "name": "Fairhaven Park",
+    "address": "100 Golfwood Hts",
+    "district": "Etobicoke",
+    "lat": 43.7025559094826,
+    "lng": -79.5461473234562,
+    "courtType": "park"
+  },
+  {
+    "name": "Bellbury Park",
+    "address": "55 Van Horne Ave",
+    "district": "North York",
+    "lat": 43.7836678749099,
+    "lng": -79.361302549172,
+    "courtType": "park"
+  },
+  {
+    "name": "Amesbury Park",
+    "address": "151 Culford Rd",
+    "district": "North York",
+    "lat": 43.7061864960735,
+    "lng": -79.4834224926156,
+    "courtType": "park"
+  },
+  {
+    "name": "Pricefield Road Playground",
+    "address": "50 Pricefield Rd",
+    "district": "Toronto",
+    "lat": 43.6814867861325,
+    "lng": -79.3887552755597,
+    "courtType": "park"
+  },
+  {
+    "name": "Conacher Park",
+    "address": "645 Conacher Dr",
+    "district": "North York",
+    "lat": 43.7953012747537,
+    "lng": -79.39807250273,
+    "courtType": "park"
+  },
+  {
+    "name": "Seven Oaks Park",
+    "address": "372 Military Trl",
+    "district": "Scarborough",
+    "lat": 43.7882509492851,
+    "lng": -79.2105842714658,
+    "courtType": "park"
+  },
+  {
+    "name": "Sanwood Park",
+    "address": "20 Sanwood Blvd",
+    "district": "Scarborough",
+    "lat": 43.8178297841523,
+    "lng": -79.3102249187518,
+    "courtType": "park"
+  },
+  {
+    "name": "Grandravine Park",
+    "address": "23 Grandravine Dr",
+    "district": "North York",
+    "lat": 43.7519255965011,
+    "lng": -79.4913156667407,
+    "courtType": "park"
+  },
+  {
+    "name": "Tall Pines Park",
+    "address": "64 Rylander Blvd",
+    "district": "Scarborough",
+    "lat": 43.7985526890942,
+    "lng": -79.1512875068463,
+    "courtType": "park"
+  },
+  {
+    "name": "Woburn Park - North York",
+    "address": "575 Cranbrooke Ave",
+    "district": "North York",
+    "lat": 43.7227933583244,
+    "lng": -79.427407277354,
+    "courtType": "park"
+  },
+  {
+    "name": "Viola Desmond Park",
+    "address": "85 Hupfield Trl",
+    "district": "Scarborough",
+    "lat": 43.8129161094847,
+    "lng": -79.2185152736321,
+    "courtType": "park"
+  },
+  {
+    "name": "Flemingdon Park",
+    "address": "150 Grenoble Dr",
+    "district": "North York",
+    "lat": 43.713913749563,
+    "lng": -79.3305495831237,
+    "courtType": "park"
+  },
+  {
+    "name": "Wedgewood Park - North York",
+    "address": "145 Wedgewood Dr",
+    "district": "North York",
+    "lat": 43.7905113052772,
+    "lng": -79.4063113776072,
+    "courtType": "park"
+  },
+  {
+    "name": "Telfer Park",
+    "address": "71 Pinery Trl",
+    "district": "Scarborough",
+    "lat": 43.8075414553068,
+    "lng": -79.2263406065073,
+    "courtType": "park"
+  },
+  {
+    "name": "Seasons Park",
+    "address": "40 Seasons Dr",
+    "district": "Scarborough",
+    "lat": 43.830757719908,
+    "lng": -79.2315458282338,
+    "courtType": "park"
+  },
+  {
+    "name": "Campbell Avenue Park",
+    "address": "225 Campbell Ave",
+    "district": "Toronto",
+    "lat": 43.6635937418593,
+    "lng": -79.4483012619283,
+    "courtType": "park"
+  },
+  {
+    "name": "L'Amoreaux North Park",
+    "address": "1900 McNicoll Ave",
+    "district": "Scarborough",
+    "lat": 43.8128853417102,
+    "lng": -79.3069867837326,
+    "courtType": "park"
+  },
+  {
+    "name": "Rockford Park",
+    "address": "70 Rockford Rd",
+    "district": "North York",
+    "lat": 43.7864470424947,
+    "lng": -79.4539758998359,
+    "courtType": "park"
+  },
+  {
+    "name": "Stephen Leacock Park",
+    "address": "2530 Birchmount Rd",
+    "district": "Scarborough",
+    "lat": 43.7872164778617,
+    "lng": -79.3024857076659,
+    "courtType": "park"
+  },
+  {
+    "name": "Cummer Park",
+    "address": "823 Cummer Ave",
+    "district": "North York",
+    "lat": 43.7996349160362,
+    "lng": -79.3718071438594,
+    "courtType": "park"
+  },
+  {
+    "name": "Goldhawk Park",
+    "address": "250 Goldhawk Trl",
+    "district": "Scarborough",
+    "lat": 43.8232306968931,
+    "lng": -79.2796712289286,
+    "courtType": "park"
+  },
+  {
+    "name": "Cynthia Lai Park",
+    "address": "1051 Progress Ave",
+    "district": "Scarborough",
+    "lat": 43.7933472032765,
+    "lng": -79.2335250203116,
+    "courtType": "park"
+  },
+  {
+    "name": "Woolner Park",
+    "address": "735 Jane St",
+    "district": "York",
+    "lat": 43.6712884418902,
+    "lng": -79.4924333593124,
+    "courtType": "park"
+  },
+  {
+    "name": "20 Castlefield Ave Park",
+    "address": "20 Castlefield Ave",
+    "district": "Toronto",
+    "lat": 43.7119116356127,
+    "lng": -79.4007127701497,
+    "courtType": "park"
+  },
+  {
+    "name": "Magwood Park",
+    "address": "2 Pasadena Gdns",
+    "district": "York",
+    "lat": 43.6574809794854,
+    "lng": -79.4974882250038,
+    "courtType": "park"
+  },
+  {
+    "name": "Main Sewage Treatment Playground",
+    "address": "1091 Eastern Ave",
+    "district": "Toronto",
+    "lat": 43.663475781928,
+    "lng": -79.3176511841085,
+    "courtType": "park"
+  },
+  {
+    "name": "Village Green Park",
+    "address": "925 Albion Rd",
+    "district": "Etobicoke",
+    "lat": 43.735380457832,
+    "lng": -79.5636439368433,
+    "courtType": "park"
+  },
+  {
+    "name": "Woburn Park - Scarborough",
+    "address": "50 Dormington Dr",
+    "district": "Scarborough",
+    "lat": 43.7814853929352,
+    "lng": -79.2276560142691,
+    "courtType": "park"
+  },
+  {
+    "name": "Earlscourt Park",
+    "address": "1200 Lansdowne Ave",
+    "district": "Toronto",
+    "lat": 43.6736233946801,
+    "lng": -79.4515037424062,
+    "courtType": "park"
+  },
+  {
+    "name": "Oak Street Park",
+    "address": "165 River St",
+    "district": "Toronto",
+    "lat": 43.6621592729149,
+    "lng": -79.3581281752521,
+    "courtType": "park"
+  },
+  {
+    "name": "Ourland Park",
+    "address": "18 Ourland Ave",
+    "district": "Etobicoke",
+    "lat": 43.6155517022453,
+    "lng": -79.5086950991317,
+    "courtType": "park"
+  },
+  {
+    "name": "Keele - Mulock Parkette",
+    "address": "595 Keele St",
+    "district": "Toronto",
+    "lat": 43.6716295096463,
+    "lng": -79.4666952506382,
+    "courtType": "park"
+  },
+  {
+    "name": "Coronation Park - York",
+    "address": "2700 Eglinton Ave W",
+    "district": "York",
+    "lat": 43.6909914601207,
+    "lng": -79.4797720302363,
+    "courtType": "park"
+  },
+  {
+    "name": "Mccormick Park",
+    "address": "66 Sheridan Ave",
+    "district": "Toronto",
+    "lat": 43.6470735079123,
+    "lng": -79.4335388866023,
+    "courtType": "park"
+  },
+  {
+    "name": "Lanyard Park",
+    "address": "138 Lanyard Rd",
+    "district": "North York",
+    "lat": 43.74751580091,
+    "lng": -79.5486740558148,
+    "courtType": "park"
+  },
+  {
+    "name": "Underpass Park",
+    "address": "33 St Lawrence St",
+    "district": "Toronto",
+    "lat": 43.6557647312161,
+    "lng": -79.354806376871,
+    "courtType": "park"
+  },
+  {
+    "name": "Albert Crosland Park",
+    "address": "15 Saunders Ave",
+    "district": "Toronto",
+    "lat": 43.6408899592621,
+    "lng": -79.4401489378015,
+    "courtType": "park"
+  },
+  {
+    "name": "Joyce Trimmer Park",
+    "address": "8450 SHEPPARD AVE E",
+    "district": "Scarborough",
+    "lat": 43.8055762949212,
+    "lng": -79.1894591450785,
+    "courtType": "park"
+  },
+  {
+    "name": "Saddletree Park",
+    "address": "50 Saddletree Dr",
+    "district": "North York",
+    "lat": 43.8049007005986,
+    "lng": -79.3774388258683,
+    "courtType": "park"
+  },
+  {
+    "name": "Van Horne Park",
+    "address": "561 Van Horne Ave",
+    "district": "North York",
+    "lat": 43.7868715462289,
+    "lng": -79.3374084183638,
+    "courtType": "park"
+  },
+  {
+    "name": "Leslie Park",
+    "address": "5200 Leslie St",
+    "district": "North York",
+    "lat": 43.7847915041384,
+    "lng": -79.3676778859343,
+    "courtType": "park"
+  },
+  {
+    "name": "Glamorgan Park",
+    "address": "50 Antrim Cres",
+    "district": "Scarborough",
+    "lat": 43.7726448062954,
+    "lng": -79.28867580455,
+    "courtType": "park"
+  },
+  {
+    "name": "David Crombie Park",
+    "address": "131 The Esplanade",
+    "district": "Toronto",
+    "lat": 43.6487685171545,
+    "lng": -79.3673390336933,
+    "courtType": "park"
+  },
+  {
+    "name": "Firgrove Park",
+    "address": "254 Firgrove Cres",
+    "district": "North York",
+    "lat": 43.7506299180344,
+    "lng": -79.5215981441151,
+    "courtType": "park"
+  },
+  {
+    "name": "Manse Road Park",
+    "address": "440 Coronation Dr",
+    "district": "Scarborough",
+    "lat": 43.766196646931,
+    "lng": -79.1721177127431,
+    "courtType": "park"
+  },
+  {
+    "name": "Trethewey Park West",
+    "address": "665 Trethewey Dr",
+    "district": "North York",
+    "lat": 43.6967810342362,
+    "lng": -79.4978753800819,
+    "courtType": "park"
+  },
+  {
+    "name": "Parkway Forest Park",
+    "address": "80 Parkway Forest Dr",
+    "district": "North York",
+    "lat": 43.771513418939,
+    "lng": -79.3422030461915,
+    "courtType": "park"
+  },
+  {
+    "name": "Dentonia Park",
+    "address": "80 Thyra Ave",
+    "district": "East York",
+    "lat": 43.6936797661395,
+    "lng": -79.2929017260679,
+    "courtType": "park"
+  },
+  {
+    "name": "Cornell Park",
+    "address": "18 Beran Dr",
+    "district": "Scarborough",
+    "lat": 43.7590595935383,
+    "lng": -79.2198450149449,
+    "courtType": "park"
+  },
+  {
+    "name": "Irving W. Chapley Park",
+    "address": "205 Wilmington Ave",
+    "district": "North York",
+    "lat": 43.7617768366639,
+    "lng": -79.4552215175651,
+    "courtType": "park"
+  },
+  {
+    "name": "Ramsden Park",
+    "address": "1020 Yonge St",
+    "district": "Toronto",
+    "lat": 43.6764157216534,
+    "lng": -79.3930150383113,
+    "courtType": "park"
+  },
+  {
+    "name": "Leonard Linton Park",
+    "address": "60 Research Rd",
+    "district": "East York",
+    "lat": 43.7134383110989,
+    "lng": -79.3540705472968,
+    "courtType": "park"
+  },
+  {
+    "name": "Parma Park",
+    "address": "99 Parma Crt",
+    "district": "North York",
+    "lat": 43.7178659480496,
+    "lng": -79.3021453559689,
+    "courtType": "park"
+  },
+  {
+    "name": "Hillcrest Park",
+    "address": "950 Davenport Rd",
+    "district": "Toronto",
+    "lat": 43.6759841969762,
+    "lng": -79.4245259371429,
+    "courtType": "park"
+  },
+  {
+    "name": "Fairbank Memorial Park",
+    "address": "2213 Dufferin St",
+    "district": "York",
+    "lat": 43.6918448284323,
+    "lng": -79.4477474522899,
+    "courtType": "park"
+  },
+  {
+    "name": "Joel Weeks Park",
+    "address": "10 Thompson St",
+    "district": "Toronto",
+    "lat": 43.6595379309538,
+    "lng": -79.3527837670335,
+    "courtType": "park"
+  },
+  {
+    "name": "Christie Pits Park",
+    "address": "750 Bloor St W",
+    "district": "Toronto",
+    "lat": 43.6646698181675,
+    "lng": -79.4207936079461,
+    "courtType": "park"
+  },
+  {
+    "name": "Maple Leaf Park",
+    "address": "320 Culford Rd",
+    "district": "North York",
+    "lat": 43.7158024734685,
+    "lng": -79.4934534865598,
+    "courtType": "park"
+  },
+  {
+    "name": "Indian Line Park",
+    "address": "655 Humberwood Blvd",
+    "district": "Etobicoke",
+    "lat": 43.7249686519113,
+    "lng": -79.6224617886124,
+    "courtType": "park"
+  },
+  {
+    "name": "West Lodge Park",
+    "address": "165 Lansdowne Ave",
+    "district": "Toronto",
+    "lat": 43.6461035010024,
+    "lng": -79.4379893570739,
+    "courtType": "park"
+  },
+  {
+    "name": "Edithvale Park",
+    "address": "121 Finch Ave W",
+    "district": "North York",
+    "lat": 43.7762151972104,
+    "lng": -79.4249370380723,
+    "courtType": "park"
+  },
+  {
+    "name": "Knob Hill Park",
+    "address": "625 Brimley Rd",
+    "district": "Scarborough",
+    "lat": 43.7436757395073,
+    "lng": -79.2501306012778,
+    "courtType": "park"
+  },
+  {
+    "name": "Perth Avenue Parkette",
+    "address": "160 Perth Ave",
+    "district": "Toronto",
+    "lat": 43.6587793087855,
+    "lng": -79.4499983529266,
+    "courtType": "park"
+  },
+  {
+    "name": "Trudelle Street Park",
+    "address": "55 Trudelle St",
+    "district": "Scarborough",
+    "lat": 43.7394848479853,
+    "lng": -79.2420754689163,
+    "courtType": "park"
+  },
+  {
+    "name": "Oakdale Park",
+    "address": "350 Grandravine Dr",
+    "district": "North York",
+    "lat": 43.7481008099483,
+    "lng": -79.5133103790947,
+    "courtType": "park"
+  },
+  {
+    "name": "Regent Park Athletic Grounds",
+    "address": "480 Shuter St",
+    "district": "Toronto",
+    "lat": 43.6593498877993,
+    "lng": -79.3591084609905,
+    "courtType": "park"
+  },
+  {
+    "name": "Dufferin Grove Park",
+    "address": "875 Dufferin St",
+    "district": "Toronto",
+    "lat": 43.6562981599803,
+    "lng": -79.4324881937625,
+    "courtType": "park"
+  },
+  {
+    "name": "Stanley Park North - Toronto",
+    "address": "890 King St W",
+    "district": "Toronto",
+    "lat": 43.6431324087499,
+    "lng": -79.4098430479658,
+    "courtType": "park"
+  },
+  {
+    "name": "Mcgregor Park",
+    "address": "2231 Lawrence Ave E",
+    "district": "Scarborough",
+    "lat": 43.7473020128729,
+    "lng": -79.2805594573923,
+    "courtType": "park"
+  },
+  {
+    "name": "Jimmie Simpson Park",
+    "address": "870 Queen St E",
+    "district": "Toronto",
+    "lat": 43.6611735030375,
+    "lng": -79.3447424177788,
+    "courtType": "park"
+  },
+  {
+    "name": "Bert Robinson Park",
+    "address": "400 Caledonia Rd",
+    "district": "York",
+    "lat": 43.6878430796668,
+    "lng": -79.4613375630626,
+    "courtType": "park"
+  },
+  {
+    "name": "Dennis Flynn Park",
+    "address": "370 The West Mall",
+    "district": "Etobicoke",
+    "lat": 43.641268389533,
+    "lng": -79.5663514538869,
+    "courtType": "park"
+  },
+  {
+    "name": "Irving Paisley Park",
+    "address": "2539 A Bayview Ave",
+    "district": "North York",
+    "lat": 43.7476479219887,
+    "lng": -79.3824426703801,
+    "courtType": "park"
+  },
+  {
+    "name": "Withrow Park",
+    "address": "725 Logan Ave",
+    "district": "Toronto",
+    "lat": 43.6744320621775,
+    "lng": -79.3469330563353,
+    "courtType": "park"
+  },
+  {
+    "name": "Macgregor Playground",
+    "address": "346 Lansdowne Ave",
+    "district": "Toronto",
+    "lat": 43.6531646200621,
+    "lng": -79.4421095776537,
+    "courtType": "park"
+  },
+  {
+    "name": "Charles G. Williams Park",
+    "address": "75 Wabash Ave",
+    "district": "Toronto",
+    "lat": 43.6472989154183,
+    "lng": -79.443215187631,
+    "courtType": "park"
+  },
+  {
+    "name": "Port Union Community Recreation Centre Park",
+    "address": "5450 Lawrence Ave E",
+    "district": "Scarborough",
+    "lat": 43.7798338043484,
+    "lng": -79.1400772440666,
+    "courtType": "park"
+  },
+  {
+    "name": "Woodborough Park",
+    "address": "1486 Castlefield Ave",
+    "district": "York",
+    "lat": 43.6968422103694,
+    "lng": -79.4696432351612,
+    "courtType": "park"
+  },
+  {
+    "name": "Gihon Spring Park",
+    "address": "75 Gihon Spring Dr",
+    "district": "Etobicoke",
+    "lat": 43.7545277670049,
+    "lng": -79.5946310987278,
+    "courtType": "park"
+  },
+  {
+    "name": "Edgeley Park",
+    "address": "4401 Jane St",
+    "district": "North York",
+    "lat": 43.7653927434246,
+    "lng": -79.5182483409935,
+    "courtType": "park"
+  },
+  {
+    "name": "Masseygrove Park",
+    "address": "80 Kendleton Dr",
+    "district": "Etobicoke",
+    "lat": 43.7350044713691,
+    "lng": -79.5871852979597,
+    "courtType": "park"
+  },
+  {
+    "name": "Lakeshore Village Park",
+    "address": "45 Garnett Janes Rd",
+    "district": "Etobicoke",
+    "lat": 43.6008994463664,
+    "lng": -79.5100323410491,
+    "courtType": "park"
+  },
+  {
+    "name": "North Kipling Park",
+    "address": "2 Rowntree Rd",
+    "district": "Etobicoke",
+    "lat": 43.7521664904311,
+    "lng": -79.5847567877476,
+    "courtType": "park"
+  },
+  {
+    "name": "Wallace Emerson Park",
+    "address": "1260 Dufferin St",
+    "district": "Toronto",
+    "lat": 43.666780233638,
+    "lng": -79.4405096759813,
+    "courtType": "park"
+  },
+  {
+    "name": "Humberline Park",
+    "address": "32 Humberline Dr",
+    "district": "Etobicoke",
+    "lat": 43.7309671381707,
+    "lng": -79.6153240310977,
+    "courtType": "park"
+  },
+  {
+    "name": "Walter Saunders Memorial Park",
+    "address": "440 Hopewell Ave",
+    "district": "York",
+    "lat": 43.6997395310475,
+    "lng": -79.44777760595,
+    "courtType": "park"
+  },
+  {
+    "name": "Kew Gardens",
+    "address": "2075 Queen St E",
+    "district": "Toronto",
+    "lat": 43.6681698404802,
+    "lng": -79.2983359277853,
+    "courtType": "park"
+  },
+  {
+    "name": "Smithfield Park",
+    "address": "173 Mount Olive Dr",
+    "district": "Etobicoke",
+    "lat": 43.7473680463062,
+    "lng": -79.5953493031208,
+    "courtType": "park"
+  },
+  {
+    "name": "Phin Park",
+    "address": "115 Condor Ave",
+    "district": "Toronto",
+    "lat": 43.6779744486004,
+    "lng": -79.3362657140271,
+    "courtType": "park"
+  },
+  {
+    "name": "Carlton Park",
+    "address": "20 Edith Ave",
+    "district": "Toronto",
+    "lat": 43.6665622439282,
+    "lng": -79.4554776121538,
+    "courtType": "park"
+  },
+  {
+    "name": "Wanless Park",
+    "address": "250 Wanless Ave",
+    "district": "North York",
+    "lat": 43.7289322010806,
+    "lng": -79.3920573344833,
+    "courtType": "park"
+  },
+  {
+    "name": "E.T. Seton Park",
+    "address": "73 Thorncliffe Park Dr",
+    "district": "North York",
+    "lat": 43.7094332498786,
+    "lng": -79.3390544184959,
+    "courtType": "park"
+  },
+  {
+    "name": "Falstaff Park",
+    "address": "50 Falstaff Ave",
+    "district": "North York",
+    "lat": 43.7167379572591,
+    "lng": -79.5034249357297,
+    "courtType": "park"
+  },
+  {
+    "name": "Coxwell Avenue Parkette",
+    "address": "429 Coxwell Ave",
+    "district": "Toronto",
+    "lat": 43.677893661242,
+    "lng": -79.3207265471604,
+    "courtType": "park"
+  },
+  {
+    "name": "Vine Avenue Playground",
+    "address": "200 Vine Ave",
+    "district": "Toronto",
+    "lat": 43.6669855033985,
+    "lng": -79.4704828710234,
+    "courtType": "park"
+  },
+  {
+    "name": "Frankel - Lambert Park",
+    "address": "340 Christie St",
+    "district": "Toronto",
+    "lat": 43.6721621870241,
+    "lng": -79.4244532700926,
+    "courtType": "park"
+  },
+  {
+    "name": "Weston Lions Park",
+    "address": "2125 Lawrence Ave W",
+    "district": "York",
+    "lat": 43.6979437098432,
+    "lng": -79.5175390232004,
+    "courtType": "park"
+  },
+  {
+    "name": "Flemington Park",
+    "address": "2 A Flemington Rd",
+    "district": "North York",
+    "lat": 43.721464957008,
+    "lng": -79.444561304399,
+    "courtType": "park"
+  },
+  {
+    "name": "Stanley Greene Park",
+    "address": "55 Stanley Greene Blvd",
+    "district": "North York",
+    "lat": 43.7344958701301,
+    "lng": -79.4773371188425,
+    "courtType": "park"
+  },
+  {
+    "name": "Summerlea Park",
+    "address": "2 Arcot Blvd",
+    "district": "Etobicoke",
+    "lat": 43.7306176078324,
+    "lng": -79.5485540135118,
+    "courtType": "park"
+  },
+  {
+    "name": "Dixon Park",
+    "address": "350 Dixon Rd",
+    "district": "Etobicoke",
+    "lat": 43.6961161257254,
+    "lng": -79.5551745990698,
+    "courtType": "park"
+  },
+  {
+    "name": "Jack Goodlad Park",
+    "address": "929 Kennedy Rd",
+    "district": "Scarborough",
+    "lat": 43.7424487224288,
+    "lng": -79.2699166054359,
+    "courtType": "park"
+  },
+  {
+    "name": "Flagstaff Park",
+    "address": "42 Mercury Rd",
+    "district": "Etobicoke",
+    "lat": 43.7211741636735,
+    "lng": -79.5906395390043,
+    "courtType": "park"
+  },
+  {
+    "name": "Greystone Park",
+    "address": "845 Danforth Rd",
+    "district": "Scarborough",
+    "lat": 43.7261242485564,
+    "lng": -79.252170846204,
+    "courtType": "park"
+  },
+  {
+    "name": "Alexandra Park",
+    "address": "275 Bathurst St",
+    "district": "Toronto",
+    "lat": 43.6506653755471,
+    "lng": -79.4042555012948,
+    "courtType": "park"
+  },
+  {
+    "name": "Moss Park",
+    "address": "150 Sherbourne St",
+    "district": "Toronto",
+    "lat": 43.6550677751013,
+    "lng": -79.3710758365385,
+    "courtType": "park"
+  },
+  {
+    "name": "Westgrove Park",
+    "address": "15 Redgrave Dr",
+    "district": "Etobicoke",
+    "lat": 43.6818208069823,
+    "lng": -79.5676612121936,
+    "courtType": "park"
+  },
+  {
+    "name": "Brookwell Park",
+    "address": "44 Streamdale Crt",
+    "district": "North York",
+    "lat": 43.7458853711176,
+    "lng": -79.4899670435411,
+    "courtType": "park"
+  },
+  {
+    "name": "Warden Hilltop Community Centre",
+    "address": "25 MENDELSSOHN ST",
+    "district": "Scarborough",
+    "lat": 43.7147475746814,
+    "lng": -79.2803616370373,
+    "courtType": "community"
+  },
+  {
+    "name": "Antibes Community Centre",
+    "address": "140 ANTIBES DR",
+    "district": "North York",
+    "lat": 43.7811383805631,
+    "lng": -79.4469957593676,
+    "courtType": "community"
+  },
+  {
+    "name": "Canoe Landing Community Recreation Centre",
+    "address": "45 FORT YORK BLVD",
+    "district": "Toronto",
+    "lat": 43.6394377946956,
+    "lng": -79.394731493621,
+    "courtType": "community"
+  },
+  {
+    "name": "Port Union Community Recreation Centre",
+    "address": "5450 LAWRENCE AVE E",
+    "district": "Scarborough",
+    "lat": 43.7796658897158,
+    "lng": -79.1402808119392,
+    "courtType": "community"
+  },
+  {
+    "name": "St Patrick Catholic Secondary School",
+    "address": "49 Felstead Ave",
+    "district": "Toronto",
+    "lat": 43.6783223029713,
+    "lng": -79.3276494865718,
+    "courtType": "school"
+  },
+  {
+    "name": "A Y Jackson Secondary School",
+    "address": "50 Francine Dr",
+    "district": "North York",
+    "lat": 43.8052613014219,
+    "lng": -79.3665552934095,
+    "courtType": "school"
+  },
+  {
+    "name": "Agincourt Collegiate Institute",
+    "address": "2621 Midland Ave",
+    "district": "Scarborough",
+    "lat": 43.7888738444071,
+    "lng": -79.2789099586918,
+    "courtType": "school"
+  },
+  {
+    "name": "Albert Campbell Collegiate Institute",
+    "address": "1550 Sandhurst Crcl",
+    "district": "Scarborough",
+    "lat": 43.8092625383141,
+    "lng": -79.272424472942,
+    "courtType": "school"
+  },
+  {
+    "name": "Avondale Secondary Alternative School ",
+    "address": "24 Silverview Dr",
+    "district": "North York",
+    "lat": 43.7863065106423,
+    "lng": -79.4118431542439,
+    "courtType": "school"
+  },
+  {
+    "name": "Birchmount Park Collegiate Institute ",
+    "address": "3663 Danforth Ave",
+    "district": "Scarborough",
+    "lat": 43.697753029491,
+    "lng": -79.2594545253619,
+    "courtType": "school"
+  },
+  {
+    "name": "Bishop Marrocco Thomas Merton Catholic Secondary School",
+    "address": "1515 Bloor St W",
+    "district": "Toronto",
+    "lat": 43.655857833558,
+    "lng": -79.4518077136626,
+    "courtType": "school"
+  },
+  {
+    "name": "Bloor C.I. & Alpha Ii Alternative",
+    "address": "1141 Bloor St W",
+    "district": "Toronto",
+    "lat": 43.6592551025075,
+    "lng": -79.4364436944014,
+    "courtType": "school"
+  },
+  {
+    "name": "Burnhamthorpe Collegiate & Adult Learning Centre ",
+    "address": "500 The East Mall",
+    "district": "Etobicoke",
+    "lat": 43.6491679256634,
+    "lng": -79.5616948758766,
+    "courtType": "school"
+  },
+  {
+    "name": "C W Jefferys Collegiate Institute",
+    "address": "340 Sentinel Rd",
+    "district": "North York",
+    "lat": 43.7582792583815,
+    "lng": -79.4999125095246,
+    "courtType": "school"
+  },
+  {
+    "name": "Cedarbrae Collegiate Institute",
+    "address": "550 Markham Rd",
+    "district": "Scarborough",
+    "lat": 43.7563408988376,
+    "lng": -79.2259248559894,
+    "courtType": "school"
+  },
+  {
+    "name": "Central Etobicoke High School",
+    "address": "10 Denfield St",
+    "district": "Etobicoke",
+    "lat": 43.6790185578849,
+    "lng": -79.5554889336889,
+    "courtType": "school"
+  },
+  {
+    "name": "Danforth Collegiate & Greenwood Secondary School",
+    "address": "800 Greenwood Ave",
+    "district": "Toronto",
+    "lat": 43.6828387343202,
+    "lng": -79.3340895606897,
+    "courtType": "school"
+  },
+  {
+    "name": "David And Mary Thomson Collegiate",
+    "address": "125 Brockley Dr",
+    "district": "Scarborough",
+    "lat": 43.7556700504937,
+    "lng": -79.263401268509,
+    "courtType": "school"
+  },
+  {
+    "name": "Delphi Secondary Alternative School ",
+    "address": "109A Chartland Blvd S",
+    "district": "Scarborough",
+    "lat": 43.8000076946308,
+    "lng": -79.2784362332866,
+    "courtType": "school"
+  },
+  {
+    "name": "Don Mills Collegiate Institute",
+    "address": "15 The Donway E",
+    "district": "North York",
+    "lat": 43.7359592881657,
+    "lng": -79.339277147401,
+    "courtType": "school"
+  },
+  {
+    "name": "Downsview Secondary School",
+    "address": "7 Hawksdale Rd",
+    "district": "North York",
+    "lat": 43.7308678403515,
+    "lng": -79.4795174892873,
+    "courtType": "school"
+  },
+  {
+    "name": "Dr Norman Bethune Collegiate Institute",
+    "address": "200 Fundy Bay Blvd",
+    "district": "Scarborough",
+    "lat": 43.8121621401057,
+    "lng": -79.3194284089425,
+    "courtType": "school"
+  },
+  {
+    "name": "Drewry Secondary School",
+    "address": "70 Drewry Ave",
+    "district": "North York",
+    "lat": 43.7869814732506,
+    "lng": -79.421213687216,
+    "courtType": "school"
+  },
+  {
+    "name": "Earl Haig Secondary School",
+    "address": "100 Princess Ave",
+    "district": "North York",
+    "lat": 43.7696090327771,
+    "lng": -79.4059659483565,
+    "courtType": "school"
+  },
+  {
+    "name": "East York Alternative Secondary School",
+    "address": "670 Cosburn Ave",
+    "district": "East York",
+    "lat": 43.6949913553145,
+    "lng": -79.3252956395229,
+    "courtType": "school"
+  },
+  {
+    "name": "East York Collegiate Institute",
+    "address": "650 Cosburn Ave",
+    "district": "East York",
+    "lat": 43.6949906148821,
+    "lng": -79.3275764481259,
+    "courtType": "school"
+  },
+  {
+    "name": "Eastdale Collegiate Institute",
+    "address": "701 Gerrard St E",
+    "district": "Toronto",
+    "lat": 43.6659265701789,
+    "lng": -79.3488189225485,
+    "courtType": "school"
+  },
+  {
+    "name": "Emery C.I. & Emery Edvance Adult Learning Centre",
+    "address": "3395 Weston Rd",
+    "district": "North York",
+    "lat": 43.7487227091093,
+    "lng": -79.5395569845548,
+    "courtType": "school"
+  },
+  {
+    "name": "Etobicoke Collegiate Institute",
+    "address": "86 Montgomery Rd",
+    "district": "Etobicoke",
+    "lat": 43.6500842008403,
+    "lng": -79.522296213866,
+    "courtType": "school"
+  },
+  {
+    "name": "Etobicoke Secondary Alternative School ",
+    "address": "160 Silverhill Dr",
+    "district": "Etobicoke",
+    "lat": 43.6338578460427,
+    "lng": -79.551276113705,
+    "courtType": "school"
+  },
+  {
+    "name": "Father Henry Carr Catholic Secondary School",
+    "address": "1760 Martin Grove Rd",
+    "district": "Etobicoke",
+    "lat": 43.7357651008297,
+    "lng": -79.5922999387415,
+    "courtType": "school"
+  },
+  {
+    "name": "Father John Redmond Catholic Secondary School",
+    "address": "28 Colonel Samuel Smith Park Dr",
+    "district": "Etobicoke",
+    "lat": 43.5951413486312,
+    "lng": -79.5165387692932,
+    "courtType": "school"
+  },
+  {
+    "name": "Fisherville Sr & N/W Secondary Alternative",
+    "address": "425 Patricia Ave",
+    "district": "North York",
+    "lat": 43.784556440757,
+    "lng": -79.4411616324684,
+    "courtType": "school"
+  },
+  {
+    "name": "Forest Hill Collegiate Institute",
+    "address": "730 Eglinton Ave W",
+    "district": "Toronto",
+    "lat": 43.7030582555106,
+    "lng": -79.4213427841136,
+    "courtType": "school"
+  },
+  {
+    "name": "Francis Libermann Catholic High School",
+    "address": "4640 Finch Ave E",
+    "district": "Scarborough",
+    "lat": 43.8073923412217,
+    "lng": -79.2743078384998,
+    "courtType": "school"
+  },
+  {
+    "name": "Frank Oke Secondary School",
+    "address": "500 Alliance Ave",
+    "district": "York",
+    "lat": 43.677512419216,
+    "lng": -79.4887542282147,
+    "courtType": "school"
+  },
+  {
+    "name": "Georges Vanier Secondary School ",
+    "address": "3000 Don Mills Rd E",
+    "district": "North York",
+    "lat": 43.7831172284439,
+    "lng": -79.3509063859672,
+    "courtType": "school"
+  },
+  {
+    "name": "Harbord Collegiate Institute",
+    "address": "286 Harbord St",
+    "district": "Toronto",
+    "lat": 43.6612895164804,
+    "lng": -79.4142666153396,
+    "courtType": "school"
+  },
+  {
+    "name": "Heydon Park Secondary School",
+    "address": "70 D'Arcy St",
+    "district": "Toronto",
+    "lat": 43.6549646089495,
+    "lng": -79.394534752422,
+    "courtType": "school"
+  },
+  {
+    "name": "Humberside Collegiate Institute",
+    "address": "280 Quebec Ave",
+    "district": "Toronto",
+    "lat": 43.6599427156923,
+    "lng": -79.4706428031364,
+    "courtType": "school"
+  },
+  {
+    "name": "James Cardinal Mcguigan Catholic High School",
+    "address": "1440 Finch Ave W",
+    "district": "North York",
+    "lat": 43.7632895737898,
+    "lng": -79.4937985997307,
+    "courtType": "school"
+  },
+  {
+    "name": "Jarvis Collegiate Institute",
+    "address": "495 Jarvis St",
+    "district": "Toronto",
+    "lat": 43.6660913938656,
+    "lng": -79.3777587671164,
+    "courtType": "school"
+  },
+  {
+    "name": "John Buchan Sr & Stephen Leacock C.I.",
+    "address": "2450 Birchmount Rd",
+    "district": "Scarborough",
+    "lat": 43.7851820434334,
+    "lng": -79.3021342614181,
+    "courtType": "school"
+  },
+  {
+    "name": "John Polanyi Collegiate Institute",
+    "address": "640 Lawrence Ave W",
+    "district": "North York",
+    "lat": 43.7178089516362,
+    "lng": -79.439855309525,
+    "courtType": "school"
+  },
+  {
+    "name": "Kipling Collegiate Institute ",
+    "address": "380 The Westway",
+    "district": "Etobicoke",
+    "lat": 43.685288122965,
+    "lng": -79.5623537178777,
+    "courtType": "school"
+  },
+  {
+    "name": "Lakeshore Collegiate Institute",
+    "address": "350 Kipling Ave",
+    "district": "Etobicoke",
+    "lat": 43.6015634242313,
+    "lng": -79.5191606370668,
+    "courtType": "school"
+  },
+  {
+    "name": "L'Amoreaux Collegiate Institute",
+    "address": "2501 Bridletowne Crcl",
+    "district": "Scarborough",
+    "lat": 43.80291776814,
+    "lng": -79.3180737471701,
+    "courtType": "school"
+  },
+  {
+    "name": "Lawrence Park Collegiate Institute",
+    "address": "125 Chatsworth Dr",
+    "district": "Toronto",
+    "lat": 43.7222227051645,
+    "lng": -79.4104390774942,
+    "courtType": "school"
+  },
+  {
+    "name": "Leaside High School ",
+    "address": "200 Hanna Rd",
+    "district": "East York",
+    "lat": 43.7110428289168,
+    "lng": -79.3725387473782,
+    "courtType": "school"
+  },
+  {
+    "name": "Lester B Pearson Collegiate Institute",
+    "address": "150 Tapscott Rd",
+    "district": "Scarborough",
+    "lat": 43.8033727841338,
+    "lng": -79.2258580493407,
+    "courtType": "school"
+  },
+  {
+    "name": "Loretto Abbey Catholic Secondary School",
+    "address": "101 Mason Blvd",
+    "district": "North York",
+    "lat": 43.7412253212478,
+    "lng": -79.4110818263627,
+    "courtType": "school"
+  },
+  {
+    "name": "Madonna Catholic Secondary School",
+    "address": "20 Dubray Ave",
+    "district": "North York",
+    "lat": 43.729416395539,
+    "lng": -79.4774829361901,
+    "courtType": "school"
+  },
+  {
+    "name": "Malvern Collegiate Institute",
+    "address": "55 Malvern Ave",
+    "district": "Toronto",
+    "lat": 43.6829141497208,
+    "lng": -79.2929363320519,
+    "courtType": "school"
+  },
+  {
+    "name": "Maplewood High School",
+    "address": "120 Galloway Rd",
+    "district": "Scarborough",
+    "lat": 43.7588978527975,
+    "lng": -79.1948946345862,
+    "courtType": "school"
+  },
+  {
+    "name": "Marc Garneau Collegiate Institute",
+    "address": "135 Overlea Blvd",
+    "district": "North York",
+    "lat": 43.7089756853719,
+    "lng": -79.3349679464078,
+    "courtType": "school"
+  },
+  {
+    "name": "Marshall Mcluhan Catholic Secondary School",
+    "address": "1107 Avenue Rd",
+    "district": "Toronto",
+    "lat": 43.7076002456651,
+    "lng": -79.4097351629606,
+    "courtType": "school"
+  },
+  {
+    "name": "Martingrove Collegiate Institute",
+    "address": "50 Winterton Dr",
+    "district": "Etobicoke",
+    "lat": 43.6733827722511,
+    "lng": -79.5607396403649,
+    "courtType": "school"
+  },
+  {
+    "name": "Mary Ward Catholic Secondary School",
+    "address": "3200 Kennedy Rd",
+    "district": "Scarborough",
+    "lat": 43.8157534238129,
+    "lng": -79.3039400656995,
+    "courtType": "school"
+  },
+  {
+    "name": "Michael Power St Joseph Catholic High School",
+    "address": "105 Eringate Dr",
+    "district": "Etobicoke",
+    "lat": 43.6592899896851,
+    "lng": -79.5819840831399,
+    "courtType": "school"
+  },
+  {
+    "name": "Michelle-O'Bonsawin Secondary School",
+    "address": "24 Mountjoy Ave",
+    "district": "Toronto",
+    "lat": 43.6807876480904,
+    "lng": -79.3305895595417,
+    "courtType": "school"
+  },
+  {
+    "name": "Monarch Park Collegiate & School Of Life Experience",
+    "address": "1 Hanson St",
+    "district": "Toronto",
+    "lat": 43.6792807307855,
+    "lng": -79.3227718925618,
+    "courtType": "school"
+  },
+  {
+    "name": "Monsignor Percy Johnson Catholic Secondary School",
+    "address": "2170 Kipling Ave",
+    "district": "Etobicoke",
+    "lat": 43.7206946675235,
+    "lng": -79.5720168731971,
+    "courtType": "school"
+  },
+  {
+    "name": "Neil Mcneil Catholic High School",
+    "address": "127 Victoria Park Ave",
+    "district": "Scarborough",
+    "lat": 43.6792997723282,
+    "lng": -79.2828981618609,
+    "courtType": "school"
+  },
+  {
+    "name": "Newtonbrook Secondary School",
+    "address": "155 Hilda Ave",
+    "district": "North York",
+    "lat": 43.7935491354672,
+    "lng": -79.4262425900561,
+    "courtType": "school"
+  },
+  {
+    "name": "North Albion Collegiate Institute ",
+    "address": "2580 Kipling Ave",
+    "district": "Etobicoke",
+    "lat": 43.7471415785069,
+    "lng": -79.585142778825,
+    "courtType": "school"
+  },
+  {
+    "name": "North Toronto Collegiate Institute",
+    "address": "17 Broadway Ave",
+    "district": "Toronto",
+    "lat": 43.7098067339604,
+    "lng": -79.3966000753378,
+    "courtType": "school"
+  },
+  {
+    "name": "Northern Secondary School",
+    "address": "851 Mount Pleasant Rd",
+    "district": "Toronto",
+    "lat": 43.7105370975811,
+    "lng": -79.3901642998392,
+    "courtType": "school"
+  },
+  {
+    "name": "Northview Heights Secondary School",
+    "address": "550 Finch Ave W",
+    "district": "North York",
+    "lat": 43.7738827738809,
+    "lng": -79.4461177069985,
+    "courtType": "school"
+  },
+  {
+    "name": "Notre Dame Catholic High School",
+    "address": "12 Malvern Ave",
+    "district": "Toronto",
+    "lat": 43.6806857787975,
+    "lng": -79.2931313771107,
+    "courtType": "school"
+  },
+  {
+    "name": "Oakwood Collegiate Institute",
+    "address": "991 St Clair Ave W",
+    "district": "Toronto",
+    "lat": 43.6786558887327,
+    "lng": -79.4363790055539,
+    "courtType": "school"
+  },
+  {
+    "name": "Parkdale Collegiate Institute",
+    "address": "209 Jameson Ave",
+    "district": "Toronto",
+    "lat": 43.6396575139163,
+    "lng": -79.4360685050841,
+    "courtType": "school"
+  },
+  {
+    "name": "Pleasant View Jr High School",
+    "address": "175 Brian Dr",
+    "district": "North York",
+    "lat": 43.7874877559234,
+    "lng": -79.3339032144143,
+    "courtType": "school"
+  },
+  {
+    "name": "Richview Collegiate Institute ",
+    "address": "1738 Islington Ave",
+    "district": "Etobicoke",
+    "lat": 43.6786465333719,
+    "lng": -79.5395009465865,
+    "courtType": "school"
+  },
+  {
+    "name": "Riverdale Collegiate Institute",
+    "address": "1094 Gerrard St E",
+    "district": "Toronto",
+    "lat": 43.6700476981757,
+    "lng": -79.3348598191726,
+    "courtType": "school"
+  },
+  {
+    "name": "Runnymede Collegiate & Mountview Alternative",
+    "address": "569 Jane St",
+    "district": "York",
+    "lat": 43.6635322654948,
+    "lng": -79.4898113825241,
+    "courtType": "school"
+  },
+  {
+    "name": "Satec At W A Porter Collegiate Institute",
+    "address": "40 Fairfax Cres",
+    "district": "Scarborough",
+    "lat": 43.7165934572119,
+    "lng": -79.2872695164287,
+    "courtType": "school"
+  },
+  {
+    "name": "Silverthorn Collegiate Institute",
+    "address": "291 Mill Rd",
+    "district": "Etobicoke",
+    "lat": 43.6378359132721,
+    "lng": -79.5803885455116,
+    "courtType": "school"
+  },
+  {
+    "name": "Sir John A Macdonald Collegiate Institute ",
+    "address": "2300 Pharmacy Ave",
+    "district": "Scarborough",
+    "lat": 43.7870773578969,
+    "lng": -79.3236705089564,
+    "courtType": "school"
+  },
+  {
+    "name": "Sir Oliver Mowat Collegiate Institute",
+    "address": "5400 Lawrence Ave E",
+    "district": "Scarborough",
+    "lat": 43.7793019336324,
+    "lng": -79.1422383098415,
+    "courtType": "school"
+  },
+  {
+    "name": "St John Henry Newman Catholic High School",
+    "address": "100 Brimley Rd S",
+    "district": "Scarborough",
+    "lat": 43.7147788010578,
+    "lng": -79.2404353720764,
+    "courtType": "school"
+  },
+  {
+    "name": "St John Henry Newman Catholic High School (Future Site)",
+    "address": "2685 Kingston Rd",
+    "district": "Scarborough",
+    "lat": 43.7169075119675,
+    "lng": -79.2408618204948,
+    "courtType": "school"
+  },
+  {
+    "name": "St John Paul Ii Catholic Secondary School",
+    "address": "685 Military Trl",
+    "district": "Scarborough",
+    "lat": 43.7900759206163,
+    "lng": -79.1993630894791,
+    "courtType": "school"
+  },
+  {
+    "name": "St Joseph'S Morrow Park Catholic Secondary School",
+    "address": "3338 Bayview Ave",
+    "district": "North York",
+    "lat": 43.7927117467235,
+    "lng": -79.3945883858887,
+    "courtType": "school"
+  },
+  {
+    "name": "St Mary Catholic Academy Secondary School ",
+    "address": "66 Dufferin Park Ave",
+    "district": "Toronto",
+    "lat": 43.6577935996839,
+    "lng": -79.4321542870877,
+    "courtType": "school"
+  },
+  {
+    "name": "St Michael'S Choir School - Secondary ",
+    "address": "69 Bond St",
+    "district": "Toronto",
+    "lat": 43.6555361616688,
+    "lng": -79.3777294123857,
+    "courtType": "school"
+  },
+  {
+    "name": "St Oscar Romero Catholic Secondary School",
+    "address": "99 Humber Blvd",
+    "district": "York",
+    "lat": 43.6803090053029,
+    "lng": -79.4810172796167,
+    "courtType": "school"
+  },
+  {
+    "name": "St Patrick Catholic Secondary School",
+    "address": "45 Felstead Ave",
+    "district": "Toronto",
+    "lat": 43.6781739911234,
+    "lng": -79.3282613925079,
+    "courtType": "school"
+  },
+  {
+    "name": "Thistletown Collegiate Institute",
+    "address": "20 Fordwich Cres",
+    "district": "Etobicoke",
+    "lat": 43.7277265566382,
+    "lng": -79.5624526489507,
+    "courtType": "school"
+  },
+  {
+    "name": "Victoria Park Collegiate Institute",
+    "address": "15 Wallingford Rd",
+    "district": "North York",
+    "lat": 43.7560593384022,
+    "lng": -79.321464421707,
+    "courtType": "school"
+  },
+  {
+    "name": "West Hill Collegiate Institute",
+    "address": "350 Morningside Ave",
+    "district": "Scarborough",
+    "lat": 43.7756684257862,
+    "lng": -79.1905875661913,
+    "courtType": "school"
+  },
+  {
+    "name": "West Humber Collegiate Institute",
+    "address": "1675 Martin Grove Rd",
+    "district": "Etobicoke",
+    "lat": 43.7309224094366,
+    "lng": -79.5867053925658,
+    "courtType": "school"
+  },
+  {
+    "name": "Weston Collegiate Institute",
+    "address": "100 Pine St",
+    "district": "York",
+    "lat": 43.7038163110412,
+    "lng": -79.5094217518773,
+    "courtType": "school"
+  },
+  {
+    "name": "Westview Centennial High School",
+    "address": "755 Oakdale Rd",
+    "district": "North York",
+    "lat": 43.7523976347813,
+    "lng": -79.5250905310153,
+    "courtType": "school"
+  },
+  {
+    "name": "Wexford Collegiate School For The Arts",
+    "address": "1176 Pharmacy Ave",
+    "district": "Scarborough",
+    "lat": 43.7461595742932,
+    "lng": -79.3067953750859,
+    "courtType": "school"
+  },
+  {
+    "name": "William Lyon Mackenzie Collegiate Institute ",
+    "address": "20 Tillplain Rd",
+    "district": "North York",
+    "lat": 43.7534709581119,
+    "lng": -79.4618941501249,
+    "courtType": "school"
+  },
+  {
+    "name": "Winston Churchill Collegiate Institute ",
+    "address": "2239 Lawrence Ave E",
+    "district": "Scarborough",
+    "lat": 43.7480914839731,
+    "lng": -79.2783774186933,
+    "courtType": "school"
+  },
+  {
+    "name": "Woburn Collegiate Institute ",
+    "address": "2222 Ellesmere Rd",
+    "district": "Scarborough",
+    "lat": 43.7781651122844,
+    "lng": -79.2284585858987,
+    "courtType": "school"
+  },
+  {
+    "name": "Woodbine Jr High & N/E Secondary Alternative",
+    "address": "2900 Don Mills Rd E",
+    "district": "North York",
+    "lat": 43.7824288154923,
+    "lng": -79.349385410988,
+    "courtType": "school"
+  },
+  {
+    "name": "York Humber High School ",
+    "address": "100 Emmett Ave",
+    "district": "York",
+    "lat": 43.6885691951614,
+    "lng": -79.506177459366,
+    "courtType": "school"
+  },
+  {
+    "name": "York Memorial Collegiate Institute",
+    "address": "1700 Keele St",
+    "district": "York",
+    "lat": 43.6845465069876,
+    "lng": -79.473699193678,
+    "courtType": "school"
+  },
+  {
+    "name": "York Memorial Collegiate Institute (Under Construction)",
+    "address": "2690 Eglinton Ave W",
+    "district": "York",
+    "lat": 43.6902787238341,
+    "lng": -79.4762398021686,
+    "courtType": "school"
+  },
+  {
+    "name": "York Mills Collegiate Institute",
+    "address": "490 York Mills Rd",
+    "district": "North York",
+    "lat": 43.7515290541848,
+    "lng": -79.3735238955731,
+    "courtType": "school"
+  },
+  {
+    "name": "Yorkdale Secondary School & Adult Learning Centre",
+    "address": "38 Orfus Rd",
+    "district": "North York",
+    "lat": 43.7201620650265,
+    "lng": -79.4597250980034,
+    "courtType": "school"
+  },
+  {
+    "name": "Zion Heights Jr High School",
+    "address": "5900 Leslie St",
+    "district": "North York",
+    "lat": 43.7979149025647,
+    "lng": -79.3710972374637,
+    "courtType": "school"
+  }
+]

@@ -76,5 +76,9 @@
     "vite": "catalog:",
     "wouter": "^3.3.5",
     "zod": "catalog:"
+  },
+  "dependencies": {
+    "@types/leaflet.markercluster": "^1.5.6",
+    "leaflet.markercluster": "^1.5.3"
   }
 }

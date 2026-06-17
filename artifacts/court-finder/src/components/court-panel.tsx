@@ -32,7 +32,7 @@ export function CourtPanel({ court, onClose }: CourtPanelProps) {
   
   const handleUpdate = () => {
     updatePlayers.mutate(
-      { params: { id: court.id }, data: { currentPlayers, playersNeeded } },
+      { id: court.id, data: { currentPlayers, playersNeeded } },
       {
         onSuccess: () => {
           queryClient.invalidateQueries({ queryKey: getListCourtsQueryKey() })
