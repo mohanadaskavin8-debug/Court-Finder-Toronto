@@ -1,1 +1,1 @@
-- [Court Finder data & seeding](court-finder-data.md) — 219 courts: city Open Data parks + inferred TDSB/TCDSB high schools; reseed from scripts/data/toronto-courts.json.
+- [Court Finder data & seeding](court-finder-data.md) — 726 courts: city Open Data parks + inferred TDSB/TCDSB elementary/middle schools (high schools excluded by name); reseed from scripts/data/toronto-courts.json.

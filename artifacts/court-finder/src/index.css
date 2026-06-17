@@ -369,3 +369,43 @@
     inset: -1px;
   }
 }
+
+/* ---- MapLibre GL dark theming (FAANG-grade chrome) ---- */
+.maplibregl-ctrl-group {
+  background: rgba(10, 15, 20, 0.8) !important;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+  border-radius: 0.7rem !important;
+  overflow: hidden;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.55) !important;
+}
+.maplibregl-ctrl-group button {
+  background: transparent !important;
+  width: 34px !important;
+  height: 34px !important;
+}
+.maplibregl-ctrl-group button + button {
+  border-top: 1px solid rgba(255, 255, 255, 0.08) !important;
+}
+.maplibregl-ctrl button:hover {
+  background: rgba(34, 211, 238, 0.16) !important;
+}
+.maplibregl-ctrl button .maplibregl-ctrl-icon {
+  filter: invert(1) brightness(1.5);
+}
+.maplibregl-ctrl-attrib.maplibregl-compact {
+  background: rgba(10, 15, 20, 0.7) !important;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-radius: 0.5rem;
+}
+.maplibregl-ctrl-attrib a {
+  color: rgba(255, 255, 255, 0.5) !important;
+}
+.maplibregl-ctrl-attrib-button {
+  filter: invert(1);
+}
+.maplibregl-canvas:focus {
+  outline: none;
+}

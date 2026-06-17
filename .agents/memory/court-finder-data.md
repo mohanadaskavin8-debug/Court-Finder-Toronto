@@ -1,22 +1,28 @@
 ---
 name: Toronto Court Finder data provenance & seeding
-description: Where the 219 courts come from, how districts are assigned, and how to reseed reproducibly
+description: Where the 726 courts come from, how school courts are filtered to elementary/middle, district assignment, and reproducible seeding
 ---
 
-# Court dataset
+# Court dataset (726 courts)
 
-- 119 park/community-centre courts from City of Toronto Open Data (Parks & Recreation Facilities, AMENITIES contains "Basketball Court").
-- 100 TDSB/TCDSB high-school courts.
+- 115 park + 4 community-centre courts from City of Toronto Open Data (Parks & Recreation Facilities, AMENITIES contains "Basketball Court").
+- 607 TDSB/TCDSB **elementary/middle** school courts.
 
-## School courts are INFERRED, not verified
-The schools dataset has no basketball-court flag and no usable grade-level field (`SCHOOL_LEVEL` is empty for all rows). High schools are identified by name pattern (`collegiate|secondary|high school|C.I.|S.S.`) restricted to the two big public boards (TDSB + TCDSB) to avoid storefront private "academies" that the name pattern otherwise catches.
-**Why:** there is no ground-truth list of which schools have outdoor courts; public high schools reliably do.
-**How to apply:** present school courts (`courtType: "school"`) as likely/inferred, never as confirmed. Name-only heuristics misclassify private schools, so always gate on board.
+## School courts are ELEMENTARY/MIDDLE and INFERRED, not verified
+The schools dataset has no basketball-court flag and **no usable grade-level field**: `SCHOOL_LEVEL` is null for every one of the ~1173 rows. The only governance signal is `SCHOOL_TYPE` (EP=English Public/TDSB, ES=English Separate/TCDSB, PR=Private, U=University, C=College, FP/FS=French). So grade level can only be inferred from the **school name**.
+
+Rule (high precision against including high schools): **drop a school iff its name matches a high-school/post-secondary pattern AND lacks an elementary/middle marker.**
+- HS pattern: `secondary|secondaire|high school|collegiate|c.i|c.v.i|vocational|technical|institute|college|school of the arts|academy|ss`
+- elem/middle marker (overrides HS pattern): `jr|junior|sr|senior|middle|mdl|elementary|élémentaire/elementaire|public school|early learning|montessori|primary|community school`
+- Also drop: any "Monsignor Fraser" campus (Catholic HS), admin/board buildings (`program and special|special services|education centre|board office|administration`), and closed locations (`(closed...)`).
+
+**Why the marker override matters:** "Academy" is ambiguous — Bishop Allen / R H King / Cardinal Carter Academy are high schools, but Donview **Middle** …Academy, Elmbank **Jr Mdl** Academy, Fraser Mustard **Early Learning** Academy, and the TCDSB "X Catholic Academy" new-builds (Epiphany of Our Lord, St Joan of Arc, St Mother Teresa) are elementary/middle. Bare "Public … Academy" (e.g. Shoreham) is also elementary — note the marker is "public school" OR standalone "public".
+**How to apply:** present school courts (`courtType: "school"`) as likely/inferred, never confirmed. The heuristic can still mis-handle a few oddly-named schools; that is an accepted tradeoff biased toward *excluding* high schools.
 
 ## District assignment
-The `neighborhood` column = nearest-school `MUNICIPALITY` label (district codes ET/TO/NY/SC/EY/YK → Etobicoke/Toronto/North York/Scarborough/East York/York). No district polygon is used. Districts present: Scarborough, North York, Toronto, York, Etobicoke, East York.
+The `neighborhood`/district = the school's own `MUNICIPALITY` code mapped ET/TO/NY/SC/EY/YK → Etobicoke/Toronto/North York/Scarborough/East York/York. No district polygon. Current counts: Scarborough 212, North York ~183, Toronto 144, Etobicoke 110, York 47, East York 27.
 
 ## Reproducibility rule
 The authoritative court list lives in `scripts/data/toronto-courts.json`. To change courts, edit that file and run `pnpm --filter @workspace/scripts run seed:courts` (DELETE + bulk insert).
-**Why:** the DB is the only place the data lived originally; a fresh env or deploy starts empty and must reseed from the JSON.
-**How to apply:** never hand-mutate the courts table for data changes. Player counts are demo weighted-random (most courts empty) so exact active counts differ each reseed — that is expected, the court list itself is deterministic.
+**Why:** the DB starts empty on a fresh env/deploy and must reseed from the JSON.
+**How to apply:** never hand-mutate the courts table for data changes. Player counts are demo weighted-random (most courts empty) so exact active counts differ each reseed — expected; the court list itself is deterministic.

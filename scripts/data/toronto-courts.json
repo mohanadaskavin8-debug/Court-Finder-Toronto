@@ -952,803 +952,4859 @@
     "courtType": "community"
   },
   {
-    "name": "St Patrick Catholic Secondary School",
-    "address": "49 Felstead Ave",
-    "district": "Toronto",
-    "lat": 43.6783223029713,
-    "lng": -79.3276494865718,
-    "courtType": "school"
-  },
-  {
-    "name": "A Y Jackson Secondary School",
-    "address": "50 Francine Dr",
-    "district": "North York",
-    "lat": 43.8052613014219,
-    "lng": -79.3665552934095,
-    "courtType": "school"
-  },
-  {
-    "name": "Agincourt Collegiate Institute",
-    "address": "2621 Midland Ave",
+    "name": "Academie Alexandre Dumas",
+    "address": "255 Coronation Dr",
     "district": "Scarborough",
-    "lat": 43.7888738444071,
-    "lng": -79.2789099586918,
+    "lat": 43.7624188078436,
+    "lng": -79.1797652166975,
     "courtType": "school"
   },
   {
-    "name": "Albert Campbell Collegiate Institute",
-    "address": "1550 Sandhurst Crcl",
-    "district": "Scarborough",
-    "lat": 43.8092625383141,
-    "lng": -79.272424472942,
-    "courtType": "school"
-  },
-  {
-    "name": "Avondale Secondary Alternative School ",
-    "address": "24 Silverview Dr",
-    "district": "North York",
-    "lat": 43.7863065106423,
-    "lng": -79.4118431542439,
-    "courtType": "school"
-  },
-  {
-    "name": "Birchmount Park Collegiate Institute ",
-    "address": "3663 Danforth Ave",
-    "district": "Scarborough",
-    "lat": 43.697753029491,
-    "lng": -79.2594545253619,
-    "courtType": "school"
-  },
-  {
-    "name": "Bishop Marrocco Thomas Merton Catholic Secondary School",
-    "address": "1515 Bloor St W",
+    "name": "Adam Beck Jr Public School",
+    "address": "400 Scarborough Rd",
     "district": "Toronto",
-    "lat": 43.655857833558,
-    "lng": -79.4518077136626,
+    "lat": 43.6831518038006,
+    "lng": -79.2884878925608,
     "courtType": "school"
   },
   {
-    "name": "Bloor C.I. & Alpha Ii Alternative",
-    "address": "1141 Bloor St W",
-    "district": "Toronto",
-    "lat": 43.6592551025075,
-    "lng": -79.4364436944014,
+    "name": "Agincourt Jr Public School",
+    "address": "29 Lockie Ave",
+    "district": "Scarborough",
+    "lat": 43.7882592158345,
+    "lng": -79.2811623057309,
     "courtType": "school"
   },
   {
-    "name": "Burnhamthorpe Collegiate & Adult Learning Centre ",
-    "address": "500 The East Mall",
+    "name": "Agnes Macphail Public School",
+    "address": "112 Goldhawk Trl",
+    "district": "Scarborough",
+    "lat": 43.819268975669,
+    "lng": -79.2785533935458,
+    "courtType": "school"
+  },
+  {
+    "name": "Albion Heights Jr Mdl School",
+    "address": "45 Lynmont Rd",
     "district": "Etobicoke",
-    "lat": 43.6491679256634,
-    "lng": -79.5616948758766,
+    "lat": 43.7313882639787,
+    "lng": -79.5943154958931,
     "courtType": "school"
   },
   {
-    "name": "C W Jefferys Collegiate Institute",
-    "address": "340 Sentinel Rd",
-    "district": "North York",
-    "lat": 43.7582792583815,
-    "lng": -79.4999125095246,
-    "courtType": "school"
-  },
-  {
-    "name": "Cedarbrae Collegiate Institute",
-    "address": "550 Markham Rd",
+    "name": "Alexander Stirling Public School",
+    "address": "70 Fawcett Trl",
     "district": "Scarborough",
-    "lat": 43.7563408988376,
-    "lng": -79.2259248559894,
+    "lat": 43.8116563341027,
+    "lng": -79.2076059404946,
     "courtType": "school"
   },
   {
-    "name": "Central Etobicoke High School",
-    "address": "10 Denfield St",
+    "name": "Alexmuir Jr Public School",
+    "address": "95 Alexmuir Blvd",
+    "district": "Scarborough",
+    "lat": 43.809109322683,
+    "lng": -79.2856134903058,
+    "courtType": "school"
+  },
+  {
+    "name": "All Saints Catholic Elementary School",
+    "address": "1435 Royal York Rd",
     "district": "Etobicoke",
-    "lat": 43.6790185578849,
-    "lng": -79.5554889336889,
+    "lat": 43.6852216298202,
+    "lng": -79.5270811217707,
     "courtType": "school"
   },
   {
-    "name": "Danforth Collegiate & Greenwood Secondary School",
-    "address": "800 Greenwood Ave",
+    "name": "Allenby Jr Public School",
+    "address": "391 St Clements Ave",
     "district": "Toronto",
-    "lat": 43.6828387343202,
-    "lng": -79.3340895606897,
+    "lat": 43.7094356428595,
+    "lng": -79.4127877318278,
     "courtType": "school"
   },
   {
-    "name": "David And Mary Thomson Collegiate",
-    "address": "125 Brockley Dr",
+    "name": "Alvin Curling Public School",
+    "address": "50 Upper Rouge Trl",
     "district": "Scarborough",
-    "lat": 43.7556700504937,
-    "lng": -79.263401268509,
+    "lat": 43.8084816562815,
+    "lng": -79.1902392505261,
     "courtType": "school"
   },
   {
-    "name": "Delphi Secondary Alternative School ",
-    "address": "109A Chartland Blvd S",
+    "name": "Amesbury Mdl School",
+    "address": "201 Gracefield Ave",
+    "district": "North York",
+    "lat": 43.7083877022289,
+    "lng": -79.4936442925421,
+    "courtType": "school"
+  },
+  {
+    "name": "Ancaster Public School",
+    "address": "44 Ancaster Rd",
+    "district": "North York",
+    "lat": 43.732866171726,
+    "lng": -79.4669926271694,
+    "courtType": "school"
+  },
+  {
+    "name": "Annunciation Catholic Elementary School",
+    "address": "65 Avonwick Gt",
+    "district": "North York",
+    "lat": 43.7531144810912,
+    "lng": -79.3210503278597,
+    "courtType": "school"
+  },
+  {
+    "name": "Anson Park Public School",
+    "address": "30 Macduff Cres",
     "district": "Scarborough",
-    "lat": 43.8000076946308,
-    "lng": -79.2784362332866,
+    "lat": 43.7261289165667,
+    "lng": -79.2411154201694,
     "courtType": "school"
   },
   {
-    "name": "Don Mills Collegiate Institute",
-    "address": "15 The Donway E",
-    "district": "North York",
-    "lat": 43.7359592881657,
-    "lng": -79.339277147401,
-    "courtType": "school"
-  },
-  {
-    "name": "Downsview Secondary School",
-    "address": "7 Hawksdale Rd",
-    "district": "North York",
-    "lat": 43.7308678403515,
-    "lng": -79.4795174892873,
-    "courtType": "school"
-  },
-  {
-    "name": "Dr Norman Bethune Collegiate Institute",
-    "address": "200 Fundy Bay Blvd",
+    "name": "Anson S Taylor Jr Public School",
+    "address": "20 Placentia Blvd",
     "district": "Scarborough",
-    "lat": 43.8121621401057,
-    "lng": -79.3194284089425,
+    "lat": 43.8042919764275,
+    "lng": -79.2615613356444,
     "courtType": "school"
   },
   {
-    "name": "Drewry Secondary School",
-    "address": "70 Drewry Ave",
+    "name": "Arbor Glen Public School",
+    "address": "55 Freshmeadow Dr",
     "district": "North York",
-    "lat": 43.7869814732506,
-    "lng": -79.421213687216,
+    "lat": 43.8094863867353,
+    "lng": -79.3557094447754,
     "courtType": "school"
   },
   {
-    "name": "Earl Haig Secondary School",
-    "address": "100 Princess Ave",
+    "name": "Armour Heights Public School",
+    "address": "148 Wilson Ave",
     "district": "North York",
-    "lat": 43.7696090327771,
-    "lng": -79.4059659483565,
+    "lat": 43.7409100432478,
+    "lng": -79.4195222787578,
     "courtType": "school"
   },
   {
-    "name": "East York Alternative Secondary School",
-    "address": "670 Cosburn Ave",
+    "name": "Bala Avenue Community School",
+    "address": "6 Bala Ave",
+    "district": "York",
+    "lat": 43.6894622237887,
+    "lng": -79.4990122716087,
+    "courtType": "school"
+  },
+  {
+    "name": "Balmy Beach Community School",
+    "address": "14 Pine Ave",
+    "district": "Toronto",
+    "lat": 43.6764359194877,
+    "lng": -79.289826941499,
+    "courtType": "school"
+  },
+  {
+    "name": "Banting And Best Public School",
+    "address": "380 Goldhawk Trl",
+    "district": "Scarborough",
+    "lat": 43.8268714163484,
+    "lng": -79.2798335039423,
+    "courtType": "school"
+  },
+  {
+    "name": "Bayview Middle School",
+    "address": "25 Bunty Lane",
+    "district": "North York",
+    "lat": 43.7762622265316,
+    "lng": -79.3852946788356,
+    "courtType": "school"
+  },
+  {
+    "name": "Beaumonde Heights Jr Mdl School",
+    "address": "70 Monterrey Dr",
+    "district": "Etobicoke",
+    "lat": 43.7426035565314,
+    "lng": -79.5747551861525,
+    "courtType": "school"
+  },
+  {
+    "name": "Bedford Park Public School",
+    "address": "81 Ranleigh Ave",
+    "district": "Toronto",
+    "lat": 43.7277982581742,
+    "lng": -79.4002783723743,
+    "courtType": "school"
+  },
+  {
+    "name": "Bellmere Jr Public School",
+    "address": "470 Brimorton Dr",
+    "district": "Scarborough",
+    "lat": 43.7719692863916,
+    "lng": -79.23514687523,
+    "courtType": "school"
+  },
+  {
+    "name": "Bendale Jr Public School",
+    "address": "61 Benshire Dr",
+    "district": "Scarborough",
+    "lat": 43.7625671183697,
+    "lng": -79.2448802576444,
+    "courtType": "school"
+  },
+  {
+    "name": "Bennington Heights Elementary School",
+    "address": "76 Bennington Heights Dr",
     "district": "East York",
-    "lat": 43.6949913553145,
-    "lng": -79.3252956395229,
+    "lat": 43.6939854007409,
+    "lng": -79.3687780820258,
     "courtType": "school"
   },
   {
-    "name": "East York Collegiate Institute",
-    "address": "650 Cosburn Ave",
+    "name": "Berner Trail Jr Public School",
+    "address": "120 Berner Trl",
+    "district": "Scarborough",
+    "lat": 43.8014341079073,
+    "lng": -79.2211413058912,
+    "courtType": "school"
+  },
+  {
+    "name": "Bessborough Drive Elementary School",
+    "address": "211 Bessborough Dr",
     "district": "East York",
-    "lat": 43.6949906148821,
-    "lng": -79.3275764481259,
+    "lat": 43.7072147378542,
+    "lng": -79.3701352031944,
     "courtType": "school"
   },
   {
-    "name": "Eastdale Collegiate Institute",
-    "address": "701 Gerrard St E",
-    "district": "Toronto",
-    "lat": 43.6659265701789,
-    "lng": -79.3488189225485,
-    "courtType": "school"
-  },
-  {
-    "name": "Emery C.I. & Emery Edvance Adult Learning Centre",
-    "address": "3395 Weston Rd",
+    "name": "Beverley Heights Mdl School",
+    "address": "26 Troutbrooke Dr",
     "district": "North York",
-    "lat": 43.7487227091093,
-    "lng": -79.5395569845548,
+    "lat": 43.7330245969919,
+    "lng": -79.5047717321441,
     "courtType": "school"
   },
   {
-    "name": "Etobicoke Collegiate Institute",
-    "address": "86 Montgomery Rd",
-    "district": "Etobicoke",
-    "lat": 43.6500842008403,
-    "lng": -79.522296213866,
-    "courtType": "school"
-  },
-  {
-    "name": "Etobicoke Secondary Alternative School ",
-    "address": "160 Silverhill Dr",
-    "district": "Etobicoke",
-    "lat": 43.6338578460427,
-    "lng": -79.551276113705,
-    "courtType": "school"
-  },
-  {
-    "name": "Father Henry Carr Catholic Secondary School",
-    "address": "1760 Martin Grove Rd",
-    "district": "Etobicoke",
-    "lat": 43.7357651008297,
-    "lng": -79.5922999387415,
-    "courtType": "school"
-  },
-  {
-    "name": "Father John Redmond Catholic Secondary School",
-    "address": "28 Colonel Samuel Smith Park Dr",
-    "district": "Etobicoke",
-    "lat": 43.5951413486312,
-    "lng": -79.5165387692932,
-    "courtType": "school"
-  },
-  {
-    "name": "Fisherville Sr & N/W Secondary Alternative",
-    "address": "425 Patricia Ave",
-    "district": "North York",
-    "lat": 43.784556440757,
-    "lng": -79.4411616324684,
-    "courtType": "school"
-  },
-  {
-    "name": "Forest Hill Collegiate Institute",
-    "address": "730 Eglinton Ave W",
-    "district": "Toronto",
-    "lat": 43.7030582555106,
-    "lng": -79.4213427841136,
-    "courtType": "school"
-  },
-  {
-    "name": "Francis Libermann Catholic High School",
-    "address": "4640 Finch Ave E",
+    "name": "Beverly Glen Jr Public School",
+    "address": "85 Beverly Glen Blvd",
     "district": "Scarborough",
-    "lat": 43.8073923412217,
-    "lng": -79.2743078384998,
+    "lat": 43.7986530998679,
+    "lng": -79.3230676298928,
     "courtType": "school"
   },
   {
-    "name": "Frank Oke Secondary School",
-    "address": "500 Alliance Ave",
+    "name": "Birch Cliff Heights Public School",
+    "address": "120 Highview Ave",
+    "district": "Scarborough",
+    "lat": 43.7017413937537,
+    "lng": -79.259816624788,
+    "courtType": "school"
+  },
+  {
+    "name": "Birch Cliff Public School",
+    "address": "1650 Kingston Rd",
+    "district": "Scarborough",
+    "lat": 43.6919887241508,
+    "lng": -79.2655686242961,
+    "courtType": "school"
+  },
+  {
+    "name": "Bishop Macdonell Catholic Elementary",
+    "address": "20 Brunel Crt",
+    "district": "Toronto",
+    "lat": 43.639270767533,
+    "lng": -79.3942756638905,
+    "courtType": "school"
+  },
+  {
+    "name": "Blacksmith Public School",
+    "address": "45 Blacksmith Cres",
+    "district": "North York",
+    "lat": 43.7711639591637,
+    "lng": -79.5268106869839,
+    "courtType": "school"
+  },
+  {
+    "name": "Blantyre Public School",
+    "address": "290 Blantyre Ave",
+    "district": "Scarborough",
+    "lat": 43.6851000843951,
+    "lng": -79.2838646531108,
+    "courtType": "school"
+  },
+  {
+    "name": "Blaydon Public School",
+    "address": "25 Blaydon Ave",
+    "district": "North York",
+    "lat": 43.735357222836,
+    "lng": -79.4862561391138,
+    "courtType": "school"
+  },
+  {
+    "name": "Blessed Margherita Of Citta Di Castello Catholic Elementary School",
+    "address": "108 Spenvalley Dr",
+    "district": "North York",
+    "lat": 43.7436724724678,
+    "lng": -79.5079140443714,
+    "courtType": "school"
+  },
+  {
+    "name": "Blessed Pier Giorgio Frassati Catholic Elementary School",
+    "address": "8 Seasons Dr",
+    "district": "Scarborough",
+    "lat": 43.8298752034525,
+    "lng": -79.2327375191257,
+    "courtType": "school"
+  },
+  {
+    "name": "Blessed Sacrament Catholic Elementary School",
+    "address": "24 Bedford Park Ave",
+    "district": "Toronto",
+    "lat": 43.7274816103799,
+    "lng": -79.4039975153705,
+    "courtType": "school"
+  },
+  {
+    "name": "Blessed Trinity Catholic Elementary School",
+    "address": "3205 Bayview Ave",
+    "district": "North York",
+    "lat": 43.7868975436176,
+    "lng": -79.391826199989,
+    "courtType": "school"
+  },
+  {
+    "name": "Bliss Carman Sr Public School",
+    "address": "10 Bellamy Rd S",
+    "district": "Scarborough",
+    "lat": 43.732648962951,
+    "lng": -79.2256018786147,
+    "courtType": "school"
+  },
+  {
+    "name": "Bloordale Mdl School",
+    "address": "10 Toledo Rd",
+    "district": "Etobicoke",
+    "lat": 43.6391456489153,
+    "lng": -79.5719465300651,
+    "courtType": "school"
+  },
+  {
+    "name": "Bloorlea Mdl School",
+    "address": "4050 Bloor St W",
+    "district": "Etobicoke",
+    "lat": 43.6376529320238,
+    "lng": -79.5556754935908,
+    "courtType": "school"
+  },
+  {
+    "name": "Blythwood Jr Public School",
+    "address": "2 Strathgowan Cres",
+    "district": "Toronto",
+    "lat": 43.7199314988808,
+    "lng": -79.3895057084414,
+    "courtType": "school"
+  },
+  {
+    "name": "Bon Berger Catholic Elementary School",
+    "address": "343 Jones Ave",
+    "district": "Toronto",
+    "lat": 43.6726264610924,
+    "lng": -79.3367397035768,
+    "courtType": "school"
+  },
+  {
+    "name": "Braeburn Jr School",
+    "address": "15 Tandridge Cres",
+    "district": "Etobicoke",
+    "lat": 43.7280298273892,
+    "lng": -79.5488638133372,
+    "courtType": "school"
+  },
+  {
+    "name": "Brian Public School",
+    "address": "95 Brian Dr",
+    "district": "North York",
+    "lat": 43.7824531904325,
+    "lng": -79.331933544035,
+    "courtType": "school"
+  },
+  {
+    "name": "Briarcrest Jr School",
+    "address": "60 Wellesworth Dr",
+    "district": "Etobicoke",
+    "lat": 43.6664657716455,
+    "lng": -79.5800752804407,
+    "courtType": "school"
+  },
+  {
+    "name": "Bridlewood Jr Public School",
+    "address": "60 Bridlewood Blvd",
+    "district": "Scarborough",
+    "lat": 43.7807962711677,
+    "lng": -79.3150953883817,
+    "courtType": "school"
+  },
+  {
+    "name": "Brimwood Boulevard Jr Public School",
+    "address": "151 Brimwood Blvd",
+    "district": "Scarborough",
+    "lat": 43.8116998848004,
+    "lng": -79.2740896574429,
+    "courtType": "school"
+  },
+  {
+    "name": "Broadacres Jr School",
+    "address": "45 Crendon Dr",
+    "district": "Etobicoke",
+    "lat": 43.6480667176351,
+    "lng": -79.5720207319543,
+    "courtType": "school"
+  },
+  {
+    "name": "Broadlands Public School",
+    "address": "106 Broadlands Blvd",
+    "district": "North York",
+    "lat": 43.7457277227854,
+    "lng": -79.316462271329,
+    "courtType": "school"
+  },
+  {
+    "name": "Brock Jr Public School",
+    "address": "93 Margueretta St",
+    "district": "Toronto",
+    "lat": 43.6530496924269,
+    "lng": -79.4378441314772,
+    "courtType": "school"
+  },
+  {
+    "name": "Brookhaven Public School",
+    "address": "70 Brookhaven Dr",
+    "district": "North York",
+    "lat": 43.702506311229,
+    "lng": -79.4956943989549,
+    "courtType": "school"
+  },
+  {
+    "name": "Brookmill Boulevard Jr Public School",
+    "address": "25 Brookmill Blvd",
+    "district": "Scarborough",
+    "lat": 43.80122038284,
+    "lng": -79.3148680045935,
+    "courtType": "school"
+  },
+  {
+    "name": "Brookside Public School",
+    "address": "75 Oasis Blvd",
+    "district": "Scarborough",
+    "lat": 43.8303652064155,
+    "lng": -79.2338532994675,
+    "courtType": "school"
+  },
+  {
+    "name": "Brown Jr Public School",
+    "address": "454 Avenue Rd",
+    "district": "Toronto",
+    "lat": 43.6849129181957,
+    "lng": -79.4013122747142,
+    "courtType": "school"
+  },
+  {
+    "name": "Bruce Jr Public School",
+    "address": "51 Larchmount Ave",
+    "district": "Toronto",
+    "lat": 43.6610358159785,
+    "lng": -79.3333360558731,
+    "courtType": "school"
+  },
+  {
+    "name": "Buchanan Public School",
+    "address": "4 Bucannan Rd",
+    "district": "Scarborough",
+    "lat": 43.7514123659806,
+    "lng": -79.2999282686155,
+    "courtType": "school"
+  },
+  {
+    "name": "Burrows Hall Jr Public School",
+    "address": "151 Burrows Hall Blvd",
+    "district": "Scarborough",
+    "lat": 43.792697960518,
+    "lng": -79.2288180080604,
+    "courtType": "school"
+  },
+  {
+    "name": "C D Farquharson Jr Public School",
+    "address": "1965 Brimley Rd",
+    "district": "Scarborough",
+    "lat": 43.784467159758,
+    "lng": -79.2661055358191,
+    "courtType": "school"
+  },
+  {
+    "name": "C R Marchant Mdl School",
+    "address": "1 Ralph St",
     "district": "York",
-    "lat": 43.677512419216,
-    "lng": -79.4887542282147,
+    "lat": 43.7017214781638,
+    "lng": -79.5129333966558,
     "courtType": "school"
   },
   {
-    "name": "Georges Vanier Secondary School ",
-    "address": "3000 Don Mills Rd E",
+    "name": "Calico Public School",
+    "address": "35 Calico Dr",
     "district": "North York",
-    "lat": 43.7831172284439,
-    "lng": -79.3509063859672,
+    "lat": 43.7379061764681,
+    "lng": -79.5035920382592,
     "courtType": "school"
   },
   {
-    "name": "Harbord Collegiate Institute",
-    "address": "286 Harbord St",
-    "district": "Toronto",
-    "lat": 43.6612895164804,
-    "lng": -79.4142666153396,
-    "courtType": "school"
-  },
-  {
-    "name": "Heydon Park Secondary School",
-    "address": "70 D'Arcy St",
-    "district": "Toronto",
-    "lat": 43.6549646089495,
-    "lng": -79.394534752422,
-    "courtType": "school"
-  },
-  {
-    "name": "Humberside Collegiate Institute",
-    "address": "280 Quebec Ave",
-    "district": "Toronto",
-    "lat": 43.6599427156923,
-    "lng": -79.4706428031364,
-    "courtType": "school"
-  },
-  {
-    "name": "James Cardinal Mcguigan Catholic High School",
-    "address": "1440 Finch Ave W",
+    "name": "Cameron Public School",
+    "address": "211 Cameron Ave",
     "district": "North York",
-    "lat": 43.7632895737898,
-    "lng": -79.4937985997307,
+    "lat": 43.7543606984639,
+    "lng": -79.421251554251,
     "courtType": "school"
   },
   {
-    "name": "Jarvis Collegiate Institute",
-    "address": "495 Jarvis St",
-    "district": "Toronto",
-    "lat": 43.6660913938656,
-    "lng": -79.3777587671164,
-    "courtType": "school"
-  },
-  {
-    "name": "John Buchan Sr & Stephen Leacock C.I.",
-    "address": "2450 Birchmount Rd",
-    "district": "Scarborough",
-    "lat": 43.7851820434334,
-    "lng": -79.3021342614181,
-    "courtType": "school"
-  },
-  {
-    "name": "John Polanyi Collegiate Institute",
-    "address": "640 Lawrence Ave W",
-    "district": "North York",
-    "lat": 43.7178089516362,
-    "lng": -79.439855309525,
-    "courtType": "school"
-  },
-  {
-    "name": "Kipling Collegiate Institute ",
-    "address": "380 The Westway",
-    "district": "Etobicoke",
-    "lat": 43.685288122965,
-    "lng": -79.5623537178777,
-    "courtType": "school"
-  },
-  {
-    "name": "Lakeshore Collegiate Institute",
-    "address": "350 Kipling Ave",
-    "district": "Etobicoke",
-    "lat": 43.6015634242313,
-    "lng": -79.5191606370668,
-    "courtType": "school"
-  },
-  {
-    "name": "L'Amoreaux Collegiate Institute",
-    "address": "2501 Bridletowne Crcl",
-    "district": "Scarborough",
-    "lat": 43.80291776814,
-    "lng": -79.3180737471701,
-    "courtType": "school"
-  },
-  {
-    "name": "Lawrence Park Collegiate Institute",
-    "address": "125 Chatsworth Dr",
-    "district": "Toronto",
-    "lat": 43.7222227051645,
-    "lng": -79.4104390774942,
-    "courtType": "school"
-  },
-  {
-    "name": "Leaside High School ",
-    "address": "200 Hanna Rd",
+    "name": "Canadian Martyrs Catholic Elementary School",
+    "address": "520 Plains Rd",
     "district": "East York",
-    "lat": 43.7110428289168,
-    "lng": -79.3725387473782,
+    "lat": 43.6981999203505,
+    "lng": -79.3193386362478,
     "courtType": "school"
   },
   {
-    "name": "Lester B Pearson Collegiate Institute",
-    "address": "150 Tapscott Rd",
+    "name": "Cardinal Leger Catholic Elementary School",
+    "address": "600 Morrish Rd",
     "district": "Scarborough",
-    "lat": 43.8033727841338,
-    "lng": -79.2258580493407,
+    "lat": 43.7932879519401,
+    "lng": -79.1754616226425,
     "courtType": "school"
   },
   {
-    "name": "Loretto Abbey Catholic Secondary School",
-    "address": "101 Mason Blvd",
+    "name": "Cassandra Public School",
+    "address": "45 Cassandra Blvd",
     "district": "North York",
-    "lat": 43.7412253212478,
-    "lng": -79.4110818263627,
+    "lat": 43.7484250053493,
+    "lng": -79.3289014753509,
     "courtType": "school"
   },
   {
-    "name": "Madonna Catholic Secondary School",
-    "address": "20 Dubray Ave",
-    "district": "North York",
-    "lat": 43.729416395539,
-    "lng": -79.4774829361901,
+    "name": "Castlebar Jr School",
+    "address": "70 Chartwell Rd",
+    "district": "Etobicoke",
+    "lat": 43.6305564879895,
+    "lng": -79.5137942125371,
     "courtType": "school"
   },
   {
-    "name": "Malvern Collegiate Institute",
-    "address": "55 Malvern Ave",
-    "district": "Toronto",
-    "lat": 43.6829141497208,
-    "lng": -79.2929363320519,
-    "courtType": "school"
-  },
-  {
-    "name": "Maplewood High School",
-    "address": "120 Galloway Rd",
+    "name": "Cedar Drive Jr Public School",
+    "address": "21 Gatesview Ave",
     "district": "Scarborough",
-    "lat": 43.7588978527975,
-    "lng": -79.1948946345862,
+    "lat": 43.7458528095017,
+    "lng": -79.215050939271,
     "courtType": "school"
   },
   {
-    "name": "Marc Garneau Collegiate Institute",
-    "address": "135 Overlea Blvd",
-    "district": "North York",
-    "lat": 43.7089756853719,
-    "lng": -79.3349679464078,
-    "courtType": "school"
-  },
-  {
-    "name": "Marshall Mcluhan Catholic Secondary School",
-    "address": "1107 Avenue Rd",
-    "district": "Toronto",
-    "lat": 43.7076002456651,
-    "lng": -79.4097351629606,
-    "courtType": "school"
-  },
-  {
-    "name": "Martingrove Collegiate Institute",
-    "address": "50 Winterton Dr",
-    "district": "Etobicoke",
-    "lat": 43.6733827722511,
-    "lng": -79.5607396403649,
-    "courtType": "school"
-  },
-  {
-    "name": "Mary Ward Catholic Secondary School",
-    "address": "3200 Kennedy Rd",
+    "name": "Cedarbrook Jr Public School",
+    "address": "56 Nelson St",
     "district": "Scarborough",
-    "lat": 43.8157534238129,
-    "lng": -79.3039400656995,
+    "lat": 43.7472933923281,
+    "lng": -79.2301927515264,
     "courtType": "school"
   },
   {
-    "name": "Michael Power St Joseph Catholic High School",
-    "address": "105 Eringate Dr",
-    "district": "Etobicoke",
-    "lat": 43.6592899896851,
-    "lng": -79.5819840831399,
-    "courtType": "school"
-  },
-  {
-    "name": "Michelle-O'Bonsawin Secondary School",
-    "address": "24 Mountjoy Ave",
-    "district": "Toronto",
-    "lat": 43.6807876480904,
-    "lng": -79.3305895595417,
-    "courtType": "school"
-  },
-  {
-    "name": "Monarch Park Collegiate & School Of Life Experience",
-    "address": "1 Hanson St",
-    "district": "Toronto",
-    "lat": 43.6792807307855,
-    "lng": -79.3227718925618,
-    "courtType": "school"
-  },
-  {
-    "name": "Monsignor Percy Johnson Catholic Secondary School",
-    "address": "2170 Kipling Ave",
-    "district": "Etobicoke",
-    "lat": 43.7206946675235,
-    "lng": -79.5720168731971,
-    "courtType": "school"
-  },
-  {
-    "name": "Neil Mcneil Catholic High School",
-    "address": "127 Victoria Park Ave",
-    "district": "Scarborough",
-    "lat": 43.6792997723282,
-    "lng": -79.2828981618609,
-    "courtType": "school"
-  },
-  {
-    "name": "Newtonbrook Secondary School",
-    "address": "155 Hilda Ave",
-    "district": "North York",
-    "lat": 43.7935491354672,
-    "lng": -79.4262425900561,
-    "courtType": "school"
-  },
-  {
-    "name": "North Albion Collegiate Institute ",
-    "address": "2580 Kipling Ave",
-    "district": "Etobicoke",
-    "lat": 43.7471415785069,
-    "lng": -79.585142778825,
-    "courtType": "school"
-  },
-  {
-    "name": "North Toronto Collegiate Institute",
-    "address": "17 Broadway Ave",
-    "district": "Toronto",
-    "lat": 43.7098067339604,
-    "lng": -79.3966000753378,
-    "courtType": "school"
-  },
-  {
-    "name": "Northern Secondary School",
-    "address": "851 Mount Pleasant Rd",
-    "district": "Toronto",
-    "lat": 43.7105370975811,
-    "lng": -79.3901642998392,
-    "courtType": "school"
-  },
-  {
-    "name": "Northview Heights Secondary School",
-    "address": "550 Finch Ave W",
-    "district": "North York",
-    "lat": 43.7738827738809,
-    "lng": -79.4461177069985,
-    "courtType": "school"
-  },
-  {
-    "name": "Notre Dame Catholic High School",
-    "address": "12 Malvern Ave",
-    "district": "Toronto",
-    "lat": 43.6806857787975,
-    "lng": -79.2931313771107,
-    "courtType": "school"
-  },
-  {
-    "name": "Oakwood Collegiate Institute",
-    "address": "991 St Clair Ave W",
-    "district": "Toronto",
-    "lat": 43.6786558887327,
-    "lng": -79.4363790055539,
-    "courtType": "school"
-  },
-  {
-    "name": "Parkdale Collegiate Institute",
-    "address": "209 Jameson Ave",
-    "district": "Toronto",
-    "lat": 43.6396575139163,
-    "lng": -79.4360685050841,
-    "courtType": "school"
-  },
-  {
-    "name": "Pleasant View Jr High School",
-    "address": "175 Brian Dr",
-    "district": "North York",
-    "lat": 43.7874877559234,
-    "lng": -79.3339032144143,
-    "courtType": "school"
-  },
-  {
-    "name": "Richview Collegiate Institute ",
-    "address": "1738 Islington Ave",
-    "district": "Etobicoke",
-    "lat": 43.6786465333719,
-    "lng": -79.5395009465865,
-    "courtType": "school"
-  },
-  {
-    "name": "Riverdale Collegiate Institute",
-    "address": "1094 Gerrard St E",
-    "district": "Toronto",
-    "lat": 43.6700476981757,
-    "lng": -79.3348598191726,
-    "courtType": "school"
-  },
-  {
-    "name": "Runnymede Collegiate & Mountview Alternative",
-    "address": "569 Jane St",
+    "name": "Cedarvale Community School",
+    "address": "145 Ava Rd",
     "district": "York",
-    "lat": 43.6635322654948,
-    "lng": -79.4898113825241,
+    "lat": 43.696025486871,
+    "lng": -79.4302837269918,
     "courtType": "school"
   },
   {
-    "name": "Satec At W A Porter Collegiate Institute",
-    "address": "40 Fairfax Cres",
+    "name": "Centennial Road Jr Public School",
+    "address": "271 Centennial Rd",
     "district": "Scarborough",
-    "lat": 43.7165934572119,
-    "lng": -79.2872695164287,
+    "lat": 43.7869622763272,
+    "lng": -79.1500238078626,
     "courtType": "school"
   },
   {
-    "name": "Silverthorn Collegiate Institute",
-    "address": "291 Mill Rd",
-    "district": "Etobicoke",
-    "lat": 43.6378359132721,
-    "lng": -79.5803885455116,
-    "courtType": "school"
-  },
-  {
-    "name": "Sir John A Macdonald Collegiate Institute ",
-    "address": "2300 Pharmacy Ave",
-    "district": "Scarborough",
-    "lat": 43.7870773578969,
-    "lng": -79.3236705089564,
-    "courtType": "school"
-  },
-  {
-    "name": "Sir Oliver Mowat Collegiate Institute",
-    "address": "5400 Lawrence Ave E",
-    "district": "Scarborough",
-    "lat": 43.7793019336324,
-    "lng": -79.1422383098415,
-    "courtType": "school"
-  },
-  {
-    "name": "St John Henry Newman Catholic High School",
-    "address": "100 Brimley Rd S",
-    "district": "Scarborough",
-    "lat": 43.7147788010578,
-    "lng": -79.2404353720764,
-    "courtType": "school"
-  },
-  {
-    "name": "St John Henry Newman Catholic High School (Future Site)",
-    "address": "2685 Kingston Rd",
-    "district": "Scarborough",
-    "lat": 43.7169075119675,
-    "lng": -79.2408618204948,
-    "courtType": "school"
-  },
-  {
-    "name": "St John Paul Ii Catholic Secondary School",
-    "address": "685 Military Trl",
-    "district": "Scarborough",
-    "lat": 43.7900759206163,
-    "lng": -79.1993630894791,
-    "courtType": "school"
-  },
-  {
-    "name": "St Joseph'S Morrow Park Catholic Secondary School",
-    "address": "3338 Bayview Ave",
+    "name": "Chalkfarm Public School",
+    "address": "100 Chalkfarm Dr",
     "district": "North York",
-    "lat": 43.7927117467235,
-    "lng": -79.3945883858887,
+    "lat": 43.7271064323401,
+    "lng": -79.5143927419889,
     "courtType": "school"
   },
   {
-    "name": "St Mary Catholic Academy Secondary School ",
-    "address": "66 Dufferin Park Ave",
+    "name": "Charles E Webster Jr Public School",
+    "address": "1900 Keele St",
+    "district": "York",
+    "lat": 43.6934344434159,
+    "lng": -79.475099515903,
+    "courtType": "school"
+  },
+  {
+    "name": "Charles G Fraser Jr Public School",
+    "address": "79 Manning Ave",
     "district": "Toronto",
-    "lat": 43.6577935996839,
-    "lng": -79.4321542870877,
+    "lat": 43.6485300830641,
+    "lng": -79.4094836303214,
     "courtType": "school"
   },
   {
-    "name": "St Michael'S Choir School - Secondary ",
-    "address": "69 Bond St",
+    "name": "Charles Gordon Sr Public School",
+    "address": "25 Marcos Blvd",
+    "district": "Scarborough",
+    "lat": 43.7462850480666,
+    "lng": -79.2605263117434,
+    "courtType": "school"
+  },
+  {
+    "name": "Charles H Best Mdl School",
+    "address": "285 Wilmington Ave",
+    "district": "North York",
+    "lat": 43.7674452465892,
+    "lng": -79.4586302368016,
+    "courtType": "school"
+  },
+  {
+    "name": "Charlottetown Jr Public School",
+    "address": "85 Charlottetown Blvd",
+    "district": "Scarborough",
+    "lat": 43.7820702346732,
+    "lng": -79.1422089559982,
+    "courtType": "school"
+  },
+  {
+    "name": "Chartland Jr Public School",
+    "address": "109 Chartland Blvd S",
+    "district": "Scarborough",
+    "lat": 43.799988726269,
+    "lng": -79.2785043435939,
+    "courtType": "school"
+  },
+  {
+    "name": "Cherokee Public School",
+    "address": "390 Cherokee Blvd",
+    "district": "North York",
+    "lat": 43.7987627465793,
+    "lng": -79.338614744436,
+    "courtType": "school"
+  },
+  {
+    "name": "Chester Elementary School",
+    "address": "115 Gowan Ave",
+    "district": "East York",
+    "lat": 43.6876023807709,
+    "lng": -79.3517099846563,
+    "courtType": "school"
+  },
+  {
+    "name": "Chester Le Jr Public School",
+    "address": "201 Chester Le Blvd",
+    "district": "Scarborough",
+    "lat": 43.7985877008564,
+    "lng": -79.3310953374293,
+    "courtType": "school"
+  },
+  {
+    "name": "Chief Dan George Public School",
+    "address": "185 Generation Blvd",
+    "district": "Scarborough",
+    "lat": 43.8027223090495,
+    "lng": -79.1638346582217,
+    "courtType": "school"
+  },
+  {
+    "name": "Chine Drive Public School",
+    "address": "51 Chine Dr",
+    "district": "Scarborough",
+    "lat": 43.7099825934256,
+    "lng": -79.2417968816865,
+    "courtType": "school"
+  },
+  {
+    "name": "Churchill Heights Public School",
+    "address": "749 Brimorton Dr",
+    "district": "Scarborough",
+    "lat": 43.7731919492023,
+    "lng": -79.2243167892305,
+    "courtType": "school"
+  },
+  {
+    "name": "Churchill Public School",
+    "address": "188 Churchill Ave",
+    "district": "North York",
+    "lat": 43.7707536046539,
+    "lng": -79.4270361642829,
+    "courtType": "school"
+  },
+  {
+    "name": "City School",
+    "address": "585 Queens Quay W",
     "district": "Toronto",
-    "lat": 43.6555361616688,
-    "lng": -79.3777294123857,
+    "lat": 43.6362385025566,
+    "lng": -79.3971403793203,
     "courtType": "school"
   },
   {
-    "name": "St Oscar Romero Catholic Secondary School",
-    "address": "99 Humber Blvd",
-    "district": "York",
-    "lat": 43.6803090053029,
-    "lng": -79.4810172796167,
+    "name": "Claireville Jr School",
+    "address": "350 Silverstone Dr",
+    "district": "Etobicoke",
+    "lat": 43.7480114029654,
+    "lng": -79.5991007205673,
     "courtType": "school"
   },
   {
-    "name": "St Patrick Catholic Secondary School",
-    "address": "45 Felstead Ave",
+    "name": "Clairlea Public School",
+    "address": "25 Rosalind Cres",
+    "district": "Scarborough",
+    "lat": 43.7164767633036,
+    "lng": -79.2962358879462,
+    "courtType": "school"
+  },
+  {
+    "name": "Claude Watson School For The Arts",
+    "address": "130 Doris Ave",
+    "district": "North York",
+    "lat": 43.7657254741228,
+    "lng": -79.4093736661307,
+    "courtType": "school"
+  },
+  {
+    "name": "Cliffside Public School",
+    "address": "27 East Haven Dr",
+    "district": "Scarborough",
+    "lat": 43.7048959315468,
+    "lng": -79.2503830440116,
+    "courtType": "school"
+  },
+  {
+    "name": "Cliffwood Public School",
+    "address": "140 Cliffwood Rd",
+    "district": "North York",
+    "lat": 43.8062920920724,
+    "lng": -79.360068599198,
+    "courtType": "school"
+  },
+  {
+    "name": "Clinton Street Jr Public School",
+    "address": "460 Manning Ave",
     "district": "Toronto",
-    "lat": 43.6781739911234,
-    "lng": -79.3282613925079,
+    "lat": 43.6576460735345,
+    "lng": -79.4140575735688,
     "courtType": "school"
   },
   {
-    "name": "Thistletown Collegiate Institute",
-    "address": "20 Fordwich Cres",
+    "name": "Contact Alternative School",
+    "address": "132 St Patrick St",
+    "district": "Toronto",
+    "lat": 43.6537657298722,
+    "lng": -79.3903939018466,
+    "courtType": "school"
+  },
+  {
+    "name": "Cordella Jr Public School",
+    "address": "175 Cordella Ave",
+    "district": "York",
+    "lat": 43.6790700932118,
+    "lng": -79.4875854399739,
+    "courtType": "school"
+  },
+  {
+    "name": "Cornell Jr Public School",
+    "address": "61 Holmfirth Ter",
+    "district": "Scarborough",
+    "lat": 43.7593925689664,
+    "lng": -79.2180382190118,
+    "courtType": "school"
+  },
+  {
+    "name": "Corvette Jr Public School",
+    "address": "30 Corvette Ave",
+    "district": "Scarborough",
+    "lat": 43.726485113649,
+    "lng": -79.2621597253873,
+    "courtType": "school"
+  },
+  {
+    "name": "Cosburn Mdl School",
+    "address": "520 Cosburn Ave",
+    "district": "East York",
+    "lat": 43.6940723030924,
+    "lng": -79.3307746357026,
+    "courtType": "school"
+  },
+  {
+    "name": "Cottingham Jr Public School",
+    "address": "85 Birch Ave",
+    "district": "Toronto",
+    "lat": 43.6803794372321,
+    "lng": -79.3956090079305,
+    "courtType": "school"
+  },
+  {
+    "name": "Courcelette Public School",
+    "address": "100 Fallingbrook Rd",
+    "district": "Scarborough",
+    "lat": 43.6793188262702,
+    "lng": -79.2785659239745,
+    "courtType": "school"
+  },
+  {
+    "name": "Crescent Town Elementary School",
+    "address": "4 Massey Sq",
+    "district": "East York",
+    "lat": 43.6968367454986,
+    "lng": -79.2924665101008,
+    "courtType": "school"
+  },
+  {
+    "name": "Cresthaven Public School",
+    "address": "46 Cresthaven Dr",
+    "district": "North York",
+    "lat": 43.7972191365557,
+    "lng": -79.3635402543448,
+    "courtType": "school"
+  },
+  {
+    "name": "Crestview Public School",
+    "address": "101 Seneca Hill Dr",
+    "district": "North York",
+    "lat": 43.7884321784152,
+    "lng": -79.3598465997775,
+    "courtType": "school"
+  },
+  {
+    "name": "Cummer Valley Mdl School",
+    "address": "70 Maxome Ave",
+    "district": "North York",
+    "lat": 43.7882319564093,
+    "lng": -79.4012761021226,
+    "courtType": "school"
+  },
+  {
+    "name": "D A Morrison Mdl School",
+    "address": "271 Gledhill Ave",
+    "district": "East York",
+    "lat": 43.6953964611984,
+    "lng": -79.3116924407793,
+    "courtType": "school"
+  },
+  {
+    "name": "Dallington Public School",
+    "address": "18 Dallington Dr",
+    "district": "North York",
+    "lat": 43.7771281264675,
+    "lng": -79.3547553486122,
+    "courtType": "school"
+  },
+  {
+    "name": "Danforth Gardens Public School",
+    "address": "20 Santamonica Blvd",
+    "district": "Scarborough",
+    "lat": 43.7087670630065,
+    "lng": -79.270927399778,
+    "courtType": "school"
+  },
+  {
+    "name": "D'Arcy Mcgee Catholic Elementary School",
+    "address": "20 Bansley Ave",
+    "district": "York",
+    "lat": 43.6922556300161,
+    "lng": -79.4429115844532,
+    "courtType": "school"
+  },
+  {
+    "name": "David Hornell Jr School",
+    "address": "32 Victoria St",
     "district": "Etobicoke",
-    "lat": 43.7277265566382,
-    "lng": -79.5624526489507,
+    "lat": 43.6193332842276,
+    "lng": -79.4888936625883,
     "courtType": "school"
   },
   {
-    "name": "Victoria Park Collegiate Institute",
-    "address": "15 Wallingford Rd",
-    "district": "North York",
-    "lat": 43.7560593384022,
-    "lng": -79.321464421707,
-    "courtType": "school"
-  },
-  {
-    "name": "West Hill Collegiate Institute",
-    "address": "350 Morningside Ave",
+    "name": "David Lewis Public School",
+    "address": "130 Fundy Bay Blvd",
     "district": "Scarborough",
-    "lat": 43.7756684257862,
-    "lng": -79.1905875661913,
+    "lat": 43.8091967088078,
+    "lng": -79.3178860611438,
     "courtType": "school"
   },
   {
-    "name": "West Humber Collegiate Institute",
-    "address": "1675 Martin Grove Rd",
+    "name": "Daystrom Public School",
+    "address": "25 Daystrom Dr",
+    "district": "North York",
+    "lat": 43.7479469273564,
+    "lng": -79.5469633014631,
+    "courtType": "school"
+  },
+  {
+    "name": "Denlow Public School",
+    "address": "50 Denlow Blvd",
+    "district": "North York",
+    "lat": 43.7458394934387,
+    "lng": -79.3642277250946,
+    "courtType": "school"
+  },
+  {
+    "name": "Derrydown Public School",
+    "address": "120 Derrydown Rd",
+    "district": "North York",
+    "lat": 43.7586899356843,
+    "lng": -79.4937101803963,
+    "courtType": "school"
+  },
+  {
+    "name": "Dewson Street Jr Public School",
+    "address": "65 Concord Ave",
+    "district": "Toronto",
+    "lat": 43.655675087264,
+    "lng": -79.4240544310152,
+    "courtType": "school"
+  },
+  {
+    "name": "Diefenbaker Elementary School",
+    "address": "175 Plains Rd",
+    "district": "East York",
+    "lat": 43.6950420299431,
+    "lng": -79.3316401743941,
+    "courtType": "school"
+  },
+  {
+    "name": "Dixon Grove Jr Mdl School",
+    "address": "315 The Westway",
     "district": "Etobicoke",
-    "lat": 43.7309224094366,
-    "lng": -79.5867053925658,
+    "lat": 43.6850065948201,
+    "lng": -79.5559776877569,
     "courtType": "school"
   },
   {
-    "name": "Weston Collegiate Institute",
-    "address": "100 Pine St",
-    "district": "York",
-    "lat": 43.7038163110412,
-    "lng": -79.5094217518773,
-    "courtType": "school"
-  },
-  {
-    "name": "Westview Centennial High School",
-    "address": "755 Oakdale Rd",
+    "name": "Don Mills Mdl School",
+    "address": "17 The Donway E",
     "district": "North York",
-    "lat": 43.7523976347813,
-    "lng": -79.5250905310153,
+    "lat": 43.7363797020937,
+    "lng": -79.3397470950251,
     "courtType": "school"
   },
   {
-    "name": "Wexford Collegiate School For The Arts",
-    "address": "1176 Pharmacy Ave",
+    "name": "Don Valley Middle School",
+    "address": "3100 Don Mills Rd",
+    "district": "North York",
+    "lat": 43.7895329062794,
+    "lng": -79.3549665618627,
+    "courtType": "school"
+  },
+  {
+    "name": "Donview Middle Health And Wellness Academy",
+    "address": "20 Evermede Dr",
+    "district": "North York",
+    "lat": 43.7641877197384,
+    "lng": -79.3314383068706,
+    "courtType": "school"
+  },
+  {
+    "name": "Donwood Park Jr Public School - Highbrook Campus",
+    "address": "39 Highbrook Dr",
     "district": "Scarborough",
-    "lat": 43.7461595742932,
-    "lng": -79.3067953750859,
+    "lat": 43.7568459336361,
+    "lng": -79.2628557598898,
     "courtType": "school"
   },
   {
-    "name": "William Lyon Mackenzie Collegiate Institute ",
-    "address": "20 Tillplain Rd",
-    "district": "North York",
-    "lat": 43.7534709581119,
-    "lng": -79.4618941501249,
-    "courtType": "school"
-  },
-  {
-    "name": "Winston Churchill Collegiate Institute ",
-    "address": "2239 Lawrence Ave E",
+    "name": "Donwood Park Jr Public School - Main Bldg",
+    "address": "61 Dorcot Ave",
     "district": "Scarborough",
-    "lat": 43.7480914839731,
-    "lng": -79.2783774186933,
+    "lat": 43.7569783122163,
+    "lng": -79.2623651149549,
     "courtType": "school"
   },
   {
-    "name": "Woburn Collegiate Institute ",
-    "address": "2222 Ellesmere Rd",
+    "name": "Dorset Park Public School",
+    "address": "28 Blaisdale Rd",
     "district": "Scarborough",
-    "lat": 43.7781651122844,
-    "lng": -79.2284585858987,
+    "lat": 43.7501910914087,
+    "lng": -79.2797350588123,
     "courtType": "school"
   },
   {
-    "name": "Woodbine Jr High & N/E Secondary Alternative",
-    "address": "2900 Don Mills Rd E",
+    "name": "Dovercourt Jr Public School",
+    "address": "228 Bartlett Ave",
+    "district": "Toronto",
+    "lat": 43.666735610558,
+    "lng": -79.4357789540645,
+    "courtType": "school"
+  },
+  {
+    "name": "Downsview Public School",
+    "address": "2829 Keele St",
     "district": "North York",
-    "lat": 43.7824288154923,
-    "lng": -79.349385410988,
+    "lat": 43.7311138437024,
+    "lng": -79.4824357959776,
     "courtType": "school"
   },
   {
-    "name": "York Humber High School ",
-    "address": "100 Emmett Ave",
+    "name": "Downtown Alternative School",
+    "address": "85 Lower Jarvis St",
+    "district": "Toronto",
+    "lat": 43.6477361331853,
+    "lng": -79.3704156513245,
+    "courtType": "school"
+  },
+  {
+    "name": "Dr Marion Hilliard Sr Public School",
+    "address": "280 Washburn Way",
+    "district": "Scarborough",
+    "lat": 43.8036860800068,
+    "lng": -79.2248218322885,
+    "courtType": "school"
+  },
+  {
+    "name": "Dr Rita Cox - Kina Minagok Public School",
+    "address": "100 Close Ave",
+    "district": "Toronto",
+    "lat": 43.6365094905393,
+    "lng": -79.435320697841,
+    "courtType": "school"
+  },
+  {
+    "name": "Driftwood Public School",
+    "address": "265 Driftwood Ave",
+    "district": "North York",
+    "lat": 43.7629711864463,
+    "lng": -79.5150042552815,
+    "courtType": "school"
+  },
+  {
+    "name": "Dundas Jr Public School",
+    "address": "935 Dundas St E",
+    "district": "Toronto",
+    "lat": 43.6620777465508,
+    "lng": -79.3486863276324,
+    "courtType": "school"
+  },
+  {
+    "name": "Dunlace Public School",
+    "address": "20 Dunlace Dr",
+    "district": "North York",
+    "lat": 43.7624594339827,
+    "lng": -79.3703573291924,
+    "courtType": "school"
+  },
+  {
+    "name": "Earl Grey Sr Public School",
+    "address": "100 Strathcona Ave",
+    "district": "Toronto",
+    "lat": 43.6768438820104,
+    "lng": -79.3405244209135,
+    "courtType": "school"
+  },
+  {
+    "name": "Earl Haig Public School",
+    "address": "15 Earl Haig Ave",
+    "district": "Toronto",
+    "lat": 43.6813314530514,
+    "lng": -79.3212504675318,
+    "courtType": "school"
+  },
+  {
+    "name": "Eastview Jr Public School",
+    "address": "20 Waldock St",
+    "district": "Scarborough",
+    "lat": 43.7589633617233,
+    "lng": -79.1912804405348,
+    "courtType": "school"
+  },
+  {
+    "name": "Eatonville Jr School",
+    "address": "15 Rossburn Dr",
+    "district": "Etobicoke",
+    "lat": 43.6378407814724,
+    "lng": -79.5666150696602,
+    "courtType": "school"
+  },
+  {
+    "name": "Ecole Elementaire Catholique Saint Michel",
+    "address": "29 Meadowvale Rd",
+    "district": "Scarborough",
+    "lat": 43.7777385346065,
+    "lng": -79.1559447476908,
+    "courtType": "school"
+  },
+  {
+    "name": "Ecole Elementaire Charles Sauriol",
+    "address": "55 Pelham Ave",
+    "district": "Toronto",
+    "lat": 43.6676736698242,
+    "lng": -79.455349639961,
+    "courtType": "school"
+  },
+  {
+    "name": "Ecole Elementaire Felix Leclerc",
+    "address": "50 Celestine Dr",
+    "district": "Etobicoke",
+    "lat": 43.6896931229899,
+    "lng": -79.561445634234,
+    "courtType": "school"
+  },
+  {
+    "name": "Ecole Elementaire Gabrielle Roy",
+    "address": "14 Pembroke St",
+    "district": "Toronto",
+    "lat": 43.6565828383347,
+    "lng": -79.3723195931078,
+    "courtType": "school"
+  },
+  {
+    "name": "Ecole Elementaire Jeanne Lajoie",
+    "address": "150 Carnforth Rd",
+    "district": "North York",
+    "lat": 43.7344967726022,
+    "lng": -79.3214945673811,
+    "courtType": "school"
+  },
+  {
+    "name": "Ecole Elementaire La Mosaique",
+    "address": "80 Queensdale Ave",
+    "district": "East York",
+    "lat": 43.6873304546484,
+    "lng": -79.3305349885319,
+    "courtType": "school"
+  },
+  {
+    "name": "Ecole Elementaire Laure Riese",
+    "address": "339 Alton Towers Crcl",
+    "district": "Scarborough",
+    "lat": 43.8224626055717,
+    "lng": -79.2774220664012,
+    "courtType": "school"
+  },
+  {
+    "name": "Ecole Elementaire Mathieu Da Costa",
+    "address": "116 Cornelius Pkwy",
+    "district": "North York",
+    "lat": 43.7178279267229,
+    "lng": -79.4755347034249,
+    "courtType": "school"
+  },
+  {
+    "name": "Ecole Elementaire Paul Demers",
+    "address": "100 Ravel Rd",
+    "district": "North York",
+    "lat": 43.7919518364679,
+    "lng": -79.367340385707,
+    "courtType": "school"
+  },
+  {
+    "name": "Ecole Elementaire Pierre Elliott Trudeau",
+    "address": "65 Grace St",
+    "district": "Toronto",
+    "lat": 43.6519910390116,
+    "lng": -79.4140974855289,
+    "courtType": "school"
+  },
+  {
+    "name": "Edgewood Public School",
+    "address": "230 Birkdale Rd",
+    "district": "Scarborough",
+    "lat": 43.7663054576185,
+    "lng": -79.2658120339035,
+    "courtType": "school"
+  },
+  {
+    "name": "Eglinton Jr Public School",
+    "address": "223 Eglinton Ave E",
+    "district": "Toronto",
+    "lat": 43.7079037464755,
+    "lng": -79.3908468303168,
+    "courtType": "school"
+  },
+  {
+    "name": "Elizabeth Simcoe Jr Public School",
+    "address": "166 Sylvan Ave",
+    "district": "Scarborough",
+    "lat": 43.7381519615688,
+    "lng": -79.2060348701063,
+    "courtType": "school"
+  },
+  {
+    "name": "Elkhorn Public School",
+    "address": "10 Elkhorn Dr",
+    "district": "North York",
+    "lat": 43.7712153929829,
+    "lng": -79.3800624355928,
+    "courtType": "school"
+  },
+  {
+    "name": "Ellesmere Statton Public School",
+    "address": "739 Ellesmere Rd",
+    "district": "Scarborough",
+    "lat": 43.7636236123759,
+    "lng": -79.2875719983282,
+    "courtType": "school"
+  },
+  {
+    "name": "Elmbank Jr Mdl Academy",
+    "address": "10 Pittsboro Dr",
+    "district": "Etobicoke",
+    "lat": 43.7365019019057,
+    "lng": -79.5900470677447,
+    "courtType": "school"
+  },
+  {
+    "name": "Elmlea Jr School",
+    "address": "50 Hadrian Dr",
+    "district": "Etobicoke",
+    "lat": 43.7159386194401,
+    "lng": -79.5498701970545,
+    "courtType": "school"
+  },
+  {
+    "name": "Emily Carr Public School",
+    "address": "90 John Tabor Trl",
+    "district": "Scarborough",
+    "lat": 43.8050223865269,
+    "lng": -79.2069358552156,
+    "courtType": "school"
+  },
+  {
+    "name": "Ernest Public School",
+    "address": "150 Cherokee Blvd",
+    "district": "North York",
+    "lat": 43.791415465113,
+    "lng": -79.3373825688455,
+    "courtType": "school"
+  },
+  {
+    "name": "Etienne Brule Jr School",
+    "address": "50 Cloverhill Rd",
+    "district": "Etobicoke",
+    "lat": 43.6356187317086,
+    "lng": -79.4896844559498,
+    "courtType": "school"
+  },
+  {
+    "name": "F H Miller Jr Public School",
+    "address": "300 Caledonia Rd",
     "district": "York",
-    "lat": 43.6885691951614,
-    "lng": -79.506177459366,
+    "lat": 43.6840057733305,
+    "lng": -79.458898094007,
     "courtType": "school"
   },
   {
-    "name": "York Memorial Collegiate Institute",
-    "address": "1700 Keele St",
+    "name": "Fairbank Memorial Community School",
+    "address": "555 Harvie Ave",
     "district": "York",
-    "lat": 43.6845465069876,
-    "lng": -79.473699193678,
+    "lat": 43.6917032417799,
+    "lng": -79.4554057013447,
     "courtType": "school"
   },
   {
-    "name": "York Memorial Collegiate Institute (Under Construction)",
-    "address": "2690 Eglinton Ave W",
+    "name": "Fairbank Public School",
+    "address": "2335 Dufferin St",
     "district": "York",
-    "lat": 43.6902787238341,
-    "lng": -79.4762398021686,
+    "lat": 43.6942876649058,
+    "lng": -79.4490892289333,
     "courtType": "school"
   },
   {
-    "name": "York Mills Collegiate Institute",
-    "address": "490 York Mills Rd",
-    "district": "North York",
-    "lat": 43.7515290541848,
-    "lng": -79.3735238955731,
+    "name": "Fairglen Jr Public School",
+    "address": "2200 Pharmacy Ave",
+    "district": "Scarborough",
+    "lat": 43.7849363770968,
+    "lng": -79.3222381903671,
     "courtType": "school"
   },
   {
-    "name": "Yorkdale Secondary School & Adult Learning Centre",
-    "address": "38 Orfus Rd",
+    "name": "Fairmeadow Centre",
+    "address": "17 Fairmeadow Ave",
     "district": "North York",
-    "lat": 43.7201620650265,
-    "lng": -79.4597250980034,
+    "lat": 43.754688128517,
+    "lng": -79.3972138944047,
     "courtType": "school"
   },
   {
-    "name": "Zion Heights Jr High School",
-    "address": "5900 Leslie St",
+    "name": "Fairmount Jr Public School",
+    "address": "31 Sloley Rd",
+    "district": "Scarborough",
+    "lat": 43.7197580924624,
+    "lng": -79.2308941806286,
+    "courtType": "school"
+  },
+  {
+    "name": "Father Serra Catholic Elementary School",
+    "address": "111 Sun Row Dr",
+    "district": "Etobicoke",
+    "lat": 43.685944240933,
+    "lng": -79.5370181385566,
+    "courtType": "school"
+  },
+  {
+    "name": "Faywood Arts Based Curriculum School",
+    "address": "95 Faywood Blvd",
     "district": "North York",
-    "lat": 43.7979149025647,
-    "lng": -79.3710972374637,
+    "lat": 43.7398550354918,
+    "lng": -79.4466973349755,
+    "courtType": "school"
+  },
+  {
+    "name": "Fenside Public School",
+    "address": "131 Fenside Dr",
+    "district": "North York",
+    "lat": 43.7645805189835,
+    "lng": -79.3291265799904,
+    "courtType": "school"
+  },
+  {
+    "name": "Finch Public School",
+    "address": "277 Finch Ave E",
+    "district": "North York",
+    "lat": 43.7838330777765,
+    "lng": -79.3949742011282,
+    "courtType": "school"
+  },
+  {
+    "name": "Firgrove Public School",
+    "address": "270 Firgrove Cres",
+    "district": "North York",
+    "lat": 43.7520008914053,
+    "lng": -79.519910862165,
+    "courtType": "school"
+  },
+  {
+    "name": "Fleming Public School",
+    "address": "20 Littles Rd",
+    "district": "Scarborough",
+    "lat": 43.8154347835423,
+    "lng": -79.2033845823469,
+    "courtType": "school"
+  },
+  {
+    "name": "Flemington Public School",
+    "address": "10 Flemington Rd",
+    "district": "North York",
+    "lat": 43.7200875786734,
+    "lng": -79.4444540037633,
+    "courtType": "school"
+  },
+  {
+    "name": "Forest Manor Public School",
+    "address": "25 Forest Manor Rd",
+    "district": "North York",
+    "lat": 43.7710427399232,
+    "lng": -79.3430668038294,
+    "courtType": "school"
+  },
+  {
+    "name": "Frankland Community School",
+    "address": "816 Logan Ave",
+    "district": "Toronto",
+    "lat": 43.6771506675787,
+    "lng": -79.3496800848427,
+    "courtType": "school"
+  },
+  {
+    "name": "Fraser Mustard Early Learning Academy",
+    "address": "82 Thorncliffe Park Dr",
+    "district": "East York",
+    "lat": 43.7055777504935,
+    "lng": -79.3435512383368,
+    "courtType": "school"
+  },
+  {
+    "name": "Galloway Road Public School",
+    "address": "192 Galloway Rd",
+    "district": "Scarborough",
+    "lat": 43.7650173036954,
+    "lng": -79.1966222950893,
+    "courtType": "school"
+  },
+  {
+    "name": "Garden Avenue Jr Public School",
+    "address": "225 Garden Ave",
+    "district": "Toronto",
+    "lat": 43.6432000977767,
+    "lng": -79.4491237019074,
+    "courtType": "school"
+  },
+  {
+    "name": "Gateway Public School",
+    "address": "55 Gateway Blvd",
+    "district": "North York",
+    "lat": 43.7117262234356,
+    "lng": -79.3310091533195,
+    "courtType": "school"
+  },
+  {
+    "name": "General Brock Public School",
+    "address": "140 Chestnut Cres",
+    "district": "Scarborough",
+    "lat": 43.7185070990624,
+    "lng": -79.2745902135289,
+    "courtType": "school"
+  },
+  {
+    "name": "General Crerar Public School",
+    "address": "30 McGregor Rd",
+    "district": "Scarborough",
+    "lat": 43.7456867654999,
+    "lng": -79.2795776619808,
+    "courtType": "school"
+  },
+  {
+    "name": "General Mercer Jr Public School",
+    "address": "30 Turnberry Ave",
+    "district": "Toronto",
+    "lat": 43.6789306711569,
+    "lng": -79.4640229792623,
+    "courtType": "school"
+  },
+  {
+    "name": "George Anderson Public School",
+    "address": "30 George Anderson Dr",
+    "district": "North York",
+    "lat": 43.7054535329767,
+    "lng": -79.4789480608335,
+    "courtType": "school"
+  },
+  {
+    "name": "George B Little Public School",
+    "address": "125 Orton Park Rd",
+    "district": "Scarborough",
+    "lat": 43.7711994113637,
+    "lng": -79.2081104575107,
+    "courtType": "school"
+  },
+  {
+    "name": "George P Mackie Jr Public School",
+    "address": "60 Heathfield Dr",
+    "district": "Scarborough",
+    "lat": 43.7393273081079,
+    "lng": -79.2119939725128,
+    "courtType": "school"
+  },
+  {
+    "name": "George Peck Public School",
+    "address": "1 Wayne Ave",
+    "district": "Scarborough",
+    "lat": 43.7382584753535,
+    "lng": -79.2936351945354,
+    "courtType": "school"
+  },
+  {
+    "name": "George R Gauld Jr School",
+    "address": "200 Melrose St",
+    "district": "Etobicoke",
+    "lat": 43.6205662675783,
+    "lng": -79.498405687125,
+    "courtType": "school"
+  },
+  {
+    "name": "George Syme Community School",
+    "address": "69 Pritchard Ave",
+    "district": "York",
+    "lat": 43.6692513829928,
+    "lng": -79.491126770757,
+    "courtType": "school"
+  },
+  {
+    "name": "George Webster Elementary School",
+    "address": "50 Chapman Ave",
+    "district": "East York",
+    "lat": 43.7010488988453,
+    "lng": -79.299760623825,
+    "courtType": "school"
+  },
+  {
+    "name": "Georges Etienne Cartier Catholic Elementary School",
+    "address": "250 Gainsborough Rd",
+    "district": "Toronto",
+    "lat": 43.6779038853844,
+    "lng": -79.3194731119597,
+    "courtType": "school"
+  },
+  {
+    "name": "Givins Shaw Jr Public School",
+    "address": "49 Givins St",
+    "district": "Toronto",
+    "lat": 43.646216613937,
+    "lng": -79.4176864709581,
+    "courtType": "school"
+  },
+  {
+    "name": "Glamorgan Jr Public School",
+    "address": "51 Antrim Cres",
+    "district": "Scarborough",
+    "lat": 43.7713003109162,
+    "lng": -79.2895538318113,
+    "courtType": "school"
+  },
+  {
+    "name": "Gledhill Jr Public School",
+    "address": "2 Gledhill Ave",
+    "district": "East York",
+    "lat": 43.6875483306854,
+    "lng": -79.3092864659493,
+    "courtType": "school"
+  },
+  {
+    "name": "Glen Ames Sr Public School",
+    "address": "18 Williamson Rd",
+    "district": "Toronto",
+    "lat": 43.6741488615009,
+    "lng": -79.2984421909583,
+    "courtType": "school"
+  },
+  {
+    "name": "Glen Park Public School",
+    "address": "101 Englemount Ave",
+    "district": "North York",
+    "lat": 43.7132238247354,
+    "lng": -79.4357473261606,
+    "courtType": "school"
+  },
+  {
+    "name": "Glen Ravine Jr Public School",
+    "address": "11 Gadsby Dr",
+    "district": "Scarborough",
+    "lat": 43.7382246272196,
+    "lng": -79.2540589454282,
+    "courtType": "school"
+  },
+  {
+    "name": "Glenview Sr Public School",
+    "address": "401 Rosewell Ave",
+    "district": "Toronto",
+    "lat": 43.7199764434722,
+    "lng": -79.409524700301,
+    "courtType": "school"
+  },
+  {
+    "name": "Golf Road Jr Public School",
+    "address": "730 Scarborough Golf Club Rd",
+    "district": "Scarborough",
+    "lat": 43.7639036098219,
+    "lng": -79.2168876729568,
+    "courtType": "school"
+  },
+  {
+    "name": "Gordon A Brown Mdl School",
+    "address": "2800 St Clair Ave E",
+    "district": "East York",
+    "lat": 43.707534131345,
+    "lng": -79.3053702914276,
+    "courtType": "school"
+  },
+  {
+    "name": "Gosford Public School",
+    "address": "30 Gosford Blvd",
+    "district": "North York",
+    "lat": 43.7643184871585,
+    "lng": -79.5213241884271,
+    "courtType": "school"
+  },
+  {
+    "name": "Gracedale Public School",
+    "address": "186 Gracedale Blvd",
+    "district": "North York",
+    "lat": 43.753197538015,
+    "lng": -79.5618421120233,
+    "courtType": "school"
+  },
+  {
+    "name": "Gracefield Public School",
+    "address": "177 Gracefield Ave",
+    "district": "North York",
+    "lat": 43.709018391832,
+    "lng": -79.4914064041562,
+    "courtType": "school"
+  },
+  {
+    "name": "Greenholme Jr Mdl School",
+    "address": "10 Jamestown Cres",
+    "district": "Etobicoke",
+    "lat": 43.7350715355536,
+    "lng": -79.582908112082,
+    "courtType": "school"
+  },
+  {
+    "name": "Greenland Public School",
+    "address": "15 Greenland Rd",
+    "district": "North York",
+    "lat": 43.7336070379667,
+    "lng": -79.3385329307779,
+    "courtType": "school"
+  },
+  {
+    "name": "Grenoble Public School",
+    "address": "9 Grenoble Dr",
+    "district": "North York",
+    "lat": 43.7154310882437,
+    "lng": -79.3327597513647,
+    "courtType": "school"
+  },
+  {
+    "name": "Grey Owl Jr Public School",
+    "address": "150 Wickson Trl",
+    "district": "Scarborough",
+    "lat": 43.8039892965967,
+    "lng": -79.2133003232257,
+    "courtType": "school"
+  },
+  {
+    "name": "Guildwood Jr Public School",
+    "address": "225 Livingston Rd",
+    "district": "Scarborough",
+    "lat": 43.750821071128,
+    "lng": -79.1999866713576,
+    "courtType": "school"
+  },
+  {
+    "name": "Gulfstream Public School",
+    "address": "20 Gulfstream Rd",
+    "district": "North York",
+    "lat": 43.7390779789322,
+    "lng": -79.5420098021244,
+    "courtType": "school"
+  },
+  {
+    "name": "H A Halbert Jr Public School",
+    "address": "25 Halbert Pl",
+    "district": "Scarborough",
+    "lat": 43.7276495960022,
+    "lng": -79.2317360671938,
+    "courtType": "school"
+  },
+  {
+    "name": "H J Alexander Community School",
+    "address": "30 King St",
+    "district": "York",
+    "lat": 43.7023994674705,
+    "lng": -79.5202286163034,
+    "courtType": "school"
+  },
+  {
+    "name": "Harrison Public School",
+    "address": "81 Harrison Rd",
+    "district": "North York",
+    "lat": 43.7573684747214,
+    "lng": -79.3773086129257,
+    "courtType": "school"
+  },
+  {
+    "name": "Harwood Public School",
+    "address": "50 Leigh St",
+    "district": "York",
+    "lat": 43.6761859127687,
+    "lng": -79.4784124771008,
+    "courtType": "school"
+  },
+  {
+    "name": "Henry Hudson Sr Public School",
+    "address": "350 Orton Park Rd",
+    "district": "Scarborough",
+    "lat": 43.7777371786683,
+    "lng": -79.2144673665189,
+    "courtType": "school"
+  },
+  {
+    "name": "Henry Kelsey Sr Public School",
+    "address": "1200 Huntingwood Dr",
+    "district": "Scarborough",
+    "lat": 43.7988176895396,
+    "lng": -79.2770232222959,
+    "courtType": "school"
+  },
+  {
+    "name": "Heritage Park Public School",
+    "address": "80 Old Finch Ave",
+    "district": "Scarborough",
+    "lat": 43.8213508850921,
+    "lng": -79.207720158593,
+    "courtType": "school"
+  },
+  {
+    "name": "Highcastle Public School",
+    "address": "370 Military Trl",
+    "district": "Scarborough",
+    "lat": 43.7867616021878,
+    "lng": -79.2124956285055,
+    "courtType": "school"
+  },
+  {
+    "name": "Highfield Jr School",
+    "address": "85 Mount Olive Dr",
+    "district": "Etobicoke",
+    "lat": 43.7458920486043,
+    "lng": -79.5891451714213,
+    "courtType": "school"
+  },
+  {
+    "name": "Highland Creek Public School",
+    "address": "1410 Military Trl",
+    "district": "Scarborough",
+    "lat": 43.7835009010173,
+    "lng": -79.1784462927192,
+    "courtType": "school"
+  },
+  {
+    "name": "Highland Heights Jr Public School And Jean Augustine Girls Academy",
+    "address": "35 Glendower Crct",
+    "district": "Scarborough",
+    "lat": 43.7944199052402,
+    "lng": -79.3002623454523,
+    "courtType": "school"
+  },
+  {
+    "name": "Highland Middle School",
+    "address": "201 Cliffwood Rd",
+    "district": "North York",
+    "lat": 43.8068603785032,
+    "lng": -79.3554480856806,
+    "courtType": "school"
+  },
+  {
+    "name": "Highview Public School",
+    "address": "22 Highview Ave",
+    "district": "North York",
+    "lat": 43.7219510502744,
+    "lng": -79.4972302699958,
+    "courtType": "school"
+  },
+  {
+    "name": "Hillcrest Community School",
+    "address": "44 Hilton Ave",
+    "district": "Toronto",
+    "lat": 43.6790424542588,
+    "lng": -79.4158447800033,
+    "courtType": "school"
+  },
+  {
+    "name": "Hillmount Public School",
+    "address": "245 McNicoll Ave",
+    "district": "North York",
+    "lat": 43.7994075938642,
+    "lng": -79.3507265117258,
+    "courtType": "school"
+  },
+  {
+    "name": "Hilltop Mdl School",
+    "address": "35 Trehorne Dr",
+    "district": "Etobicoke",
+    "lat": 43.6894627380415,
+    "lng": -79.53306700719,
+    "courtType": "school"
+  },
+  {
+    "name": "Hodgson Middle School",
+    "address": "282 Davisville Ave",
+    "district": "Toronto",
+    "lat": 43.7010950019854,
+    "lng": -79.3847932929072,
+    "courtType": "school"
+  },
+  {
+    "name": "Hollycrest Mdl School",
+    "address": "630 Renforth Dr",
+    "district": "Etobicoke",
+    "lat": 43.656104223852,
+    "lng": -79.5827078548947,
+    "courtType": "school"
+  },
+  {
+    "name": "Hollywood Public School",
+    "address": "360 Hollywood Ave",
+    "district": "North York",
+    "lat": 43.7705185087478,
+    "lng": -79.3918291306292,
+    "courtType": "school"
+  },
+  {
+    "name": "Holy Angels Catholic Elementary",
+    "address": "65 Jutland Rd",
+    "district": "Etobicoke",
+    "lat": 43.6284092590616,
+    "lng": -79.517657260195,
+    "courtType": "school"
+  },
+  {
+    "name": "Holy Angels Catholic School",
+    "address": "100 Allanhurst Dr",
+    "district": "Etobicoke",
+    "lat": 43.6801476371998,
+    "lng": -79.5194735178589,
+    "courtType": "school"
+  },
+  {
+    "name": "Holy Child Catholic Elementary School",
+    "address": "850 Humberwood Blvd",
+    "district": "Etobicoke",
+    "lat": 43.7288858667834,
+    "lng": -79.6191818734033,
+    "courtType": "school"
+  },
+  {
+    "name": "Holy Cross Catholic Elementary School",
+    "address": "299A Donlands Ave",
+    "district": "East York",
+    "lat": 43.6899875599376,
+    "lng": -79.3406763525746,
+    "courtType": "school"
+  },
+  {
+    "name": "Holy Family Catholic Elementary School",
+    "address": "141 Close Ave",
+    "district": "Toronto",
+    "lat": 43.6388275584139,
+    "lng": -79.4347122849581,
+    "courtType": "school"
+  },
+  {
+    "name": "Holy Name Catholic Elementary School",
+    "address": "690 Carlaw Ave",
+    "district": "Toronto",
+    "lat": 43.6773475019697,
+    "lng": -79.3472848350961,
+    "courtType": "school"
+  },
+  {
+    "name": "Holy Rosary Catholic Elementary School",
+    "address": "308 Tweedsmuir Ave",
+    "district": "York",
+    "lat": 43.6849850727211,
+    "lng": -79.4140516961036,
+    "courtType": "school"
+  },
+  {
+    "name": "Holy Spirit Catholic Elementary School",
+    "address": "3530 Sheppard Ave E",
+    "district": "Scarborough",
+    "lat": 43.7812935995392,
+    "lng": -79.302695673123,
+    "courtType": "school"
+  },
+  {
+    "name": "Howard Jr Public School",
+    "address": "30 Marmaduke St",
+    "district": "Toronto",
+    "lat": 43.650426312651,
+    "lng": -79.4522720930996,
+    "courtType": "school"
+  },
+  {
+    "name": "Humber Summit Mdl School",
+    "address": "60 Pearldale Ave",
+    "district": "North York",
+    "lat": 43.7505647535485,
+    "lng": -79.564522188693,
+    "courtType": "school"
+  },
+  {
+    "name": "Humber Valley Village Jr Mdl School",
+    "address": "65 Hartfield Rd",
+    "district": "Etobicoke",
+    "lat": 43.6654435061721,
+    "lng": -79.5265666084256,
+    "courtType": "school"
+  },
+  {
+    "name": "Humbercrest Public School",
+    "address": "14 St Mark's Rd",
+    "district": "York",
+    "lat": 43.6604526501243,
+    "lng": -79.4910553735324,
+    "courtType": "school"
+  },
+  {
+    "name": "Humberwood Downs Jr Mdl Academy",
+    "address": "850 Humberwood Blvd",
+    "district": "Etobicoke",
+    "lat": 43.7288858667834,
+    "lng": -79.6191818734033,
+    "courtType": "school"
+  },
+  {
+    "name": "Humewood Community School",
+    "address": "15 Cherrywood Ave",
+    "district": "York",
+    "lat": 43.6866350930218,
+    "lng": -79.4280204516617,
+    "courtType": "school"
+  },
+  {
+    "name": "Hunter'S Glen Jr Public School",
+    "address": "16 Haileybury Dr",
+    "district": "Scarborough",
+    "lat": 43.7457122545676,
+    "lng": -79.2601219894519,
+    "courtType": "school"
+  },
+  {
+    "name": "Huron Street Jr Public School",
+    "address": "541 Huron St",
+    "district": "Toronto",
+    "lat": 43.6705755099718,
+    "lng": -79.4024215880623,
+    "courtType": "school"
+  },
+  {
+    "name": "Immaculate Conception Catholic Elementary School",
+    "address": "23 Comay Rd",
+    "district": "North York",
+    "lat": 43.6976801383094,
+    "lng": -79.4778216965409,
+    "courtType": "school"
+  },
+  {
+    "name": "Immaculate Heart Of Mary Catholic Elementary School",
+    "address": "101 Birchmount Rd",
+    "district": "Scarborough",
+    "lat": 43.696144795195,
+    "lng": -79.2624580005311,
+    "courtType": "school"
+  },
+  {
+    "name": "Indian Road Crescent Jr Public School",
+    "address": "285 Indian Road Cres",
+    "district": "Toronto",
+    "lat": 43.6625287329027,
+    "lng": -79.4600779001397,
+    "courtType": "school"
+  },
+  {
+    "name": "Inglenook Community School",
+    "address": "19 Sackville St",
+    "district": "Toronto",
+    "lat": 43.6539752894773,
+    "lng": -79.3594007219466,
+    "courtType": "school"
+  },
+  {
+    "name": "Inglewood Heights Jr Public School",
+    "address": "45 Dempster St",
+    "district": "Scarborough",
+    "lat": 43.7794075284367,
+    "lng": -79.2923181525917,
+    "courtType": "school"
+  },
+  {
+    "name": "Ionview Public School",
+    "address": "90 Ionview Rd",
+    "district": "Scarborough",
+    "lat": 43.7374516240236,
+    "lng": -79.2743179577449,
+    "courtType": "school"
+  },
+  {
+    "name": "Iroquois Jr Public School",
+    "address": "265 Chartland Blvd S",
+    "district": "Scarborough",
+    "lat": 43.8026801566349,
+    "lng": -79.2694408055289,
+    "courtType": "school"
+  },
+  {
+    "name": "Island Public Natural Science School",
+    "address": "30 Centre Island Pk",
+    "district": "Toronto",
+    "lat": 43.6157002778621,
+    "lng": -79.3783881351182,
+    "courtType": "school"
+  },
+  {
+    "name": "Islington Jr Mdl School",
+    "address": "44 Cordova Ave",
+    "district": "Etobicoke",
+    "lat": 43.6474828161727,
+    "lng": -79.5279466910799,
+    "courtType": "school"
+  },
+  {
+    "name": "J B Tyrrell Sr Public School",
+    "address": "10 Corinthian Blvd",
+    "district": "Scarborough",
+    "lat": 43.7888787686407,
+    "lng": -79.3241750662902,
+    "courtType": "school"
+  },
+  {
+    "name": "J G Workman Public School",
+    "address": "487 Birchmount Rd",
+    "district": "Scarborough",
+    "lat": 43.7071912568456,
+    "lng": -79.2671279279676,
+    "courtType": "school"
+  },
+  {
+    "name": "J R Wilcox Community School",
+    "address": "231 Ava Rd",
+    "district": "York",
+    "lat": 43.6949467937453,
+    "lng": -79.4363052648149,
+    "courtType": "school"
+  },
+  {
+    "name": "Jack Miner Sr Public School",
+    "address": "405 Guildwood Pkwy",
+    "district": "Scarborough",
+    "lat": 43.749688633648,
+    "lng": -79.186968339472,
+    "courtType": "school"
+  },
+  {
+    "name": "Jackman Avenue Jr Public School",
+    "address": "79 Jackman Ave",
+    "district": "Toronto",
+    "lat": 43.6806502154921,
+    "lng": -79.3539353612732,
+    "courtType": "school"
+  },
+  {
+    "name": "James Culnan Catholic Elementary School",
+    "address": "605 Willard Ave",
+    "district": "York",
+    "lat": 43.6611071189691,
+    "lng": -79.4855842504847,
+    "courtType": "school"
+  },
+  {
+    "name": "James S Bell Jr Mdl Sports And Wellness Academy",
+    "address": "90 Thirty First St",
+    "district": "Etobicoke",
+    "lat": 43.5943542260396,
+    "lng": -79.5301917018794,
+    "courtType": "school"
+  },
+  {
+    "name": "Jean Lumb Public School",
+    "address": "20 Brunel Crt",
+    "district": "Toronto",
+    "lat": 43.639270767533,
+    "lng": -79.3942756638905,
+    "courtType": "school"
+  },
+  {
+    "name": "John A Leslie Public School",
+    "address": "459 Midland Ave",
+    "district": "Scarborough",
+    "lat": 43.7141086801971,
+    "lng": -79.2490593761566,
+    "courtType": "school"
+  },
+  {
+    "name": "John D Parker Jr School",
+    "address": "202 Mount Olive Dr",
+    "district": "Etobicoke",
+    "lat": 43.7533579130158,
+    "lng": -79.5964455179149,
+    "courtType": "school"
+  },
+  {
+    "name": "John English Jr Mdl School",
+    "address": "95 Mimico Ave",
+    "district": "Etobicoke",
+    "lat": 43.6118557338467,
+    "lng": -79.4944180034274,
+    "courtType": "school"
+  },
+  {
+    "name": "John Fisher Jr Public School",
+    "address": "40 Erskine Ave",
+    "district": "Toronto",
+    "lat": 43.711717740145,
+    "lng": -79.3976720954234,
+    "courtType": "school"
+  },
+  {
+    "name": "John G Althouse Mdl School",
+    "address": "130 Lloyd Manor Rd",
+    "district": "Etobicoke",
+    "lat": 43.6683053235247,
+    "lng": -79.5540087673011,
+    "courtType": "school"
+  },
+  {
+    "name": "John G Diefenbaker Public School",
+    "address": "70 Dean Park Rd",
+    "district": "Scarborough",
+    "lat": 43.8022950372656,
+    "lng": -79.1718695347637,
+    "courtType": "school"
+  },
+  {
+    "name": "John Mccrae Sr Public School",
+    "address": "431 McCowan Rd",
+    "district": "Scarborough",
+    "lat": 43.7440442493865,
+    "lng": -79.2398865092258,
+    "courtType": "school"
+  },
+  {
+    "name": "John Ross Robertson Jr Public School",
+    "address": "130 Glengrove Ave W",
+    "district": "Toronto",
+    "lat": 43.7183259803294,
+    "lng": -79.4088642991292,
+    "courtType": "school"
+  },
+  {
+    "name": "John Wanless Jr Public School",
+    "address": "245 Fairlawn Ave",
+    "district": "Toronto",
+    "lat": 43.7288686420148,
+    "lng": -79.4120566947699,
+    "courtType": "school"
+  },
+  {
+    "name": "Joseph Brant Sr Public School",
+    "address": "270 Manse Rd",
+    "district": "Scarborough",
+    "lat": 43.7670440318193,
+    "lng": -79.1754975507903,
+    "courtType": "school"
+  },
+  {
+    "name": "Joseph Howe Sr Public School",
+    "address": "20 Winter Gardens Trl",
+    "district": "Scarborough",
+    "lat": 43.785807845353,
+    "lng": -79.13729821037,
+    "courtType": "school"
+  },
+  {
+    "name": "Josyf Cardinal Slipyj Catholic Elementary School",
+    "address": "35 West Deane Park Dr",
+    "district": "Etobicoke",
+    "lat": 43.6594751992159,
+    "lng": -79.5660253980864,
+    "courtType": "school"
+  },
+  {
+    "name": "Joyce Public School",
+    "address": "26 Joyce Pkwy",
+    "district": "North York",
+    "lat": 43.7097753946106,
+    "lng": -79.4637574882499,
+    "courtType": "school"
+  },
+  {
+    "name": "Keele St Jr School",
+    "address": "99 Mountview Ave",
+    "district": "Toronto",
+    "lat": 43.6575074742763,
+    "lng": -79.4615965745208,
+    "courtType": "school"
+  },
+  {
+    "name": "Keelesdale Jr Public School",
+    "address": "200 Bicknell Ave",
+    "district": "York",
+    "lat": 43.6869571004579,
+    "lng": -79.4769463100751,
+    "courtType": "school"
+  },
+  {
+    "name": "Kennedy Public School",
+    "address": "20 Elmfield Cres",
+    "district": "Scarborough",
+    "lat": 43.8188359157905,
+    "lng": -79.3081805175917,
+    "courtType": "school"
+  },
+  {
+    "name": "Kensington Community School",
+    "address": "401 College St",
+    "district": "Toronto",
+    "lat": 43.656397819463,
+    "lng": -79.4057315246338,
+    "courtType": "school"
+  },
+  {
+    "name": "Kew Beach Jr Public School",
+    "address": "101 Kippendavie Ave",
+    "district": "Toronto",
+    "lat": 43.6684642406022,
+    "lng": -79.3027273153273,
+    "courtType": "school"
+  },
+  {
+    "name": "King George Jr Public School",
+    "address": "25 Rexford Rd",
+    "district": "York",
+    "lat": 43.6631626874066,
+    "lng": -79.4868867512554,
+    "courtType": "school"
+  },
+  {
+    "name": "Kingslake Public School",
+    "address": "90 Kingslake Rd",
+    "district": "North York",
+    "lat": 43.7847819082729,
+    "lng": -79.3455302477626,
+    "courtType": "school"
+  },
+  {
+    "name": "Kingsview Village Jr School",
+    "address": "1 York Rd",
+    "district": "Etobicoke",
+    "lat": 43.6978666584909,
+    "lng": -79.5507891278971,
+    "courtType": "school"
+  },
+  {
+    "name": "Knob Hill Public School",
+    "address": "25 Seminole Ave",
+    "district": "Scarborough",
+    "lat": 43.7452922846894,
+    "lng": -79.2497850291991,
+    "courtType": "school"
+  },
+  {
+    "name": "Lamberton Public School",
+    "address": "33 Lamberton Blvd",
+    "district": "North York",
+    "lat": 43.7536543018276,
+    "lng": -79.5028244891368,
+    "courtType": "school"
+  },
+  {
+    "name": "Lambton Kingsway Jr Mdl School",
+    "address": "525 Prince Edward Dr N",
+    "district": "Etobicoke",
+    "lat": 43.6586572209274,
+    "lng": -79.5093148073344,
+    "courtType": "school"
+  },
+  {
+    "name": "Lambton Park Community School",
+    "address": "50 Bernice Cres",
+    "district": "York",
+    "lat": 43.6675759817237,
+    "lng": -79.4983074871366,
+    "courtType": "school"
+  },
+  {
+    "name": "Lanor Jr Mdl School",
+    "address": "450 Lanor Ave",
+    "district": "Etobicoke",
+    "lat": 43.6095014861413,
+    "lng": -79.5447921850042,
+    "courtType": "school"
+  },
+  {
+    "name": "Lawrence Heights Mdl School",
+    "address": "50 Highland Hill",
+    "district": "North York",
+    "lat": 43.7208322543823,
+    "lng": -79.4510772508882,
+    "courtType": "school"
+  },
+  {
+    "name": "Lescon Public School",
+    "address": "34 Lescon Rd",
+    "district": "North York",
+    "lat": 43.7808296263161,
+    "lng": -79.3577389782403,
+    "courtType": "school"
+  },
+  {
+    "name": "Leslieville Jr Public School",
+    "address": "254 Leslie St",
+    "district": "Toronto",
+    "lat": 43.6673207679123,
+    "lng": -79.3324077238987,
+    "courtType": "school"
+  },
+  {
+    "name": "Lester B Pearson Elementary School",
+    "address": "7 Snowcrest Ave",
+    "district": "North York",
+    "lat": 43.7923194425359,
+    "lng": -79.3874623162842,
+    "courtType": "school"
+  },
+  {
+    "name": "Lillian Public School",
+    "address": "1059 Lillian St",
+    "district": "North York",
+    "lat": 43.7978213696628,
+    "lng": -79.4103985022169,
+    "courtType": "school"
+  },
+  {
+    "name": "Lord Roberts Jr Public School",
+    "address": "165 Lord Roberts Dr",
+    "district": "Scarborough",
+    "lat": 43.7413177791394,
+    "lng": -79.2636373332983,
+    "courtType": "school"
+  },
+  {
+    "name": "Lucy Maud Montgomery Public School",
+    "address": "95 Murison Blvd",
+    "district": "Scarborough",
+    "lat": 43.7969167927449,
+    "lng": -79.2093657180027,
+    "courtType": "school"
+  },
+  {
+    "name": "Lucy Mccormick Sr School",
+    "address": "2717 Dundas St W",
+    "district": "Toronto",
+    "lat": 43.6646326067736,
+    "lng": -79.4601799672306,
+    "courtType": "school"
+  },
+  {
+    "name": "Lynngate Jr Public School",
+    "address": "129 Cass Ave",
+    "district": "Scarborough",
+    "lat": 43.7766766424049,
+    "lng": -79.300660254809,
+    "courtType": "school"
+  },
+  {
+    "name": "Lynnwood Heights Jr Public School",
+    "address": "50 Southlawn Dr",
+    "district": "Scarborough",
+    "lat": 43.7965807575644,
+    "lng": -79.2913478664802,
+    "courtType": "school"
+  },
+  {
+    "name": "Macklin Public School",
+    "address": "136 Ingleton Blvd",
+    "district": "Scarborough",
+    "lat": 43.821788456337,
+    "lng": -79.2674700420568,
+    "courtType": "school"
+  },
+  {
+    "name": "Malvern Jr Public School",
+    "address": "70 Mammoth Hall Trl",
+    "district": "Scarborough",
+    "lat": 43.7978394610251,
+    "lng": -79.2332519441342,
+    "courtType": "school"
+  },
+  {
+    "name": "Manhattan Park Jr Public School",
+    "address": "90 Manhattan Dr",
+    "district": "Scarborough",
+    "lat": 43.7533540031688,
+    "lng": -79.2953011186665,
+    "courtType": "school"
+  },
+  {
+    "name": "Maple Leaf Public School",
+    "address": "301 Culford Rd",
+    "district": "North York",
+    "lat": 43.7148506431921,
+    "lng": -79.4902752087952,
+    "courtType": "school"
+  },
+  {
+    "name": "Mary Shadd Public School",
+    "address": "135 Hupfield Trl",
+    "district": "Scarborough",
+    "lat": 43.8143956979563,
+    "lng": -79.2183240428671,
+    "courtType": "school"
+  },
+  {
+    "name": "Maryvale Public School",
+    "address": "1325 Pharmacy Ave",
+    "district": "Scarborough",
+    "lat": 43.754822068202,
+    "lng": -79.307836183235,
+    "courtType": "school"
+  },
+  {
+    "name": "Mason Road Jr Public School",
+    "address": "78 Mason Rd",
+    "district": "Scarborough",
+    "lat": 43.7390564379521,
+    "lng": -79.2256545935691,
+    "courtType": "school"
+  },
+  {
+    "name": "Maurice Cody Jr Public School",
+    "address": "364 Belsize Dr",
+    "district": "Toronto",
+    "lat": 43.7048143191022,
+    "lng": -79.3776790176605,
+    "courtType": "school"
+  },
+  {
+    "name": "Mckee Public School",
+    "address": "35 Church Ave",
+    "district": "North York",
+    "lat": 43.7741078589817,
+    "lng": -79.411056249547,
+    "courtType": "school"
+  },
+  {
+    "name": "Mcmurrich Jr Public School",
+    "address": "115 Winona Dr",
+    "district": "Toronto",
+    "lat": 43.6780763704772,
+    "lng": -79.4310619546751,
+    "courtType": "school"
+  },
+  {
+    "name": "Mcnicoll Avenue School Bldg",
+    "address": "155 McNicoll Ave",
+    "district": "North York",
+    "lat": 43.7989816726444,
+    "lng": -79.358084392574,
+    "courtType": "school"
+  },
+  {
+    "name": "Meadowvale Public School",
+    "address": "761 Meadowvale Rd",
+    "district": "Scarborough",
+    "lat": 43.7955110107972,
+    "lng": -79.1640681823792,
+    "courtType": "school"
+  },
+  {
+    "name": "Melody Village Jr School",
+    "address": "520 Silverstone Dr",
+    "district": "Etobicoke",
+    "lat": 43.7381347518027,
+    "lng": -79.5948425834357,
+    "courtType": "school"
+  },
+  {
+    "name": "Micheline Saint Cyr Elementary School",
+    "address": "85 Forty First St",
+    "district": "Etobicoke",
+    "lat": 43.5902188648384,
+    "lng": -79.5437809919911,
+    "courtType": "school"
+  },
+  {
+    "name": "Military Trail Public School",
+    "address": "701 Military Trl",
+    "district": "Scarborough",
+    "lat": 43.7891154918287,
+    "lng": -79.1971169704309,
+    "courtType": "school"
+  },
+  {
+    "name": "Mill Valley Jr School",
+    "address": "411 Mill Rd",
+    "district": "Etobicoke",
+    "lat": 43.6441893872147,
+    "lng": -79.5869715708541,
+    "courtType": "school"
+  },
+  {
+    "name": "Milliken Public School",
+    "address": "130 Port Royal Trl",
+    "district": "Scarborough",
+    "lat": 43.8165865457748,
+    "lng": -79.2884969457851,
+    "courtType": "school"
+  },
+  {
+    "name": "Millwood Jr School",
+    "address": "222 Mill Rd",
+    "district": "Etobicoke",
+    "lat": 43.6334096401878,
+    "lng": -79.5769148190181,
+    "courtType": "school"
+  },
+  {
+    "name": "Milne Valley Mdl School",
+    "address": "100 Underhill Dr",
+    "district": "North York",
+    "lat": 43.7472020481689,
+    "lng": -79.3267091236923,
+    "courtType": "school"
+  },
+  {
+    "name": "Monsignor John Corrigan Catholic Elementary School",
+    "address": "100 Royalcrest Rd",
+    "district": "Etobicoke",
+    "lat": 43.7515700507883,
+    "lng": -79.6050136936641,
+    "courtType": "school"
+  },
+  {
+    "name": "Morrish Public School",
+    "address": "61 Canmore Blvd",
+    "district": "Scarborough",
+    "lat": 43.7931879168947,
+    "lng": -79.1792700314566,
+    "courtType": "school"
+  },
+  {
+    "name": "Morse Street Jr Public School",
+    "address": "180 Carlaw Ave",
+    "district": "Toronto",
+    "lat": 43.6601669135408,
+    "lng": -79.3401666940977,
+    "courtType": "school"
+  },
+  {
+    "name": "Mother Cabrini Catholic Elementary School",
+    "address": "720 Renforth Dr",
+    "district": "Etobicoke",
+    "lat": 43.6636644387222,
+    "lng": -79.5860339131245,
+    "courtType": "school"
+  },
+  {
+    "name": "Muirhead Public School",
+    "address": "25 Muirhead Rd",
+    "district": "North York",
+    "lat": 43.7788840209192,
+    "lng": -79.3374501774332,
+    "courtType": "school"
+  },
+  {
+    "name": "Nativity Of Our Lord Catholic Elementary School",
+    "address": "35 Saffron Cres",
+    "district": "Etobicoke",
+    "lat": 43.6534070908518,
+    "lng": -79.575506466774,
+    "courtType": "school"
+  },
+  {
+    "name": "Nelson Mandela Park Public School",
+    "address": "440 Shuter St",
+    "district": "Toronto",
+    "lat": 43.6582511901491,
+    "lng": -79.3605527757157,
+    "courtType": "school"
+  },
+  {
+    "name": "Niagara Street Jr Public School",
+    "address": "222 Niagara St",
+    "district": "Toronto",
+    "lat": 43.6439374594858,
+    "lng": -79.4082529250071,
+    "courtType": "school"
+  },
+  {
+    "name": "Norman Cook Jr Public School",
+    "address": "725 Danforth Rd",
+    "district": "Scarborough",
+    "lat": 43.7190391303055,
+    "lng": -79.2577951134452,
+    "courtType": "school"
+  },
+  {
+    "name": "Norman Ingram Public School",
+    "address": "50 Duncairn Rd",
+    "district": "North York",
+    "lat": 43.7399524524339,
+    "lng": -79.3496061486394,
+    "courtType": "school"
+  },
+  {
+    "name": "Norseman Jr Mdl School",
+    "address": "105 Norseman St",
+    "district": "Etobicoke",
+    "lat": 43.6343052597247,
+    "lng": -79.5163297488864,
+    "courtType": "school"
+  },
+  {
+    "name": "North Agincourt Jr Public School",
+    "address": "60 Moran Rd",
+    "district": "Scarborough",
+    "lat": 43.7964537061583,
+    "lng": -79.2762127949402,
+    "courtType": "school"
+  },
+  {
+    "name": "North Bendale Jr Public School",
+    "address": "29 Aveline Cres",
+    "district": "Scarborough",
+    "lat": 43.7705721088236,
+    "lng": -79.2478021030816,
+    "courtType": "school"
+  },
+  {
+    "name": "North Bridlewood Jr Public School",
+    "address": "50 Collingsbrook Blvd",
+    "district": "Scarborough",
+    "lat": 43.788916355463,
+    "lng": -79.3185870835038,
+    "courtType": "school"
+  },
+  {
+    "name": "North Kipling Jr Mdl School",
+    "address": "2 Rowntree Rd",
+    "district": "Etobicoke",
+    "lat": 43.7520919012962,
+    "lng": -79.5844719859096,
+    "courtType": "school"
+  },
+  {
+    "name": "North Preparatory Jr Public School",
+    "address": "1100 Spadina Rd",
+    "district": "Toronto",
+    "lat": 43.7057655831012,
+    "lng": -79.4203748853603,
+    "courtType": "school"
+  },
+  {
+    "name": "Norway Jr Public School",
+    "address": "390 Kingston Rd",
+    "district": "Toronto",
+    "lat": 43.6763729088119,
+    "lng": -79.3062198263356,
+    "courtType": "school"
+  },
+  {
+    "name": "Notre Dame De Grace Catholic Elementary School",
+    "address": "59 Clement Rd",
+    "district": "Etobicoke",
+    "lat": 43.6792638342705,
+    "lng": -79.5598091719247,
+    "courtType": "school"
+  },
+  {
+    "name": "Oakdale Park Mdl School",
+    "address": "315 Grandravine Dr",
+    "district": "North York",
+    "lat": 43.7474650745775,
+    "lng": -79.5119920580985,
+    "courtType": "school"
+  },
+  {
+    "name": "Oakridge Jr Public School",
+    "address": "110 BYNG AVE",
+    "district": "Scarborough",
+    "lat": 43.6954675997844,
+    "lng": -79.2815887508899,
+    "courtType": "school"
+  },
+  {
+    "name": "O'Connor Public School",
+    "address": "1665 O'Connor Dr",
+    "district": "North York",
+    "lat": 43.7165073254377,
+    "lng": -79.304152132862,
+    "courtType": "school"
+  },
+  {
+    "name": "Ogden Jr Public School",
+    "address": "33 Phoebe St",
+    "district": "Toronto",
+    "lat": 43.6500136150807,
+    "lng": -79.395126856022,
+    "courtType": "school"
+  },
+  {
+    "name": "Orde Street Jr Public School",
+    "address": "18 Orde St",
+    "district": "Toronto",
+    "lat": 43.6585557903481,
+    "lng": -79.3921831928027,
+    "courtType": "school"
+  },
+  {
+    "name": "Oriole Park Jr Public School",
+    "address": "80 Braemar Ave",
+    "district": "Toronto",
+    "lat": 43.7025715516779,
+    "lng": -79.4096932774579,
+    "courtType": "school"
+  },
+  {
+    "name": "Ossington Old Orchard Jr Public School",
+    "address": "380 Ossington Ave",
+    "district": "Toronto",
+    "lat": 43.6527076700775,
+    "lng": -79.4225997592765,
+    "courtType": "school"
+  },
+  {
+    "name": "Our Lady Of Fatima Catholic Elementary School",
+    "address": "3176 St Clair Ave E",
+    "district": "Scarborough",
+    "lat": 43.7101599387233,
+    "lng": -79.2936158525246,
+    "courtType": "school"
+  },
+  {
+    "name": "Our Lady Of Grace Catholic Elementary School",
+    "address": "121 Brimwood Blvd",
+    "district": "Scarborough",
+    "lat": 43.8124790853726,
+    "lng": -79.275044466151,
+    "courtType": "school"
+  },
+  {
+    "name": "Our Lady Of Guadalupe Catholic Elementary School",
+    "address": "3105 Don Mills Rd",
+    "district": "North York",
+    "lat": 43.7898742436904,
+    "lng": -79.3533482302606,
+    "courtType": "school"
+  },
+  {
+    "name": "Our Lady Of Lourdes Catholic Elementary School",
+    "address": "444 Sherbourne St",
+    "district": "Toronto",
+    "lat": 43.6660434935425,
+    "lng": -79.3746955627633,
+    "courtType": "school"
+  },
+  {
+    "name": "Our Lady Of Peace Catholic Elementary School",
+    "address": "70 Mattice Ave",
+    "district": "Etobicoke",
+    "lat": 43.6465122489888,
+    "lng": -79.54107815468,
+    "courtType": "school"
+  },
+  {
+    "name": "Our Lady Of Perpetual Help Catholic Elementary School",
+    "address": "1 1/2 Garfield Ave",
+    "district": "Toronto",
+    "lat": 43.687105081373,
+    "lng": -79.3834646497375,
+    "courtType": "school"
+  },
+  {
+    "name": "Our Lady Of Sorrows Catholic Elementary School",
+    "address": "32 Montgomery Rd",
+    "district": "Etobicoke",
+    "lat": 43.6482193681748,
+    "lng": -79.5189670333434,
+    "courtType": "school"
+  },
+  {
+    "name": "Our Lady Of The Assumption Catholic Elementary School",
+    "address": "125 Glenmount Ave",
+    "district": "North York",
+    "lat": 43.7163703521353,
+    "lng": -79.4316993861152,
+    "courtType": "school"
+  },
+  {
+    "name": "Our Lady Of Victory Catholic Elementary School",
+    "address": "70 Guestville Ave",
+    "district": "York",
+    "lat": 43.6836610022383,
+    "lng": -79.4898300918393,
+    "courtType": "school"
+  },
+  {
+    "name": "Our Lady Of Wisdom Catholic Elementary School",
+    "address": "10 Japonica Rd",
+    "district": "Scarborough",
+    "lat": 43.7619465822385,
+    "lng": -79.3083463663182,
+    "courtType": "school"
+  },
+  {
+    "name": "Owen Public School",
+    "address": "111 Owen Blvd",
+    "district": "North York",
+    "lat": 43.7490561850855,
+    "lng": -79.3925162004247,
+    "courtType": "school"
+  },
+  {
+    "name": "Palmerston Avenue Jr Public School",
+    "address": "734 Palmerston Ave",
+    "district": "Toronto",
+    "lat": 43.6681449064113,
+    "lng": -79.4152049534391,
+    "courtType": "school"
+  },
+  {
+    "name": "Pape Avenue Jr Public School",
+    "address": "220 Langley Ave",
+    "district": "Toronto",
+    "lat": 43.670351887554,
+    "lng": -79.3418936177203,
+    "courtType": "school"
+  },
+  {
+    "name": "Park Lane Public School",
+    "address": "60 Park Lane Crcl",
+    "district": "North York",
+    "lat": 43.7289236202676,
+    "lng": -79.3668200605055,
+    "courtType": "school"
+  },
+  {
+    "name": "Park Lawn Jr Mdl School",
+    "address": "71 Ballacaine Dr",
+    "district": "Etobicoke",
+    "lat": 43.6377066076306,
+    "lng": -79.4964469164461,
+    "courtType": "school"
+  },
+  {
+    "name": "Parkfield Jr School",
+    "address": "31 Redgrave Dr",
+    "district": "Etobicoke",
+    "lat": 43.6822877769246,
+    "lng": -79.5697578514709,
+    "courtType": "school"
+  },
+  {
+    "name": "Parkside Elementary School",
+    "address": "401 Cedarvale Ave",
+    "district": "East York",
+    "lat": 43.6994434678363,
+    "lng": -79.3163183865433,
+    "courtType": "school"
+  },
+  {
+    "name": "Parkview Alternative School",
+    "address": "1641 Pharmacy Ave",
+    "district": "Scarborough",
+    "lat": 43.7673772800379,
+    "lng": -79.313002607885,
+    "courtType": "school"
+  },
+  {
+    "name": "Pauline Johnson Jr Public School",
+    "address": "35 Dunmurray Blvd",
+    "district": "Scarborough",
+    "lat": 43.7851298582651,
+    "lng": -79.3035712981415,
+    "courtType": "school"
+  },
+  {
+    "name": "Pauline Jr Public School",
+    "address": "100 Pauline Ave",
+    "district": "Toronto",
+    "lat": 43.6624891075822,
+    "lng": -79.4391436705617,
+    "courtType": "school"
+  },
+  {
+    "name": "Pelmo Park Public School",
+    "address": "180 Gary Dr",
+    "district": "North York",
+    "lat": 43.7120567278162,
+    "lng": -79.5181161605692,
+    "courtType": "school"
+  },
+  {
+    "name": "Percy Williams Jr Public School",
+    "address": "35 White Heather Blvd",
+    "district": "Scarborough",
+    "lat": 43.8126668817723,
+    "lng": -79.2656585281205,
+    "courtType": "school"
+  },
+  {
+    "name": "Perth Avenue Jr Public School",
+    "address": "14 Ruskin Ave",
+    "district": "Toronto",
+    "lat": 43.6628313614165,
+    "lng": -79.4524196858968,
+    "courtType": "school"
+  },
+  {
+    "name": "Pierre Laporte Mdl School",
+    "address": "1270 Wilson Ave",
+    "district": "North York",
+    "lat": 43.7250745328027,
+    "lng": -79.4921243121893,
+    "courtType": "school"
+  },
+  {
+    "name": "Pineway Public School",
+    "address": "110 Pineway Blvd",
+    "district": "North York",
+    "lat": 43.7964177776079,
+    "lng": -79.3745155238261,
+    "courtType": "school"
+  },
+  {
+    "name": "Pleasant Public School",
+    "address": "288 Pleasant Ave",
+    "district": "North York",
+    "lat": 43.7899554182757,
+    "lng": -79.4345576870743,
+    "courtType": "school"
+  },
+  {
+    "name": "Pope Francis Catholic Elementary School",
+    "address": "319 Ossington Ave",
+    "district": "Toronto",
+    "lat": 43.6516313656822,
+    "lng": -79.4210161849604,
+    "courtType": "school"
+  },
+  {
+    "name": "Poplar Road Jr Public School",
+    "address": "66 Dearham Wood",
+    "district": "Scarborough",
+    "lat": 43.7537306281654,
+    "lng": -79.1872408418527,
+    "courtType": "school"
+  },
+  {
+    "name": "Port Royal Public School",
+    "address": "408 Port Royal Trl",
+    "district": "Scarborough",
+    "lat": 43.8246324049807,
+    "lng": -79.2899667499679,
+    "courtType": "school"
+  },
+  {
+    "name": "Portage Trail Communityschool",
+    "address": "100 Sidney Belsey Cres",
+    "district": "York",
+    "lat": 43.6922961842952,
+    "lng": -79.5097668839041,
+    "courtType": "school"
+  },
+  {
+    "name": "Precious Blood Catholic Elementary School",
+    "address": "1035 Pharmacy Ave",
+    "district": "Scarborough",
+    "lat": 43.7393564303003,
+    "lng": -79.3022374245071,
+    "courtType": "school"
+  },
+  {
+    "name": "Presteign Heights Elementary School",
+    "address": "2570 St Clair Ave E",
+    "district": "East York",
+    "lat": 43.7055433445086,
+    "lng": -79.3171939752515,
+    "courtType": "school"
+  },
+  {
+    "name": "Prince Of Peace Catholic Elementary School",
+    "address": "255 Alton Towers Crcl",
+    "district": "Scarborough",
+    "lat": 43.8253890671487,
+    "lng": -79.2789443071917,
+    "courtType": "school"
+  },
+  {
+    "name": "Princess Margaret Jr School",
+    "address": "65 Tromley Dr",
+    "district": "Etobicoke",
+    "lat": 43.6712220300167,
+    "lng": -79.5590577552409,
+    "courtType": "school"
+  },
+  {
+    "name": "Queen Alexandra Mdl School",
+    "address": "181 Broadview Ave",
+    "district": "Toronto",
+    "lat": 43.6616429603441,
+    "lng": -79.3500911323149,
+    "courtType": "school"
+  },
+  {
+    "name": "R H Mcgregor Elementary School",
+    "address": "555 Mortimer Ave",
+    "district": "East York",
+    "lat": 43.6899952579101,
+    "lng": -79.3271357421257,
+    "courtType": "school"
+  },
+  {
+    "name": "Ranchdale Public School",
+    "address": "60 Ranchdale Cres",
+    "district": "North York",
+    "lat": 43.7524580000985,
+    "lng": -79.3232914375889,
+    "courtType": "school"
+  },
+  {
+    "name": "Rawlinson Community School",
+    "address": "231 Glenholme Ave",
+    "district": "York",
+    "lat": 43.6839770688827,
+    "lng": -79.4400434190871,
+    "courtType": "school"
+  },
+  {
+    "name": "Regal Road Jr Public School",
+    "address": "95 Regal Rd",
+    "district": "Toronto",
+    "lat": 43.6737751677408,
+    "lng": -79.4400632870577,
+    "courtType": "school"
+  },
+  {
+    "name": "Regent Heights Public School",
+    "address": "555 Pharmacy Ave",
+    "district": "Scarborough",
+    "lat": 43.7070156248448,
+    "lng": -79.2891326348503,
+    "courtType": "school"
+  },
+  {
+    "name": "Regina Mundi Catholic Elementary School",
+    "address": "70 Playfair Ave",
+    "district": "North York",
+    "lat": 43.7099198210096,
+    "lng": -79.4593958766171,
+    "courtType": "school"
+  },
+  {
+    "name": "Rippleton Public School",
+    "address": "21 Rippleton Rd",
+    "district": "North York",
+    "lat": 43.7409048373993,
+    "lng": -79.3601204660189,
+    "courtType": "school"
+  },
+  {
+    "name": "Rivercrest Jr School",
+    "address": "30 Harefield Dr",
+    "district": "Etobicoke",
+    "lat": 43.729716180075,
+    "lng": -79.5695177435715,
+    "courtType": "school"
+  },
+  {
+    "name": "Robert Service Sr Public School",
+    "address": "945 Danforth Rd",
+    "district": "Scarborough",
+    "lat": 43.7290251523698,
+    "lng": -79.2511781787807,
+    "courtType": "school"
+  },
+  {
+    "name": "Rockcliffe Mdl School",
+    "address": "400 Rockcliffe Blvd",
+    "district": "York",
+    "lat": 43.6738651424808,
+    "lng": -79.4888938172078,
+    "courtType": "school"
+  },
+  {
+    "name": "Rockford Public School",
+    "address": "60 Rockford Rd",
+    "district": "North York",
+    "lat": 43.7858005190036,
+    "lng": -79.4524414110058,
+    "courtType": "school"
+  },
+  {
+    "name": "Rolph Road Elementary School",
+    "address": "31 Rolph Rd",
+    "district": "East York",
+    "lat": 43.6998541229578,
+    "lng": -79.3660007150713,
+    "courtType": "school"
+  },
+  {
+    "name": "Rose Avenue Jr Public School",
+    "address": "675 Ontario St",
+    "district": "Toronto",
+    "lat": 43.6703164704159,
+    "lng": -79.3727880966405,
+    "courtType": "school"
+  },
+  {
+    "name": "Rosedale Jr Public School",
+    "address": "22 South Dr",
+    "district": "Toronto",
+    "lat": 43.6776557315322,
+    "lng": -79.38168602675,
+    "courtType": "school"
+  },
+  {
+    "name": "Roselands Jr Public School",
+    "address": "990 Jane St",
+    "district": "York",
+    "lat": 43.6812267942846,
+    "lng": -79.4990610012849,
+    "courtType": "school"
+  },
+  {
+    "name": "Rosethorn Jr School",
+    "address": "2 Remington Dr",
+    "district": "Etobicoke",
+    "lat": 43.6601566099814,
+    "lng": -79.5394518624762,
+    "courtType": "school"
+  },
+  {
+    "name": "Rouge Valley Public School",
+    "address": "30 Durnford Rd",
+    "district": "Scarborough",
+    "lat": 43.7993862553854,
+    "lng": -79.1512873936937,
+    "courtType": "school"
+  },
+  {
+    "name": "Roywood Public School",
+    "address": "11 Roywood Dr",
+    "district": "North York",
+    "lat": 43.7647240733216,
+    "lng": -79.3217731783625,
+    "courtType": "school"
+  },
+  {
+    "name": "Sacre Coeur Catholic Elementary School",
+    "address": "98 Essex St",
+    "district": "Toronto",
+    "lat": 43.667857556286,
+    "lng": -79.4242134066346,
+    "courtType": "school"
+  },
+  {
+    "name": "Sacred Heart Catholic Elementary School",
+    "address": "75 Hupfield Trl",
+    "district": "Scarborough",
+    "lat": 43.8121839993684,
+    "lng": -79.2201440043568,
+    "courtType": "school"
+  },
+  {
+    "name": "Samuel Hearne Mdl School",
+    "address": "21 Newport Ave",
+    "district": "Scarborough",
+    "lat": 43.6950056241564,
+    "lng": -79.2834799574648,
+    "courtType": "school"
+  },
+  {
+    "name": "Santa Maria Catholic Elementary School",
+    "address": "25 Avon Ave",
+    "district": "York",
+    "lat": 43.681541969503,
+    "lng": -79.477451584347,
+    "courtType": "school"
+  },
+  {
+    "name": "Scarborough Village Public School",
+    "address": "15 Luella St",
+    "district": "Scarborough",
+    "lat": 43.7441193622963,
+    "lng": -79.2220717938636,
+    "courtType": "school"
+  },
+  {
+    "name": "School Of Experiential Education",
+    "address": "40 McArthur St",
+    "district": "Etobicoke",
+    "lat": 43.7016350249789,
+    "lng": -79.5463909750587,
+    "courtType": "school"
+  },
+  {
+    "name": "Second Street Jr Mdl School",
+    "address": "71 Second St",
+    "district": "Etobicoke",
+    "lat": 43.6037250776607,
+    "lng": -79.5000229034999,
+    "courtType": "school"
+  },
+  {
+    "name": "Secord Elementary School",
+    "address": "101 Barrington Ave",
+    "district": "East York",
+    "lat": 43.6923788956395,
+    "lng": -79.3018312433153,
+    "courtType": "school"
+  },
+  {
+    "name": "Seed Alternative School",
+    "address": "885 Dundas St E",
+    "district": "Toronto",
+    "lat": 43.6622721119517,
+    "lng": -79.3503749917097,
+    "courtType": "school"
+  },
+  {
+    "name": "Selwyn Elementary School",
+    "address": "1 Selwyn Ave",
+    "district": "East York",
+    "lat": 43.7084396528702,
+    "lng": -79.3063259433172,
+    "courtType": "school"
+  },
+  {
+    "name": "Seneca Hill Public School",
+    "address": "625 Seneca Hill Dr",
+    "district": "North York",
+    "lat": 43.7908704223355,
+    "lng": -79.3502969872857,
+    "courtType": "school"
+  },
+  {
+    "name": "Seneca School",
+    "address": "580 Rathburn Rd",
+    "district": "Etobicoke",
+    "lat": 43.650933953139,
+    "lng": -79.582545826113,
+    "courtType": "school"
+  },
+  {
+    "name": "Seventh Street Jr School",
+    "address": "101 Seventh St",
+    "district": "Etobicoke",
+    "lat": 43.5999243685511,
+    "lng": -79.5041938387474,
+    "courtType": "school"
+  },
+  {
+    "name": "Shaughnessy Public School",
+    "address": "30 Shaughnessy Blvd",
+    "district": "North York",
+    "lat": 43.7702840439533,
+    "lng": -79.3516008694888,
+    "courtType": "school"
+  },
+  {
+    "name": "Silver Springs Public School",
+    "address": "222 Silver Springs Blvd",
+    "district": "Scarborough",
+    "lat": 43.8044295089524,
+    "lng": -79.3023769660098,
+    "courtType": "school"
+  },
+  {
+    "name": "Silverthorn Community School",
+    "address": "300 Kane Ave",
+    "district": "York",
+    "lat": 43.6872494240615,
+    "lng": -79.4694151111639,
+    "courtType": "school"
+  },
+  {
+    "name": "Sir Adam Beck Jr School",
+    "address": "544 Horner Ave",
+    "district": "Etobicoke",
+    "lat": 43.6017812323731,
+    "lng": -79.5482756661428,
+    "courtType": "school"
+  },
+  {
+    "name": "Sir Alexander Mackenzie Sr Public School",
+    "address": "33 HEATHER RD",
+    "district": "Scarborough",
+    "lat": 43.7893650361485,
+    "lng": -79.2731724486555,
+    "courtType": "school"
+  },
+  {
+    "name": "Sir Ernest Macmillan Sr Public School",
+    "address": "149 Huntsmill Blvd",
+    "district": "Scarborough",
+    "lat": 43.8066383253939,
+    "lng": -79.3286382346771,
+    "courtType": "school"
+  },
+  {
+    "name": "Sir Samuel B Steele Jr Public School",
+    "address": "131 Huntsmill Blvd",
+    "district": "Scarborough",
+    "lat": 43.8070663083017,
+    "lng": -79.3275418257916,
+    "courtType": "school"
+  },
+  {
+    "name": "Sloane Public School",
+    "address": "110 Sloane Ave",
+    "district": "North York",
+    "lat": 43.7312122256091,
+    "lng": -79.3103396611409,
+    "courtType": "school"
+  },
+  {
+    "name": "Smithfield Mdl School",
+    "address": "175 Mount Olive Dr",
+    "district": "Etobicoke",
+    "lat": 43.7500111297374,
+    "lng": -79.5957518765444,
+    "courtType": "school"
+  },
+  {
+    "name": "Sprucecourt Jr Public School",
+    "address": "70 Spruce St",
+    "district": "Toronto",
+    "lat": 43.6644860052749,
+    "lng": -79.3638299150084,
+    "courtType": "school"
+  },
+  {
+    "name": "St Agatha Catholic Elementary School",
+    "address": "49 Cathedral Bluffs Dr",
+    "district": "Scarborough",
+    "lat": 43.7235532119492,
+    "lng": -79.2296265608002,
+    "courtType": "school"
+  },
+  {
+    "name": "St Agnes Catholic Elementary School",
+    "address": "280 Otonabee Ave",
+    "district": "North York",
+    "lat": 43.7985754806081,
+    "lng": -79.4026042496772,
+    "courtType": "school"
+  },
+  {
+    "name": "St Aidan Catholic Elementary School",
+    "address": "3521 Finch Ave E",
+    "district": "Scarborough",
+    "lat": 43.7975235474846,
+    "lng": -79.309250779354,
+    "courtType": "school"
+  },
+  {
+    "name": "St Albert Catholic Elementary School",
+    "address": "1125 Midland Ave",
+    "district": "Scarborough",
+    "lat": 43.7436410391902,
+    "lng": -79.2615107448057,
+    "courtType": "school"
+  },
+  {
+    "name": "St Alphonsus Catholic Elementary School",
+    "address": "60 Atlas Ave",
+    "district": "York",
+    "lat": 43.6829136856874,
+    "lng": -79.4322064448468,
+    "courtType": "school"
+  },
+  {
+    "name": "St Ambrose Catholic Elementary School",
+    "address": "20 Coules Crt",
+    "district": "Etobicoke",
+    "lat": 43.6083700983071,
+    "lng": -79.5501228703137,
+    "courtType": "school"
+  },
+  {
+    "name": "St Andre Catholic Elementary School",
+    "address": "36 Yvonne Ave",
+    "district": "North York",
+    "lat": 43.7240233234967,
+    "lng": -79.5178611183303,
+    "courtType": "school"
+  },
+  {
+    "name": "St Andrew Catholic Elementary School",
+    "address": "2533 Kipling Ave",
+    "district": "Etobicoke",
+    "lat": 43.7449311405296,
+    "lng": -79.5823817817994,
+    "courtType": "school"
+  },
+  {
+    "name": "St Andrew'S Middle School",
+    "address": "131 Fenn Ave",
+    "district": "North York",
+    "lat": 43.7515973528757,
+    "lng": -79.3903297628128,
+    "courtType": "school"
+  },
+  {
+    "name": "St Angela Catholic Elementary School",
+    "address": "220 Mount Olive Dr",
+    "district": "Etobicoke",
+    "lat": 43.7545214979956,
+    "lng": -79.5969028425731,
+    "courtType": "school"
+  },
+  {
+    "name": "St Anselm Catholic Elementary School",
+    "address": "182 Bessborough Dr",
+    "district": "East York",
+    "lat": 43.705394385776,
+    "lng": -79.3715951604766,
+    "courtType": "school"
+  },
+  {
+    "name": "St Anthony Catholic Elementary School",
+    "address": "130 Shanly St",
+    "district": "Toronto",
+    "lat": 43.6636047930609,
+    "lng": -79.4349208399043,
+    "courtType": "school"
+  },
+  {
+    "name": "St Antoine Daniel Catholic Elementary School (Temp Loc)",
+    "address": "20 Beverly Hills Dr",
+    "district": "North York",
+    "lat": 43.7188636924238,
+    "lng": -79.5102270418892,
+    "courtType": "school"
+  },
+  {
+    "name": "St Augustine Catholic Elementary School",
+    "address": "98 Shoreham Dr",
+    "district": "North York",
+    "lat": 43.7682365170564,
+    "lng": -79.5250642852238,
+    "courtType": "school"
+  },
+  {
+    "name": "St Barbara Catholic Elementary School",
+    "address": "25 Janray Dr",
+    "district": "Scarborough",
+    "lat": 43.7624687290814,
+    "lng": -79.2190606152536,
+    "courtType": "school"
+  },
+  {
+    "name": "St Barnabas Catholic Elementary School",
+    "address": "30 Washburn Way",
+    "district": "Scarborough",
+    "lat": 43.7972412194214,
+    "lng": -79.2285119174515,
+    "courtType": "school"
+  },
+  {
+    "name": "St Bartholomew Catholic Elementary School",
+    "address": "51 Heather Rd",
+    "district": "Scarborough",
+    "lat": 43.7898721388974,
+    "lng": -79.2716069013283,
+    "courtType": "school"
+  },
+  {
+    "name": "St Bede Catholic Elementary School",
+    "address": "521 Sewells Rd",
+    "district": "Scarborough",
+    "lat": 43.8179789081655,
+    "lng": -79.206547703276,
+    "courtType": "school"
+  },
+  {
+    "name": "St Benedict Catholic Elementary School",
+    "address": "2202 Kipling Ave",
+    "district": "Etobicoke",
+    "lat": 43.7231852513477,
+    "lng": -79.5729230452548,
+    "courtType": "school"
+  },
+  {
+    "name": "St Bernard Catholic Elementary School",
+    "address": "12 Duckworth St",
+    "district": "North York",
+    "lat": 43.702525970079,
+    "lng": -79.5000699895207,
+    "courtType": "school"
+  },
+  {
+    "name": "St Bonaventure Catholic Elementary School",
+    "address": "1340 Leslie St",
+    "district": "North York",
+    "lat": 43.7329910898589,
+    "lng": -79.3560547955523,
+    "courtType": "school"
+  },
+  {
+    "name": "St Boniface Catholic Elementary School",
+    "address": "20 Markanna Dr",
+    "district": "Scarborough",
+    "lat": 43.7405509095453,
+    "lng": -79.2198176482125,
+    "courtType": "school"
+  },
+  {
+    "name": "St Brendan Catholic Elementary School",
+    "address": "186 Centennial Rd",
+    "district": "Scarborough",
+    "lat": 43.7825469523064,
+    "lng": -79.1492505532434,
+    "courtType": "school"
+  },
+  {
+    "name": "St Brigid Catholic Elementary School",
+    "address": "50 Woodmount Ave",
+    "district": "Toronto",
+    "lat": 43.6868167648153,
+    "lng": -79.3168473888951,
+    "courtType": "school"
+  },
+  {
+    "name": "St Bruno And St Raymond Catholic Elementary School",
+    "address": "402 Melita Cres",
+    "district": "Toronto",
+    "lat": 43.6732399543957,
+    "lng": -79.4270629277561,
+    "courtType": "school"
+  },
+  {
+    "name": "St Catherine Catholic Elementary School",
+    "address": "30 Roanoke Rd",
+    "district": "North York",
+    "lat": 43.7423352674519,
+    "lng": -79.3247390774717,
+    "courtType": "school"
+  },
+  {
+    "name": "St Cecilia Catholic Elementary School",
+    "address": "355 Annette St",
+    "district": "Toronto",
+    "lat": 43.6607945735038,
+    "lng": -79.474657940229,
+    "courtType": "school"
+  },
+  {
+    "name": "St Charles Catholic Elementary School",
+    "address": "50 Claver Ave",
+    "district": "North York",
+    "lat": 43.7132818927358,
+    "lng": -79.4513506942199,
+    "courtType": "school"
+  },
+  {
+    "name": "St Charles Garnier Catholic Elementary School",
+    "address": "20 Stong Crt",
+    "district": "North York",
+    "lat": 43.7623421281327,
+    "lng": -79.5180641246057,
+    "courtType": "school"
+  },
+  {
+    "name": "St Clare Catholic Elementary School",
+    "address": "124 Northcliffe Blvd",
+    "district": "York",
+    "lat": 43.6794114666125,
+    "lng": -79.441551585718,
+    "courtType": "school"
+  },
+  {
+    "name": "St Clement Catholic Elementary School",
+    "address": "4319 Bloor St W",
+    "district": "Etobicoke",
+    "lat": 43.6322472865153,
+    "lng": -79.5738081912146,
+    "courtType": "school"
+  },
+  {
+    "name": "St Columba Catholic Elementary School",
+    "address": "10 John Tabor Trl",
+    "district": "Scarborough",
+    "lat": 43.8061934479288,
+    "lng": -79.2118274058293,
+    "courtType": "school"
+  },
+  {
+    "name": "St Conrad Catholic Elementary School",
+    "address": "5 Exbury Rd",
+    "district": "North York",
+    "lat": 43.7297224090052,
+    "lng": -79.49452430884,
+    "courtType": "school"
+  },
+  {
+    "name": "St Cyril Catholic Elementary School",
+    "address": "18 Kempford Blvd",
+    "district": "North York",
+    "lat": 43.7769535192123,
+    "lng": -79.4166279833308,
+    "courtType": "school"
+  },
+  {
+    "name": "St Demetrius Catholic Elementary School",
+    "address": "125 La Rose Ave",
+    "district": "Etobicoke",
+    "lat": 43.6846542136853,
+    "lng": -79.5219659420764,
+    "courtType": "school"
+  },
+  {
+    "name": "St Denis Catholic Elementary School",
+    "address": "67 Balsam Ave",
+    "district": "Toronto",
+    "lat": 43.6729983466905,
+    "lng": -79.2899076162567,
+    "courtType": "school"
+  },
+  {
+    "name": "St Dominic Savio Catholic Elementary School",
+    "address": "50 Tideswell Blvd",
+    "district": "Scarborough",
+    "lat": 43.7982843710237,
+    "lng": -79.1560238705896,
+    "courtType": "school"
+  },
+  {
+    "name": "St Dorothy Catholic Elementary School",
+    "address": "155 John Garland Blvd",
+    "district": "Etobicoke",
+    "lat": 43.7314927043501,
+    "lng": -79.5917397330749,
+    "courtType": "school"
+  },
+  {
+    "name": "St Dunstan Catholic Elementary School",
+    "address": "14 Pharmacy Ave",
+    "district": "Scarborough",
+    "lat": 43.6934291968288,
+    "lng": -79.2842391958233,
+    "courtType": "school"
+  },
+  {
+    "name": "St Edmund Campion Catholic Elementary School",
+    "address": "30 Highcastle Rd",
+    "district": "Scarborough",
+    "lat": 43.7881110156292,
+    "lng": -79.2157156151986,
+    "courtType": "school"
+  },
+  {
+    "name": "St Edward Catholic Elementary School",
+    "address": "1 Botham Rd",
+    "district": "North York",
+    "lat": 43.7534007337369,
+    "lng": -79.4135471740452,
+    "courtType": "school"
+  },
+  {
+    "name": "St Elizabeth Catholic Elementary School",
+    "address": "5 Redcar Ave",
+    "district": "Etobicoke",
+    "lat": 43.6351551674958,
+    "lng": -79.5574536757453,
+    "courtType": "school"
+  },
+  {
+    "name": "St Elizabeth Seton Catholic Elementary School",
+    "address": "25 Havenview Rd",
+    "district": "Scarborough",
+    "lat": 43.7889512448555,
+    "lng": -79.2467058262956,
+    "courtType": "school"
+  },
+  {
+    "name": "St Eugene Catholic Elementary School",
+    "address": "30 Westroyal Rd",
+    "district": "Etobicoke",
+    "lat": 43.692580136991,
+    "lng": -79.537175747205,
+    "courtType": "school"
+  },
+  {
+    "name": "St Fidelis Catholic Elementary School",
+    "address": "9 Bannerman St",
+    "district": "North York",
+    "lat": 43.7171615273965,
+    "lng": -79.4853065043738,
+    "courtType": "school"
+  },
+  {
+    "name": "St Florence Catholic Elementary School",
+    "address": "101 Murison Blvd",
+    "district": "Scarborough",
+    "lat": 43.798413963811,
+    "lng": -79.2070022817085,
+    "courtType": "school"
+  },
+  {
+    "name": "St Francis De Sales Catholic Elementary School",
+    "address": "333 Firgrove Cres",
+    "district": "North York",
+    "lat": 43.7541329146481,
+    "lng": -79.5191245071479,
+    "courtType": "school"
+  },
+  {
+    "name": "St Francis Of Assisi Catholic Elementary School",
+    "address": "80 Clinton St",
+    "district": "Toronto",
+    "lat": 43.6561998670143,
+    "lng": -79.4146281224284,
+    "courtType": "school"
+  },
+  {
+    "name": "St Francis Xavier Catholic Elementary School",
+    "address": "53 Gracefield Ave",
+    "district": "North York",
+    "lat": 43.7108495114267,
+    "lng": -79.483407061155,
+    "courtType": "school"
+  },
+  {
+    "name": "St Gabriel Catholic Elementary School",
+    "address": "396 Spring Garden Ave",
+    "district": "North York",
+    "lat": 43.7690492872661,
+    "lng": -79.3909333155871,
+    "courtType": "school"
+  },
+  {
+    "name": "St Gabriel Lalemant Catholic Elementary School",
+    "address": "160 Crow Trl",
+    "district": "Scarborough",
+    "lat": 43.8127036322107,
+    "lng": -79.2267274764451,
+    "courtType": "school"
+  },
+  {
+    "name": "St George'S Jr School",
+    "address": "70 Princess Anne Cres",
+    "district": "Etobicoke",
+    "lat": 43.6726005054962,
+    "lng": -79.5417121934287,
+    "courtType": "school"
+  },
+  {
+    "name": "St Gerald Catholic Elementary School",
+    "address": "200 Old Sheppard Ave",
+    "district": "North York",
+    "lat": 43.7807132742098,
+    "lng": -79.3263798211511,
+    "courtType": "school"
+  },
+  {
+    "name": "St Gregory Catholic Elementary School",
+    "address": "126 Rathburn Rd",
+    "district": "Etobicoke",
+    "lat": 43.6606760663976,
+    "lng": -79.5448985655353,
+    "courtType": "school"
+  },
+  {
+    "name": "St Helen Catholic Elementary School",
+    "address": "1196 College St",
+    "district": "Toronto",
+    "lat": 43.6520845728443,
+    "lng": -79.4361563218923,
+    "courtType": "school"
+  },
+  {
+    "name": "St Henry Catholic Elementary School",
+    "address": "100 Bamburgh Crcl",
+    "district": "Scarborough",
+    "lat": 43.8136943030972,
+    "lng": -79.3278303529869,
+    "courtType": "school"
+  },
+  {
+    "name": "St Ignatius Of Loyola Catholic Elementary School",
+    "address": "2350 McCowan Rd",
+    "district": "Scarborough",
+    "lat": 43.8031579712554,
+    "lng": -79.2652486874085,
+    "courtType": "school"
+  },
+  {
+    "name": "St Isaac Jogues Catholic Elementary School",
+    "address": "1330 York Mills Rd",
+    "district": "North York",
+    "lat": 43.7624150171565,
+    "lng": -79.3218011715683,
+    "courtType": "school"
+  },
+  {
+    "name": "St James Catholic Elementary School",
+    "address": "230 Humbercrest Blvd",
+    "district": "York",
+    "lat": 43.6646903893884,
+    "lng": -79.4952075334152,
+    "courtType": "school"
+  },
+  {
+    "name": "St Jane Frances Catholic Elementary School",
+    "address": "2745 Jane St",
+    "district": "North York",
+    "lat": 43.7421481635139,
+    "lng": -79.5131656491401,
+    "courtType": "school"
+  },
+  {
+    "name": "St Jean De Brebeuf Catholic Elementary School",
+    "address": "101 Dean Park Rd",
+    "district": "Scarborough",
+    "lat": 43.8022683840224,
+    "lng": -79.1740585576179,
+    "courtType": "school"
+  },
+  {
+    "name": "St Jean De Lalande Catholic Elementary School",
+    "address": "500 Sandhurst Crcl",
+    "district": "Scarborough",
+    "lat": 43.8047500213927,
+    "lng": -79.2640882627444,
+    "courtType": "school"
+  },
+  {
+    "name": "St Jerome Catholic Elementary School",
+    "address": "111 Sharpecroft Blvd",
+    "district": "North York",
+    "lat": 43.7488344363176,
+    "lng": -79.4888903079609,
+    "courtType": "school"
+  },
+  {
+    "name": "St Joachim Catholic Elementary School",
+    "address": "3395 St Clair Ave E",
+    "district": "Scarborough",
+    "lat": 43.7130080216446,
+    "lng": -79.2754113465998,
+    "courtType": "school"
+  },
+  {
+    "name": "St John Bosco Catholic Elementary School",
+    "address": "75 Holmesdale Rd",
+    "district": "York",
+    "lat": 43.688715787105,
+    "lng": -79.4505577405563,
+    "courtType": "school"
+  },
+  {
+    "name": "St John Catholic Elementary School",
+    "address": "780 Kingston Rd",
+    "district": "Toronto",
+    "lat": 43.6802243802861,
+    "lng": -79.294568672894,
+    "courtType": "school"
+  },
+  {
+    "name": "St John The Evangelist Catholic Elementary School",
+    "address": "23 GEORGE ST",
+    "district": "York",
+    "lat": 43.7031479540398,
+    "lng": -79.5203623345668,
+    "courtType": "school"
+  },
+  {
+    "name": "St John Vianney Catholic Elementary School",
+    "address": "105 Thistle Down Blvd",
+    "district": "Etobicoke",
+    "lat": 43.7380608406619,
+    "lng": -79.5539537350338,
+    "courtType": "school"
+  },
+  {
+    "name": "St John Xxiii Catholic Elementary School",
+    "address": "175 Grenoble Dr",
+    "district": "North York",
+    "lat": 43.7124539719629,
+    "lng": -79.3298478904051,
+    "courtType": "school"
+  },
+  {
+    "name": "St Josaphat Catholic Elementary School",
+    "address": "110 Tenth St",
+    "district": "Etobicoke",
+    "lat": 43.5992985583395,
+    "lng": -79.5090595341902,
+    "courtType": "school"
+  },
+  {
+    "name": "St Joseph Catholic Elementary School",
+    "address": "176 Leslie St",
+    "district": "Toronto",
+    "lat": 43.6658080724709,
+    "lng": -79.3318905488989,
+    "courtType": "school"
+  },
+  {
+    "name": "St Jude Catholic Elementary School",
+    "address": "3251 Weston Rd",
+    "district": "North York",
+    "lat": 43.7404844801824,
+    "lng": -79.5392565396502,
+    "courtType": "school"
+  },
+  {
+    "name": "St Kateri Tekakwitha Catholic Elementary School",
+    "address": "70 Margaret Ave",
+    "district": "North York",
+    "lat": 43.7858197125024,
+    "lng": -79.3380515908991,
+    "courtType": "school"
+  },
+  {
+    "name": "St Kevin Catholic Elementary School",
+    "address": "15 Murray Glen Dr",
+    "district": "Scarborough",
+    "lat": 43.7507604549417,
+    "lng": -79.3061817661922,
+    "courtType": "school"
+  },
+  {
+    "name": "St Lawrence Catholic Elementary School",
+    "address": "2216 Lawrence Ave E",
+    "district": "Scarborough",
+    "lat": 43.7493063881773,
+    "lng": -79.279920844721,
+    "courtType": "school"
+  },
+  {
+    "name": "St Leo Catholic Elementary School",
+    "address": "165 Stanley Ave",
+    "district": "Etobicoke",
+    "lat": 43.6142799913749,
+    "lng": -79.4962884514206,
+    "courtType": "school"
+  },
+  {
+    "name": "St Leo Catholic Elementary School (Future Address For Main Entrance)",
+    "address": "271 Royal York Rd",
+    "district": "Etobicoke",
+    "lat": 43.6133211884746,
+    "lng": -79.4966193321251,
+    "courtType": "school"
+  },
+  {
+    "name": "St Leo Catholic School (Temporary Location)",
+    "address": "3672 Lake Shore Blvd W",
+    "district": "Etobicoke",
+    "lat": 43.5944767417144,
+    "lng": -79.5381792901975,
+    "courtType": "school"
+  },
+  {
+    "name": "St Louis Catholic Elementary School",
+    "address": "11 Morgan Ave",
+    "district": "Etobicoke",
+    "lat": 43.6257451246799,
+    "lng": -79.5009553836076,
+    "courtType": "school"
+  },
+  {
+    "name": "St Luigi Catholic Elementary School",
+    "address": "2 Ruskin Ave",
+    "district": "Toronto",
+    "lat": 43.6628755818843,
+    "lng": -79.4514701139127,
+    "courtType": "school"
+  },
+  {
+    "name": "St Madeleine Catholic Elementary School",
+    "address": "1 Ness Dr",
+    "district": "North York",
+    "lat": 43.7624707284698,
+    "lng": -79.3228221265087,
+    "courtType": "school"
+  },
+  {
+    "name": "St Malachy Catholic Elementary School",
+    "address": "80 Bennett Rd",
+    "district": "Scarborough",
+    "lat": 43.7711329119069,
+    "lng": -79.1663503950133,
+    "courtType": "school"
+  },
+  {
+    "name": "St Marcellus Catholic Elementary School",
+    "address": "15 Denfield St",
+    "district": "Etobicoke",
+    "lat": 43.6797919363761,
+    "lng": -79.5542249529223,
+    "courtType": "school"
+  },
+  {
+    "name": "St Margaret - Beatrice Campus And Baycrest Public",
+    "address": "50 Ameer Ave",
+    "district": "North York",
+    "lat": 43.7286921824032,
+    "lng": -79.4417054054556,
+    "courtType": "school"
+  },
+  {
+    "name": "St Margaret Catholic Elementary School - Carmichael Site",
+    "address": "85 Carmichael Ave",
+    "district": "North York",
+    "lat": 43.7359856885179,
+    "lng": -79.426648415056,
+    "courtType": "school"
+  },
+  {
+    "name": "St Margaret'S Public School",
+    "address": "235 Galloway Rd",
+    "district": "Scarborough",
+    "lat": 43.7679505557947,
+    "lng": -79.195821221175,
+    "courtType": "school"
+  },
+  {
+    "name": "St Marguerite Bourgeoys Catholic Elementary School",
+    "address": "75 Alexmuir Blvd",
+    "district": "Scarborough",
+    "lat": 43.8082306631027,
+    "lng": -79.2850919491127,
+    "courtType": "school"
+  },
+  {
+    "name": "St Marguerite D'Youville Catholic Elementary School",
+    "address": "755 Royal York Rd",
+    "district": "Etobicoke",
+    "lat": 43.6359577030971,
+    "lng": -79.5060880634959,
+    "courtType": "school"
+  },
+  {
+    "name": "St Maria Goretti Catholic Elementary School",
+    "address": "21 Kenmark Blvd",
+    "district": "Scarborough",
+    "lat": 43.7298353180624,
+    "lng": -79.2659221067688,
+    "courtType": "school"
+  },
+  {
+    "name": "St Mark Catholic Elementary School",
+    "address": "45 Cloverhill Rd",
+    "district": "Etobicoke",
+    "lat": 43.6344998506233,
+    "lng": -79.4901975062684,
+    "courtType": "school"
+  },
+  {
+    "name": "St Martha Catholic Elementary School",
+    "address": "1865 Sheppard Ave W",
+    "district": "North York",
+    "lat": 43.7409310902,
+    "lng": -79.502184631375,
+    "courtType": "school"
+  },
+  {
+    "name": "St Martin De Porres Catholic Elementary School",
+    "address": "230 Morningside Ave",
+    "district": "Scarborough",
+    "lat": 43.7669828897416,
+    "lng": -79.1862924598949,
+    "courtType": "school"
+  },
+  {
+    "name": "St Mary Catholic Elementary School",
+    "address": "20 Portugal Sq",
+    "district": "Toronto",
+    "lat": 43.6458438060303,
+    "lng": -79.40463496612,
+    "courtType": "school"
+  },
+  {
+    "name": "St Mary Of The Angels Catholic Elementary School",
+    "address": "1477 Dufferin St",
+    "district": "Toronto",
+    "lat": 43.6721188639003,
+    "lng": -79.4402927050095,
+    "courtType": "school"
+  },
+  {
+    "name": "St Matthew Catholic Elementary School",
+    "address": "18 Lavender Rd",
+    "district": "York",
+    "lat": 43.6805852613849,
+    "lng": -79.4679721851425,
+    "courtType": "school"
+  },
+  {
+    "name": "St Matthias C.S. (Temporary Location)",
+    "address": "111 Aspenwood Dr",
+    "district": "North York",
+    "lat": 43.8070437180448,
+    "lng": -79.3631585958643,
+    "courtType": "school"
+  },
+  {
+    "name": "St Maurice Catholic Elementary School",
+    "address": "45 Kingsview Blvd",
+    "district": "Etobicoke",
+    "lat": 43.6978127589357,
+    "lng": -79.5539328680624,
+    "courtType": "school"
+  },
+  {
+    "name": "St Michael'S Choir School - Choral Bldg",
+    "address": "66 Bond St",
+    "district": "Toronto",
+    "lat": 43.6550645830878,
+    "lng": -79.3780770780339,
+    "courtType": "school"
+  },
+  {
+    "name": "St Michael'S Choir School - Elementary",
+    "address": "67 Bond St",
+    "district": "Toronto",
+    "lat": 43.655445733995,
+    "lng": -79.3776872580906,
+    "courtType": "school"
+  },
+  {
+    "name": "St Michael'S Choir School - Gymnasium Bldg",
+    "address": "56 Bond St",
+    "district": "Toronto",
+    "lat": 43.6548028553739,
+    "lng": -79.378123626922,
+    "courtType": "school"
+  },
+  {
+    "name": "St Monica Catholic Elementary School",
+    "address": "14 Broadway Ave",
+    "district": "Toronto",
+    "lat": 43.7101592663982,
+    "lng": -79.3976277049175,
+    "courtType": "school"
+  },
+  {
+    "name": "St Nicholas Catholic Elementary School",
+    "address": "33 Amarillo Dr",
+    "district": "Scarborough",
+    "lat": 43.7477332879854,
+    "lng": -79.232893649722,
+    "courtType": "school"
+  },
+  {
+    "name": "St Nicholas Of Bari Catholic Elementary School",
+    "address": "363 Rogers Rd",
+    "district": "York",
+    "lat": 43.6828243738643,
+    "lng": -79.4604931991533,
+    "courtType": "school"
+  },
+  {
+    "name": "St Noel Chabanel Catholic Elementary School",
+    "address": "30 Thistle Down Blvd",
+    "district": "Etobicoke",
+    "lat": 43.7367756505084,
+    "lng": -79.5607609382549,
+    "courtType": "school"
+  },
+  {
+    "name": "St Norbert Catholic Elementary School",
+    "address": "60 Maniza Rd",
+    "district": "North York",
+    "lat": 43.7346150367873,
+    "lng": -79.4645227876529,
+    "courtType": "school"
+  },
+  {
+    "name": "St Paschal Baylon Catholic Elementary School",
+    "address": "15 St Paschal Crt",
+    "district": "North York",
+    "lat": 43.7921112221505,
+    "lng": -79.4317032640691,
+    "courtType": "school"
+  },
+  {
+    "name": "St Paul Catholic Elementary School",
+    "address": "80 Sackville St",
+    "district": "Toronto",
+    "lat": 43.6554889407822,
+    "lng": -79.3617341874579,
+    "courtType": "school"
+  },
+  {
+    "name": "St Paul Vi Catholic Elementary School",
+    "address": "270 Laughton Ave",
+    "district": "Toronto",
+    "lat": 43.6740129018064,
+    "lng": -79.4577930288278,
+    "courtType": "school"
+  },
+  {
+    "name": "St Pius X Catholic Elementary School",
+    "address": "71 Jane St",
+    "district": "Toronto",
+    "lat": 43.6512772232725,
+    "lng": -79.4847133386746,
+    "courtType": "school"
+  },
+  {
+    "name": "St Raphael Catholic Elementary School",
+    "address": "3 Gade Dr",
+    "district": "North York",
+    "lat": 43.7285235857172,
+    "lng": -79.4887180636838,
+    "courtType": "school"
+  },
+  {
+    "name": "St Rene Goupil Catholic Elementary School",
+    "address": "44 Port Royal Trl",
+    "district": "Scarborough",
+    "lat": 43.8193483705481,
+    "lng": -79.2883031243671,
+    "courtType": "school"
+  },
+  {
+    "name": "St Richard Catholic Elementary School",
+    "address": "960 Bellamy Rd N",
+    "district": "Scarborough",
+    "lat": 43.7683108942917,
+    "lng": -79.2399872236293,
+    "courtType": "school"
+  },
+  {
+    "name": "St Robert Catholic Elementary School",
+    "address": "70 Bainbridge Ave",
+    "district": "North York",
+    "lat": 43.7496575317948,
+    "lng": -79.4441451836565,
+    "courtType": "school"
+  },
+  {
+    "name": "St Roch Catholic Elementary School",
+    "address": "174 Duncanwoods Dr",
+    "district": "North York",
+    "lat": 43.7537079716592,
+    "lng": -79.5667497158539,
+    "courtType": "school"
+  },
+  {
+    "name": "St Rose Of Lima Catholic Elementary School",
+    "address": "3220 Lawrence Ave E",
+    "district": "Scarborough",
+    "lat": 43.7574823998592,
+    "lng": -79.2405599228707,
+    "courtType": "school"
+  },
+  {
+    "name": "St Sebastian Catholic Elementary School",
+    "address": "717 Brock Ave",
+    "district": "Toronto",
+    "lat": 43.6627661508689,
+    "lng": -79.4399264681495,
+    "courtType": "school"
+  },
+  {
+    "name": "St Simon Catholic Elementary School",
+    "address": "24 Strathburn Blvd",
+    "district": "North York",
+    "lat": 43.7188620935778,
+    "lng": -79.5329761660784,
+    "courtType": "school"
+  },
+  {
+    "name": "St Stephen Catholic Elementary School",
+    "address": "55 Golfdown Dr",
+    "district": "Etobicoke",
+    "lat": 43.7220025167093,
+    "lng": -79.5544731695422,
+    "courtType": "school"
+  },
+  {
+    "name": "St Sylvester Catholic Elementary School",
+    "address": "260 Silver Springs Blvd",
+    "district": "Scarborough",
+    "lat": 43.8053583871689,
+    "lng": -79.3022463993111,
+    "courtType": "school"
+  },
+  {
+    "name": "St Theresa Shrine Catholic Elementary School",
+    "address": "2665 Kingston Rd",
+    "district": "Scarborough",
+    "lat": 43.7156378599317,
+    "lng": -79.2424755891945,
+    "courtType": "school"
+  },
+  {
+    "name": "St Thomas Aquinas Catholic Elementary School",
+    "address": "636 Glenholme Ave",
+    "district": "York",
+    "lat": 43.6958897058391,
+    "lng": -79.4457437831478,
+    "courtType": "school"
+  },
+  {
+    "name": "St Thomas More Catholic Elementary School",
+    "address": "2300 Ellesmere Rd",
+    "district": "Scarborough",
+    "lat": 43.7783913599106,
+    "lng": -79.225165018032,
+    "courtType": "school"
+  },
+  {
+    "name": "St Timothy Catholic Elementary School",
+    "address": "25 Rochelle Cres",
+    "district": "North York",
+    "lat": 43.774938652465,
+    "lng": -79.3510382340178,
+    "courtType": "school"
+  },
+  {
+    "name": "St Ursula Catholic Elementary School",
+    "address": "215 Livingston Rd",
+    "district": "Scarborough",
+    "lat": 43.7497922144629,
+    "lng": -79.1996603997432,
+    "courtType": "school"
+  },
+  {
+    "name": "St Victor Catholic Elementary School",
+    "address": "20 Bernadine St",
+    "district": "Scarborough",
+    "lat": 43.769057156297,
+    "lng": -79.2591053694717,
+    "courtType": "school"
+  },
+  {
+    "name": "St Vincent De Paul Catholic Elementary School",
+    "address": "116 Fermanagh Ave",
+    "district": "Toronto",
+    "lat": 43.6468292693933,
+    "lng": -79.4479230168876,
+    "courtType": "school"
+  },
+  {
+    "name": "St Wilfrid Catholic Elementary School",
+    "address": "1685 Finch Ave W",
+    "district": "North York",
+    "lat": 43.7600459464136,
+    "lng": -79.5025941161419,
+    "courtType": "school"
+  },
+  {
+    "name": "Stanley Public School",
+    "address": "75 Stanley Rd",
+    "district": "North York",
+    "lat": 43.7418311837881,
+    "lng": -79.5178270423286,
+    "courtType": "school"
+  },
+  {
+    "name": "Steelesview Public School",
+    "address": "105 Bestview Dr",
+    "district": "North York",
+    "lat": 43.8026660882921,
+    "lng": -79.3856328580992,
+    "courtType": "school"
+  },
+  {
+    "name": "Stella Maris Catholic Elementary School",
+    "address": "31 Ascot Ave",
+    "district": "Toronto",
+    "lat": 43.6796259814587,
+    "lng": -79.4448952342307,
+    "courtType": "school"
+  },
+  {
+    "name": "Stilecroft Public School",
+    "address": "50 Stilecroft Dr",
+    "district": "North York",
+    "lat": 43.7510558213298,
+    "lng": -79.4932050987089,
+    "courtType": "school"
+  },
+  {
+    "name": "Sts Cosmas And Damian Catholic Elementary School",
+    "address": "111 Danesbury Ave",
+    "district": "North York",
+    "lat": 43.7069342288817,
+    "lng": -79.4444258865575,
+    "courtType": "school"
+  },
+  {
+    "name": "Summit Heights Public School",
+    "address": "139 Armour Blvd",
+    "district": "North York",
+    "lat": 43.7413217746515,
+    "lng": -79.4300369383682,
+    "courtType": "school"
+  },
+  {
+    "name": "Sunnylea Jr School",
+    "address": "35 Glenroy Ave",
+    "district": "Etobicoke",
+    "lat": 43.6424439892709,
+    "lng": -79.5068732547892,
+    "courtType": "school"
+  },
+  {
+    "name": "Tam O'Shanter Jr Public School",
+    "address": "21 King Henry's Blvd",
+    "district": "Scarborough",
+    "lat": 43.7850716358588,
+    "lng": -79.2976616870896,
+    "courtType": "school"
+  },
+  {
+    "name": "Taylor Creek Public School",
+    "address": "644 Warden Ave",
+    "district": "Scarborough",
+    "lat": 43.7000377584633,
+    "lng": -79.2772877434307,
+    "courtType": "school"
+  },
+  {
+    "name": "Tecumseh Sr Public School",
+    "address": "720 Scarborough Golf Club Rd",
+    "district": "Scarborough",
+    "lat": 43.7629070424551,
+    "lng": -79.216727028425,
+    "courtType": "school"
+  },
+  {
+    "name": "Terraview Willowfield Public School",
+    "address": "95 Pachino Blvd",
+    "district": "Scarborough",
+    "lat": 43.7637829145381,
+    "lng": -79.3085727444468,
+    "courtType": "school"
+  },
+  {
+    "name": "Terry Fox Public School",
+    "address": "185 Wintermute Blvd",
+    "district": "Scarborough",
+    "lat": 43.8158993563047,
+    "lng": -79.3186862950221,
+    "courtType": "school"
+  },
+  {
+    "name": "The Haney Centre School",
+    "address": "64 Haney Ave",
+    "district": "York",
+    "lat": 43.6731119433815,
+    "lng": -79.4990814534311,
+    "courtType": "school"
+  },
+  {
+    "name": "The Holy Trinity School",
+    "address": "6 Colonel Samuel Smith Park Dr",
+    "district": "Etobicoke",
+    "lat": 43.5973446482043,
+    "lng": -79.5172863888663,
+    "courtType": "school"
+  },
+  {
+    "name": "The Student School",
+    "address": "160 Glendonwynne Rd",
+    "district": "Toronto",
+    "lat": 43.6570501033712,
+    "lng": -79.4741377980835,
+    "courtType": "school"
+  },
+  {
+    "name": "The Waterfront School",
+    "address": "635 Queens Quay W",
+    "district": "Toronto",
+    "lat": 43.6356945602156,
+    "lng": -79.3971628966548,
+    "courtType": "school"
+  },
+  {
+    "name": "Thomas L Wells Public School",
+    "address": "69 Nightstar Rd",
+    "district": "Scarborough",
+    "lat": 43.8242998088678,
+    "lng": -79.2261254163676,
+    "courtType": "school"
+  },
+  {
+    "name": "Thorncliffe Park Public School",
+    "address": "80 Thorncliffe Park Dr",
+    "district": "East York",
+    "lat": 43.7053900432282,
+    "lng": -79.3434367551101,
+    "courtType": "school"
+  },
+  {
+    "name": "Three Valleys Public School",
+    "address": "76 Three Valleys Dr",
+    "district": "North York",
+    "lat": 43.7506806575244,
+    "lng": -79.3376043958259,
+    "courtType": "school"
+  },
+  {
+    "name": "Timberbank Jr Public School",
+    "address": "170 Timberbank Blvd",
+    "district": "Scarborough",
+    "lat": 43.7914712561725,
+    "lng": -79.307285388876,
+    "courtType": "school"
+  },
+  {
+    "name": "Tom Longboat Jr Public School",
+    "address": "37 Crow Trl",
+    "district": "Scarborough",
+    "lat": 43.8104461724402,
+    "lng": -79.2316269659623,
+    "courtType": "school"
+  },
+  {
+    "name": "Topcliff Public School",
+    "address": "65 Topcliff Ave",
+    "district": "North York",
+    "lat": 43.7555851004459,
+    "lng": -79.5106588918435,
+    "courtType": "school"
+  },
+  {
+    "name": "Toronto District School Board - Head Office",
+    "address": "5050 Yonge St",
+    "district": "North York",
+    "lat": 43.7670485971463,
+    "lng": -79.4134194857238,
+    "courtType": "school"
+  },
+  {
+    "name": "Toronto District School Board - Oakburn Centre",
+    "address": "15 Oakburn Cres",
+    "district": "North York",
+    "lat": 43.7588747822517,
+    "lng": -79.4028126311509,
+    "courtType": "school"
+  },
+  {
+    "name": "Toronto District School Board - West Education Office",
+    "address": "1 Civic Centre Crt",
+    "district": "Etobicoke",
+    "lat": 43.6425600317489,
+    "lng": -79.5637107200638,
+    "courtType": "school"
+  },
+  {
+    "name": "Transfiguration Of Our Lord Catholic Elementary School",
+    "address": "55 Ludstone Dr",
+    "district": "Etobicoke",
+    "lat": 43.6915212586818,
+    "lng": -79.5628707286001,
+    "courtType": "school"
+  },
+  {
+    "name": "Tredway Woodsworth Public School",
+    "address": "112 Sedgemount Dr",
+    "district": "Scarborough",
+    "lat": 43.7650332154187,
+    "lng": -79.2352659356635,
+    "courtType": "school"
+  },
+  {
+    "name": "Tumpane Public School",
+    "address": "48 Tumpane St",
+    "district": "North York",
+    "lat": 43.7265952806861,
+    "lng": -79.5022550959971,
+    "courtType": "school"
+  },
+  {
+    "name": "Twentieth Street Jr School",
+    "address": "3190 Lake Shore Blvd W",
+    "district": "Etobicoke",
+    "lat": 43.5979771530563,
+    "lng": -79.5199382429952,
+    "courtType": "school"
+  },
+  {
+    "name": "Valley Park Mdl School",
+    "address": "130 Overlea Blvd",
+    "district": "North York",
+    "lat": 43.7104405907514,
+    "lng": -79.3358705226236,
+    "courtType": "school"
+  },
+  {
+    "name": "Valleyfield Jr School",
+    "address": "35 Saskatoon Dr",
+    "district": "Etobicoke",
+    "lat": 43.6942865155451,
+    "lng": -79.5384444417594,
+    "courtType": "school"
+  },
+  {
+    "name": "Venerable John Merlini Catholic Elementary School",
+    "address": "123 Whitfield Ave",
+    "district": "North York",
+    "lat": 43.7564805895832,
+    "lng": -79.5793835598587,
+    "courtType": "school"
+  },
+  {
+    "name": "Victoria Park Elementary School",
+    "address": "145 Tiago Ave",
+    "district": "East York",
+    "lat": 43.712689182329,
+    "lng": -79.2981507568545,
+    "courtType": "school"
+  },
+  {
+    "name": "Victoria Village Public School",
+    "address": "88 Sweeney Dr",
+    "district": "North York",
+    "lat": 43.7359594203073,
+    "lng": -79.3141820772089,
+    "courtType": "school"
+  },
+  {
+    "name": "Vradenburg Jr Public School",
+    "address": "50 Vradenberg Dr",
+    "district": "Scarborough",
+    "lat": 43.7743422576754,
+    "lng": -79.3082862869645,
+    "courtType": "school"
+  },
+  {
+    "name": "Walter Perry Jr Public School",
+    "address": "45 Falmouth Ave",
+    "district": "Scarborough",
+    "lat": 43.7334561275574,
+    "lng": -79.2512456866976,
+    "courtType": "school"
+  },
+  {
+    "name": "Warren Park Jr Public School",
+    "address": "135 Varsity Rd",
+    "district": "York",
+    "lat": 43.6628427653687,
+    "lng": -79.4994375141874,
+    "courtType": "school"
+  },
+  {
+    "name": "Wedgewood Jr School",
+    "address": "5 Swan Ave",
+    "district": "Etobicoke",
+    "lat": 43.6453169519903,
+    "lng": -79.5462529112722,
+    "courtType": "school"
+  },
+  {
+    "name": "Wellesworth Jr School",
+    "address": "225 Wellesworth Dr",
+    "district": "Etobicoke",
+    "lat": 43.6566373465707,
+    "lng": -79.5767187454201,
+    "courtType": "school"
+  },
+  {
+    "name": "West End Alternative School",
+    "address": "777 Bloor St W",
+    "district": "Toronto",
+    "lat": 43.6624299848934,
+    "lng": -79.4198340161091,
+    "courtType": "school"
+  },
+  {
+    "name": "West Glen Jr School",
+    "address": "47 Cowley Ave",
+    "district": "Etobicoke",
+    "lat": 43.6504713423926,
+    "lng": -79.5608016240727,
+    "courtType": "school"
+  },
+  {
+    "name": "West Hill Public School",
+    "address": "299 Morningside Ave",
+    "district": "Scarborough",
+    "lat": 43.7726796050533,
+    "lng": -79.1868844429518,
+    "courtType": "school"
+  },
+  {
+    "name": "West Humber Jr Mdl School",
+    "address": "15 Delsing Dr",
+    "district": "Etobicoke",
+    "lat": 43.7237549779012,
+    "lng": -79.5807026757453,
+    "courtType": "school"
+  },
+  {
+    "name": "West Preparatory Jr Public School",
+    "address": "70 Ridge Hill Dr",
+    "district": "Toronto",
+    "lat": 43.7026161891079,
+    "lng": -79.4329440583326,
+    "courtType": "school"
+  },
+  {
+    "name": "West Rouge Jr Public School",
+    "address": "401 Friendship Ave",
+    "district": "Scarborough",
+    "lat": 43.7956184194221,
+    "lng": -79.1337159199136,
+    "courtType": "school"
+  },
+  {
+    "name": "Westmount Jr School",
+    "address": "95 Chapman Rd",
+    "district": "Etobicoke",
+    "lat": 43.6890961288899,
+    "lng": -79.519659304979,
+    "courtType": "school"
+  },
+  {
+    "name": "Weston Memorial Jr Public School",
+    "address": "200 John St",
+    "district": "York",
+    "lat": 43.7059781548181,
+    "lng": -79.5093299362394,
+    "courtType": "school"
+  },
+  {
+    "name": "Westway Jr School",
+    "address": "25 Poynter Dr",
+    "district": "Etobicoke",
+    "lat": 43.6908221223255,
+    "lng": -79.5489933081465,
+    "courtType": "school"
+  },
+  {
+    "name": "Westwood Mdl School",
+    "address": "994 Carlaw Ave",
+    "district": "East York",
+    "lat": 43.6864953869061,
+    "lng": -79.3509795618846,
+    "courtType": "school"
+  },
+  {
+    "name": "Wexford Public School",
+    "address": "1050 Pharmacy Ave",
+    "district": "Scarborough",
+    "lat": 43.7401530486018,
+    "lng": -79.3041148885222,
+    "courtType": "school"
+  },
+  {
+    "name": "White Haven Jr Public School",
+    "address": "105 Invergordon Ave",
+    "district": "Scarborough",
+    "lat": 43.7872721001055,
+    "lng": -79.2472058211989,
+    "courtType": "school"
+  },
+  {
+    "name": "Whitney Jr Public School",
+    "address": "119 Rosedale Heights Dr",
+    "district": "Toronto",
+    "lat": 43.6871603367392,
+    "lng": -79.3783972733833,
+    "courtType": "school"
+  },
+  {
+    "name": "Wilkinson Jr Public School",
+    "address": "53 Donlands Ave",
+    "district": "Toronto",
+    "lat": 43.6820416289563,
+    "lng": -79.3374832389852,
+    "courtType": "school"
+  },
+  {
+    "name": "William Burgess Elementary School",
+    "address": "100 Torrens Ave",
+    "district": "East York",
+    "lat": 43.6919277285052,
+    "lng": -79.348157733051,
+    "courtType": "school"
+  },
+  {
+    "name": "William G Davis Jr Public School",
+    "address": "128 East Ave",
+    "district": "Scarborough",
+    "lat": 43.7850464257848,
+    "lng": -79.1344743650252,
+    "courtType": "school"
+  },
+  {
+    "name": "William G Miller Jr Public School",
+    "address": "60 Bennett Rd",
+    "district": "Scarborough",
+    "lat": 43.7685135568036,
+    "lng": -79.1650340052142,
+    "courtType": "school"
+  },
+  {
+    "name": "William J Mccordic School",
+    "address": "45 Balfour Ave",
+    "district": "Toronto",
+    "lat": 43.6906318395424,
+    "lng": -79.2989833380474,
+    "courtType": "school"
+  },
+  {
+    "name": "Williamson Road Jr Public School",
+    "address": "24 Williamson Rd",
+    "district": "Toronto",
+    "lat": 43.6745110572076,
+    "lng": -79.2974698038611,
+    "courtType": "school"
+  },
+  {
+    "name": "Willow Park Jr Public School",
+    "address": "45 Windover Dr",
+    "district": "Scarborough",
+    "lat": 43.7611980953357,
+    "lng": -79.2095785361357,
+    "courtType": "school"
+  },
+  {
+    "name": "Willowdale Mdl School",
+    "address": "225 Senlac Rd",
+    "district": "North York",
+    "lat": 43.7697752168093,
+    "lng": -79.4260889715705,
+    "courtType": "school"
+  },
+  {
+    "name": "Wilmington Elementary School",
+    "address": "330 Wilmington Ave",
+    "district": "North York",
+    "lat": 43.7685583806317,
+    "lng": -79.4604980247184,
+    "courtType": "school"
+  },
+  {
+    "name": "Windfields Middle School",
+    "address": "375 Banbury Rd",
+    "district": "North York",
+    "lat": 43.7561115796205,
+    "lng": -79.3705792903782,
+    "courtType": "school"
+  },
+  {
+    "name": "Winona Drive Sr Public School",
+    "address": "101 Winona Dr",
+    "district": "Toronto",
+    "lat": 43.6770020664784,
+    "lng": -79.4308587867559,
+    "courtType": "school"
+  },
+  {
+    "name": "Woburn Jr Public School",
+    "address": "40 Dormington Dr",
+    "district": "Scarborough",
+    "lat": 43.779502795504,
+    "lng": -79.2270016649434,
+    "courtType": "school"
+  },
+  {
+    "name": "Yorkview Public School",
+    "address": "130 YORKVIEW DR",
+    "district": "North York",
+    "lat": 43.7725736106375,
+    "lng": -79.4355664221908,
+    "courtType": "school"
+  },
+  {
+    "name": "Yorkwoods Public School",
+    "address": "25 Yorkwoods Gt",
+    "district": "North York",
+    "lat": 43.7506598381465,
+    "lng": -79.5138847463308,
+    "courtType": "school"
+  },
+  {
+    "name": "Shoreham Public Sports And Wellness Academy",
+    "address": "31 Shoreham Dr",
+    "district": "North York",
+    "lat": 43.7687995439219,
+    "lng": -79.5173879692824,
+    "courtType": "school"
+  },
+  {
+    "name": "Epiphany Of Our Lord Catholic Academy",
+    "address": "3150 Pharmacy Ave",
+    "district": "Scarborough",
+    "lat": 43.7989580963277,
+    "lng": -79.3289402460095,
+    "courtType": "school"
+  },
+  {
+    "name": "St Joan Of Arc Catholic Academy",
+    "address": "959 Midland Ave",
+    "district": "Scarborough",
+    "lat": 43.7378208332923,
+    "lng": -79.2589735525034,
+    "courtType": "school"
+  },
+  {
+    "name": "St Mother Teresa Catholic Academy",
+    "address": "40 Sewells Rd",
+    "district": "Scarborough",
+    "lat": 43.809723237627,
+    "lng": -79.2144834881968,
     "courtType": "school"
   }
 ]
