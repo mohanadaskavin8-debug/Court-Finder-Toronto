@@ -6,6 +6,9 @@
  * OpenAPI spec version: 0.1.0
  */
 
-export interface HealthStatus {
-  status: string;
+export interface CourtPlayersUpdate {
+  /** @minimum 0 */
+  currentPlayers: number;
+  /** @minimum 0 */
+  playersNeeded: number;
 }

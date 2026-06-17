@@ -5,9 +5,6 @@
  * Toronto Court Finder API
  * OpenAPI spec version: 0.1.0
  */
-export interface HealthStatus {
-  status: string;
-}
 
 export interface Court {
   id: number;
@@ -24,18 +21,3 @@ export interface Court {
   hasLights?: boolean;
   updatedAt: string;
 }
-
-export interface CourtPlayersUpdate {
-  /** @minimum 0 */
-  currentPlayers: number;
-  /** @minimum 0 */
-  playersNeeded: number;
-}
-
-export interface CourtsSummary {
-  totalCourts: number;
-  activeCourts: number;
-  totalPlayers: number;
-  courtsNeedingPlayers: number;
-}
-

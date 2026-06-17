@@ -1,15 +1,16 @@
 openapi: 3.1.0
 info:
-  # Do not change the title, if the title changes, the import paths will be broken
   title: Api
   version: 0.1.0
-  description: API specification
+  description: Toronto Court Finder API
 servers:
   - url: /api
     description: Base API path
 tags:
   - name: health
     description: Health operations
+  - name: courts
+    description: Basketball court operations
 paths:
   /healthz:
     get:
@@ -24,6 +25,84 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/HealthStatus"
+
+  /courts:
+    get:
+      operationId: listCourts
+      tags: [courts]
+      summary: List all basketball courts
+      description: Returns all basketball courts in Toronto with current player counts
+      responses:
+        "200":
+          description: List of courts
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/Court"
+
+  /courts/summary:
+    get:
+      operationId: getCourtsSummary
+      tags: [courts]
+      summary: Get courts summary stats
+      description: Returns aggregate stats across all courts
+      responses:
+        "200":
+          description: Summary stats
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/CourtsSummary"
+
+  /courts/{id}:
+    get:
+      operationId: getCourt
+      tags: [courts]
+      summary: Get a single court
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+      responses:
+        "200":
+          description: Court details
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Court"
+        "404":
+          description: Court not found
+
+    patch:
+      operationId: updateCourtPlayers
+      tags: [courts]
+      summary: Update player count at a court
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/CourtPlayersUpdate"
+      responses:
+        "200":
+          description: Updated court
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Court"
+        "404":
+          description: Court not found
+
 components:
   schemas:
     HealthStatus:
@@ -34,3 +113,73 @@ components:
       required:
         - status
 
+    Court:
+      type: object
+      required:
+        - id
+        - name
+        - address
+        - neighborhood
+        - lat
+        - lng
+        - currentPlayers
+        - playersNeeded
+        - maxPlayers
+        - courtType
+        - updatedAt
+      properties:
+        id:
+          type: integer
+        name:
+          type: string
+        address:
+          type: string
+        neighborhood:
+          type: string
+        lat:
+          type: number
+        lng:
+          type: number
+        currentPlayers:
+          type: integer
+        playersNeeded:
+          type: integer
+        maxPlayers:
+          type: integer
+        courtType:
+          type: string
+          description: "full, half, outdoor, indoor"
+        hasLights:
+          type: boolean
+        updatedAt:
+          type: string
+
+    CourtPlayersUpdate:
+      type: object
+      required:
+        - currentPlayers
+        - playersNeeded
+      properties:
+        currentPlayers:
+          type: integer
+          minimum: 0
+        playersNeeded:
+          type: integer
+          minimum: 0
+
+    CourtsSummary:
+      type: object
+      required:
+        - totalCourts
+        - activeCourts
+        - totalPlayers
+        - courtsNeedingPlayers
+      properties:
+        totalCourts:
+          type: integer
+        activeCourts:
+          type: integer
+        totalPlayers:
+          type: integer
+        courtsNeedingPlayers:
+          type: integer
