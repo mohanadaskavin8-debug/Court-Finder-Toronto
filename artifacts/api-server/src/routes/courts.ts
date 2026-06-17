@@ -9,8 +9,17 @@ import {
 } from "@workspace/api-zod";
 import { matchCourt } from "../lib/court-match";
 import { getOpenAI } from "../lib/openai";
+import { rateLimit } from "../middlewares/rate-limit";
 
 const router = Router();
+
+// The AI endpoint calls a billable LLM, so throttle it harder than the plain
+// read/update routes to limit cost/abuse on the public deployment.
+const aiRateLimit = rateLimit({
+  windowMs: 60_000,
+  max: 10,
+  message: "You're sending AI commands too quickly. Please wait a moment and try again.",
+});
 
 // GET /courts
 router.get("/courts", async (req, res) => {
@@ -41,7 +50,7 @@ router.get("/courts/summary", async (req, res) => {
 });
 
 // POST /courts/ai-update
-router.post("/courts/ai-update", async (req, res) => {
+router.post("/courts/ai-update", aiRateLimit, async (req, res) => {
   const parsedBody = AiUpdateCourtBody.safeParse(req.body);
   if (!parsedBody.success) {
     res.status(400).json({ error: "Invalid request" });
@@ -196,14 +205,14 @@ router.post("/courts/ai-update", async (req, res) => {
     if (status === 429) {
       res.status(503).json({
         error:
-          "The AI assistant is unavailable right now (the OpenAI account has no available quota). Please check OpenAI billing and try again.",
+          "The AI assistant is busy right now. Please wait a moment and try again.",
       });
       return;
     }
     if (status === 401) {
       res
         .status(503)
-        .json({ error: "The AI assistant key is invalid. Please check the OpenAI API key." });
+        .json({ error: "The AI assistant is temporarily unavailable. Please try again later." });
       return;
     }
     res.status(500).json({ error: "Failed to process the request" });

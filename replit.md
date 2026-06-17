@@ -12,6 +12,7 @@ An NBA 2K-style interactive map of every basketball court across Toronto. Player
 - `pnpm --filter @workspace/api-spec run codegen` — regenerate API hooks and Zod schemas from the OpenAPI spec
 - `pnpm --filter @workspace/db run push` — push DB schema changes (dev only)
 - Required env: `DATABASE_URL` — Postgres connection string
+- AI assistant env: `AI_INTEGRATIONS_OPENAI_BASE_URL` + `AI_INTEGRATIONS_OPENAI_API_KEY` (auto-provisioned by Replit AI Integrations). Optional `OPENAI_API_KEY` is used only as a fallback.
 
 ## Stack
 
@@ -21,11 +22,12 @@ An NBA 2K-style interactive map of every basketball court across Toronto. Player
 - Validation: Zod (`zod/v4`), `drizzle-zod`
 - API codegen: Orval (from OpenAPI spec)
 - Web: React + Vite, MapLibre GL v5 (3D vector map), framer-motion, Tailwind, Carto dark-matter vector style
+- AI: OpenAI (`gpt-4o-mini`, JSON mode) via the Replit AI Integrations proxy — no personal key required, billed to Replit credits
 
 ## Where things live
 
-- `artifacts/court-finder` — web app. 3D map: `src/components/court-map.tsx` (MapLibre GL); intro splash animation: `src/components/intro-splash.tsx`; corner wordmark + legend: `src/components/map-overlay.tsx`; count-up HUD: `src/components/summary-hud.tsx`; update panel: `src/components/court-panel.tsx`; list view: `src/pages/courts.tsx`; map page: `src/pages/home.tsx`; status/color helpers: `src/lib/utils.ts`.
-- `artifacts/api-server` — Express API for courts + summary.
+- `artifacts/court-finder` — web app. 3D map: `src/components/court-map.tsx` (MapLibre GL); intro splash animation: `src/components/intro-splash.tsx`; corner wordmark + legend: `src/components/map-overlay.tsx`; count-up HUD: `src/components/summary-hud.tsx`; update panel: `src/components/court-panel.tsx`; AI command bar: `src/components/ai-prompt-bar.tsx`; list view: `src/pages/courts.tsx`; map page: `src/pages/home.tsx`; status/color helpers: `src/lib/utils.ts`.
+- `artifacts/api-server` — Express API for courts + summary + AI update (`src/routes/courts.ts`). OpenAI client factory: `src/lib/openai.ts`; fuzzy court matcher: `src/lib/court-match.ts`.
 - `lib/db/src/schema/courts.ts` — source of truth for the courts table.
 - `scripts/data/toronto-courts.json` — source of truth for the court dataset (726 real courts).
 - `scripts/src/seed-courts.ts` — reproducible seed (DELETE + bulk insert from the JSON).
@@ -44,6 +46,7 @@ An NBA 2K-style interactive map of every basketball court across Toronto. Player
 - Map view (`/`): 3D pitched MapLibre map with native-clustered neon markers over the whole city, color-coded by status (green Open / orange Filling Up / red Full), a gentle idle bearing-spin, and an animated pulse ring on the selected court. Tap a court to open the panel and broadcast current/needed players.
 - List view (`/courts`): all courts with status filter and district filter.
 - Summary HUD: total players, active courts, courts needing players (framer-motion count-up). Corner wordmark has a continuously spinning basketball icon + breathing glow.
+- AI command bar (`ai-prompt-bar.tsx`, bottom-center of the map): players type free text (e.g. "3 more players needed at Percy Williams Jr PS"). The LLM extracts the court name + current/needed counts, the server fuzzy-matches across all courts (`court-match.ts`) and applies the update, then the bar shows success / clarification / ambiguous-candidate chips and refreshes the map, HUD, and list.
 
 ## User preferences
 
@@ -56,6 +59,8 @@ An NBA 2K-style interactive map of every basketball court across Toronto. Player
 - **The map needs WebGL.** The headless screenshot/preview browser has no WebGL, so the MapLibre map cannot be screenshot-verified here — it renders fine in a real browser. `court-map.tsx` has a graceful fallback (try/catch on construct + a 12s style-load timeout) that shows a "Map unavailable" message pointing to the List View.
 - MapLibre GL v5 quirk: WebGL options go in `canvasContextAttributes: { antialias, failIfMajorPerformanceCaveat }`, not at the top level of the map constructor.
 - Old leaflet/react-leaflet deps may still be in `package.json` but are unused after the MapLibre rebuild.
+- **AI assistant uses the Replit AI Integrations OpenAI proxy** (`src/lib/openai.ts` reads `AI_INTEGRATIONS_OPENAI_BASE_URL` + `AI_INTEGRATIONS_OPENAI_API_KEY`; falls back to a direct `OPENAI_API_KEY`). Re-provision via `setupReplitAIIntegrations({ providerSlug: "openai", ... })` if the proxy env vars go missing — do NOT ask the user for an OpenAI key.
+- The fuzzy matcher is intentionally lenient (distinctive-token weighting), so a query for a court not in the dataset (e.g. "Trinity Bellwoods") may still match a same-token court (e.g. "The Holy Trinity School"). Ambiguous queries return candidate chips instead.
 
 ## Pointers
 
