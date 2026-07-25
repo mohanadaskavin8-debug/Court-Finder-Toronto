@@ -170,7 +170,7 @@ components:
           type: integer
         courtType:
           type: string
-          description: "full, half, outdoor, indoor"
+          description: "park, community, or school"
         hasLights:
           type: boolean
         updatedAt:

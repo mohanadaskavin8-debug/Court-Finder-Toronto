@@ -1,21 +1,5 @@
 [
   {
-    "name": "Bethune Park",
-    "address": "75 Bethune Blvd",
-    "district": "Scarborough",
-    "lat": 43.7435687359414,
-    "lng": -79.2098666858774,
-    "courtType": "park"
-  },
-  {
-    "name": "Confederation Park",
-    "address": "250 Dolly Varden Blvd",
-    "district": "Scarborough",
-    "lat": 43.7739195595103,
-    "lng": -79.2361470739595,
-    "courtType": "park"
-  },
-  {
     "name": "Mcnicoll Park",
     "address": "215 McNicoll Ave",
     "district": "North York",
@@ -24,83 +8,11 @@
     "courtType": "park"
   },
   {
-    "name": "Birunthan Park",
-    "address": "31 Dragonfly Cres",
+    "name": "Cynthia Lai Park",
+    "address": "1051 Progress Ave",
     "district": "Scarborough",
-    "lat": 43.8227342725767,
-    "lng": -79.2255792804417,
-    "courtType": "park"
-  },
-  {
-    "name": "Roywood Park",
-    "address": "2 Roywood Dr",
-    "district": "North York",
-    "lat": 43.7645460317229,
-    "lng": -79.3207956490873,
-    "courtType": "park"
-  },
-  {
-    "name": "Wadsworth Park",
-    "address": "120 Connolly St",
-    "district": "Toronto",
-    "lat": 43.6723317760734,
-    "lng": -79.4579824179909,
-    "courtType": "park"
-  },
-  {
-    "name": "Noble Park",
-    "address": "74 Sandcliff Rd",
-    "district": "York",
-    "lat": 43.6772297481904,
-    "lng": -79.5012384961313,
-    "courtType": "park"
-  },
-  {
-    "name": "Fairhaven Park",
-    "address": "100 Golfwood Hts",
-    "district": "Etobicoke",
-    "lat": 43.7025559094826,
-    "lng": -79.5461473234562,
-    "courtType": "park"
-  },
-  {
-    "name": "Bellbury Park",
-    "address": "55 Van Horne Ave",
-    "district": "North York",
-    "lat": 43.7836678749099,
-    "lng": -79.361302549172,
-    "courtType": "park"
-  },
-  {
-    "name": "Amesbury Park",
-    "address": "151 Culford Rd",
-    "district": "North York",
-    "lat": 43.7061864960735,
-    "lng": -79.4834224926156,
-    "courtType": "park"
-  },
-  {
-    "name": "Pricefield Road Playground",
-    "address": "50 Pricefield Rd",
-    "district": "Toronto",
-    "lat": 43.6814867861325,
-    "lng": -79.3887552755597,
-    "courtType": "park"
-  },
-  {
-    "name": "Conacher Park",
-    "address": "645 Conacher Dr",
-    "district": "North York",
-    "lat": 43.7953012747537,
-    "lng": -79.39807250273,
-    "courtType": "park"
-  },
-  {
-    "name": "Seven Oaks Park",
-    "address": "372 Military Trl",
-    "district": "Scarborough",
-    "lat": 43.7882509492851,
-    "lng": -79.2105842714658,
+    "lat": 43.7933472032765,
+    "lng": -79.2335250203116,
     "courtType": "park"
   },
   {
@@ -112,14 +24,6 @@
     "courtType": "park"
   },
   {
-    "name": "Grandravine Park",
-    "address": "23 Grandravine Dr",
-    "district": "North York",
-    "lat": 43.7519255965011,
-    "lng": -79.4913156667407,
-    "courtType": "park"
-  },
-  {
     "name": "Tall Pines Park",
     "address": "64 Rylander Blvd",
     "district": "Scarborough",
@@ -128,19 +32,11 @@
     "courtType": "park"
   },
   {
-    "name": "Woburn Park - North York",
-    "address": "575 Cranbrooke Ave",
+    "name": "Grandravine Park",
+    "address": "23 Grandravine Dr",
     "district": "North York",
-    "lat": 43.7227933583244,
-    "lng": -79.427407277354,
-    "courtType": "park"
-  },
-  {
-    "name": "Viola Desmond Park",
-    "address": "85 Hupfield Trl",
-    "district": "Scarborough",
-    "lat": 43.8129161094847,
-    "lng": -79.2185152736321,
+    "lat": 43.7519255965011,
+    "lng": -79.4913156667407,
     "courtType": "park"
   },
   {
@@ -160,19 +56,27 @@
     "courtType": "park"
   },
   {
-    "name": "Telfer Park",
-    "address": "71 Pinery Trl",
-    "district": "Scarborough",
-    "lat": 43.8075414553068,
-    "lng": -79.2263406065073,
+    "name": "Roywood Park",
+    "address": "2 Roywood Dr",
+    "district": "North York",
+    "lat": 43.7645460317229,
+    "lng": -79.3207956490873,
     "courtType": "park"
   },
   {
-    "name": "Seasons Park",
-    "address": "40 Seasons Dr",
+    "name": "Woburn Park - North York",
+    "address": "575 Cranbrooke Ave",
+    "district": "North York",
+    "lat": 43.7227933583244,
+    "lng": -79.427407277354,
+    "courtType": "park"
+  },
+  {
+    "name": "Viola Desmond Park",
+    "address": "85 Hupfield Trl",
     "district": "Scarborough",
-    "lat": 43.830757719908,
-    "lng": -79.2315458282338,
+    "lat": 43.8129161094847,
+    "lng": -79.2185152736321,
     "courtType": "park"
   },
   {
@@ -184,11 +88,19 @@
     "courtType": "park"
   },
   {
-    "name": "L'Amoreaux North Park",
-    "address": "1900 McNicoll Ave",
+    "name": "Seasons Park",
+    "address": "40 Seasons Dr",
     "district": "Scarborough",
-    "lat": 43.8128853417102,
-    "lng": -79.3069867837326,
+    "lat": 43.830757719908,
+    "lng": -79.2315458282338,
+    "courtType": "park"
+  },
+  {
+    "name": "Telfer Park",
+    "address": "71 Pinery Trl",
+    "district": "Scarborough",
+    "lat": 43.8075414553068,
+    "lng": -79.2263406065073,
     "courtType": "park"
   },
   {
@@ -200,19 +112,19 @@
     "courtType": "park"
   },
   {
+    "name": "L'Amoreaux North Park",
+    "address": "1900 McNicoll Ave",
+    "district": "Scarborough",
+    "lat": 43.8128853417102,
+    "lng": -79.3069867837326,
+    "courtType": "park"
+  },
+  {
     "name": "Stephen Leacock Park",
     "address": "2530 Birchmount Rd",
     "district": "Scarborough",
     "lat": 43.7872164778617,
     "lng": -79.3024857076659,
-    "courtType": "park"
-  },
-  {
-    "name": "Cummer Park",
-    "address": "823 Cummer Ave",
-    "district": "North York",
-    "lat": 43.7996349160362,
-    "lng": -79.3718071438594,
     "courtType": "park"
   },
   {
@@ -224,19 +136,27 @@
     "courtType": "park"
   },
   {
-    "name": "Cynthia Lai Park",
-    "address": "1051 Progress Ave",
-    "district": "Scarborough",
-    "lat": 43.7933472032765,
-    "lng": -79.2335250203116,
+    "name": "Cummer Park",
+    "address": "823 Cummer Ave",
+    "district": "North York",
+    "lat": 43.7996349160362,
+    "lng": -79.3718071438594,
     "courtType": "park"
   },
   {
-    "name": "Woolner Park",
-    "address": "735 Jane St",
-    "district": "York",
-    "lat": 43.6712884418902,
-    "lng": -79.4924333593124,
+    "name": "West Lodge Park",
+    "address": "165 Lansdowne Ave",
+    "district": "Toronto",
+    "lat": 43.6461035010024,
+    "lng": -79.4379893570739,
+    "courtType": "park"
+  },
+  {
+    "name": "Amesbury Park",
+    "address": "151 Culford Rd",
+    "district": "North York",
+    "lat": 43.7061864960735,
+    "lng": -79.4834224926156,
     "courtType": "park"
   },
   {
@@ -245,6 +165,14 @@
     "district": "Toronto",
     "lat": 43.7119116356127,
     "lng": -79.4007127701497,
+    "courtType": "park"
+  },
+  {
+    "name": "Christie Pits Park",
+    "address": "750 Bloor St W",
+    "district": "Toronto",
+    "lat": 43.6646698181675,
+    "lng": -79.4207936079461,
     "courtType": "park"
   },
   {
@@ -272,19 +200,19 @@
     "courtType": "park"
   },
   {
-    "name": "Woburn Park - Scarborough",
-    "address": "50 Dormington Dr",
-    "district": "Scarborough",
-    "lat": 43.7814853929352,
-    "lng": -79.2276560142691,
-    "courtType": "park"
-  },
-  {
     "name": "Earlscourt Park",
     "address": "1200 Lansdowne Ave",
     "district": "Toronto",
     "lat": 43.6736233946801,
     "lng": -79.4515037424062,
+    "courtType": "park"
+  },
+  {
+    "name": "Woburn Park - Scarborough",
+    "address": "50 Dormington Dr",
+    "district": "Scarborough",
+    "lat": 43.7814853929352,
+    "lng": -79.2276560142691,
     "courtType": "park"
   },
   {
@@ -304,14 +232,6 @@
     "courtType": "park"
   },
   {
-    "name": "Keele - Mulock Parkette",
-    "address": "595 Keele St",
-    "district": "Toronto",
-    "lat": 43.6716295096463,
-    "lng": -79.4666952506382,
-    "courtType": "park"
-  },
-  {
     "name": "Coronation Park - York",
     "address": "2700 Eglinton Ave W",
     "district": "York",
@@ -328,6 +248,14 @@
     "courtType": "park"
   },
   {
+    "name": "Fairhaven Park",
+    "address": "100 Golfwood Hts",
+    "district": "Etobicoke",
+    "lat": 43.7025559094826,
+    "lng": -79.5461473234562,
+    "courtType": "park"
+  },
+  {
     "name": "Lanyard Park",
     "address": "138 Lanyard Rd",
     "district": "North York",
@@ -336,27 +264,155 @@
     "courtType": "park"
   },
   {
-    "name": "Underpass Park",
-    "address": "33 St Lawrence St",
-    "district": "Toronto",
-    "lat": 43.6557647312161,
-    "lng": -79.354806376871,
+    "name": "Bellbury Park",
+    "address": "55 Van Horne Ave",
+    "district": "North York",
+    "lat": 43.7836678749099,
+    "lng": -79.361302549172,
     "courtType": "park"
   },
   {
-    "name": "Albert Crosland Park",
-    "address": "15 Saunders Ave",
-    "district": "Toronto",
-    "lat": 43.6408899592621,
-    "lng": -79.4401489378015,
+    "name": "Noble Park",
+    "address": "74 Sandcliff Rd",
+    "district": "York",
+    "lat": 43.6772297481904,
+    "lng": -79.5012384961313,
     "courtType": "park"
   },
   {
-    "name": "Joyce Trimmer Park",
-    "address": "8450 SHEPPARD AVE E",
+    "name": "Hillcrest Park",
+    "address": "950 Davenport Rd",
+    "district": "Toronto",
+    "lat": 43.6759841969762,
+    "lng": -79.4245259371429,
+    "courtType": "park"
+  },
+  {
+    "name": "Jimmie Simpson Park",
+    "address": "870 Queen St E",
+    "district": "Toronto",
+    "lat": 43.6611735030375,
+    "lng": -79.3447424177788,
+    "courtType": "park"
+  },
+  {
+    "name": "Conacher Park",
+    "address": "645 Conacher Dr",
+    "district": "North York",
+    "lat": 43.7953012747537,
+    "lng": -79.39807250273,
+    "courtType": "park"
+  },
+  {
+    "name": "Maple Leaf Park",
+    "address": "320 Culford Rd",
+    "district": "North York",
+    "lat": 43.7158024734685,
+    "lng": -79.4934534865598,
+    "courtType": "park"
+  },
+  {
+    "name": "Fairbank Memorial Park",
+    "address": "2213 Dufferin St",
+    "district": "York",
+    "lat": 43.6918448284323,
+    "lng": -79.4477474522899,
+    "courtType": "park"
+  },
+  {
+    "name": "Birunthan Park",
+    "address": "31 Dragonfly Cres",
     "district": "Scarborough",
-    "lat": 43.8055762949212,
-    "lng": -79.1894591450785,
+    "lat": 43.8227342725767,
+    "lng": -79.2255792804417,
+    "courtType": "park"
+  },
+  {
+    "name": "Masseygrove Park",
+    "address": "80 Kendleton Dr",
+    "district": "Etobicoke",
+    "lat": 43.7350044713691,
+    "lng": -79.5871852979597,
+    "courtType": "park"
+  },
+  {
+    "name": "Bethune Park",
+    "address": "75 Bethune Blvd",
+    "district": "Scarborough",
+    "lat": 43.7435687359414,
+    "lng": -79.2098666858774,
+    "courtType": "park"
+  },
+  {
+    "name": "Frankel - Lambert Park",
+    "address": "340 Christie St",
+    "district": "Toronto",
+    "lat": 43.6721621870241,
+    "lng": -79.4244532700926,
+    "courtType": "park"
+  },
+  {
+    "name": "Walter Saunders Memorial Park",
+    "address": "440 Hopewell Ave",
+    "district": "York",
+    "lat": 43.6997395310475,
+    "lng": -79.44777760595,
+    "courtType": "park"
+  },
+  {
+    "name": "Edgeley Park",
+    "address": "4401 Jane St",
+    "district": "North York",
+    "lat": 43.7653927434246,
+    "lng": -79.5182483409935,
+    "courtType": "park"
+  },
+  {
+    "name": "North Kipling Park",
+    "address": "2 Rowntree Rd",
+    "district": "Etobicoke",
+    "lat": 43.7521664904311,
+    "lng": -79.5847567877476,
+    "courtType": "park"
+  },
+  {
+    "name": "Humberline Park",
+    "address": "32 Humberline Dr",
+    "district": "Etobicoke",
+    "lat": 43.7309671381707,
+    "lng": -79.6153240310977,
+    "courtType": "park"
+  },
+  {
+    "name": "Wallace Emerson Park",
+    "address": "1260 Dufferin St",
+    "district": "Toronto",
+    "lat": 43.666780233638,
+    "lng": -79.4405096759813,
+    "courtType": "park"
+  },
+  {
+    "name": "Confederation Park",
+    "address": "250 Dolly Varden Blvd",
+    "district": "Scarborough",
+    "lat": 43.7739195595103,
+    "lng": -79.2361470739595,
+    "courtType": "park"
+  },
+  {
+    "name": "Leonard Linton Park",
+    "address": "60 Research Rd",
+    "district": "East York",
+    "lat": 43.7134383110989,
+    "lng": -79.3540705472968,
+    "courtType": "park"
+  },
+  {
+    "name": "Macgregor Playground",
+    "address": "346 Lansdowne Ave",
+    "district": "Toronto",
+    "lat": 43.6531646200621,
+    "lng": -79.4421095776537,
     "courtType": "park"
   },
   {
@@ -376,123 +432,19 @@
     "courtType": "park"
   },
   {
-    "name": "Leslie Park",
-    "address": "5200 Leslie St",
+    "name": "Brookwell Park",
+    "address": "44 Streamdale Crt",
     "district": "North York",
-    "lat": 43.7847915041384,
-    "lng": -79.3676778859343,
+    "lat": 43.7458853711176,
+    "lng": -79.4899670435411,
     "courtType": "park"
   },
   {
-    "name": "Glamorgan Park",
-    "address": "50 Antrim Cres",
-    "district": "Scarborough",
-    "lat": 43.7726448062954,
-    "lng": -79.28867580455,
-    "courtType": "park"
-  },
-  {
-    "name": "David Crombie Park",
-    "address": "131 The Esplanade",
+    "name": "Withrow Park",
+    "address": "725 Logan Ave",
     "district": "Toronto",
-    "lat": 43.6487685171545,
-    "lng": -79.3673390336933,
-    "courtType": "park"
-  },
-  {
-    "name": "Firgrove Park",
-    "address": "254 Firgrove Cres",
-    "district": "North York",
-    "lat": 43.7506299180344,
-    "lng": -79.5215981441151,
-    "courtType": "park"
-  },
-  {
-    "name": "Manse Road Park",
-    "address": "440 Coronation Dr",
-    "district": "Scarborough",
-    "lat": 43.766196646931,
-    "lng": -79.1721177127431,
-    "courtType": "park"
-  },
-  {
-    "name": "Trethewey Park West",
-    "address": "665 Trethewey Dr",
-    "district": "North York",
-    "lat": 43.6967810342362,
-    "lng": -79.4978753800819,
-    "courtType": "park"
-  },
-  {
-    "name": "Parkway Forest Park",
-    "address": "80 Parkway Forest Dr",
-    "district": "North York",
-    "lat": 43.771513418939,
-    "lng": -79.3422030461915,
-    "courtType": "park"
-  },
-  {
-    "name": "Dentonia Park",
-    "address": "80 Thyra Ave",
-    "district": "East York",
-    "lat": 43.6936797661395,
-    "lng": -79.2929017260679,
-    "courtType": "park"
-  },
-  {
-    "name": "Cornell Park",
-    "address": "18 Beran Dr",
-    "district": "Scarborough",
-    "lat": 43.7590595935383,
-    "lng": -79.2198450149449,
-    "courtType": "park"
-  },
-  {
-    "name": "Irving W. Chapley Park",
-    "address": "205 Wilmington Ave",
-    "district": "North York",
-    "lat": 43.7617768366639,
-    "lng": -79.4552215175651,
-    "courtType": "park"
-  },
-  {
-    "name": "Ramsden Park",
-    "address": "1020 Yonge St",
-    "district": "Toronto",
-    "lat": 43.6764157216534,
-    "lng": -79.3930150383113,
-    "courtType": "park"
-  },
-  {
-    "name": "Leonard Linton Park",
-    "address": "60 Research Rd",
-    "district": "East York",
-    "lat": 43.7134383110989,
-    "lng": -79.3540705472968,
-    "courtType": "park"
-  },
-  {
-    "name": "Parma Park",
-    "address": "99 Parma Crt",
-    "district": "North York",
-    "lat": 43.7178659480496,
-    "lng": -79.3021453559689,
-    "courtType": "park"
-  },
-  {
-    "name": "Hillcrest Park",
-    "address": "950 Davenport Rd",
-    "district": "Toronto",
-    "lat": 43.6759841969762,
-    "lng": -79.4245259371429,
-    "courtType": "park"
-  },
-  {
-    "name": "Fairbank Memorial Park",
-    "address": "2213 Dufferin St",
-    "district": "York",
-    "lat": 43.6918448284323,
-    "lng": -79.4477474522899,
+    "lat": 43.6744320621775,
+    "lng": -79.3469330563353,
     "courtType": "park"
   },
   {
@@ -504,35 +456,11 @@
     "courtType": "park"
   },
   {
-    "name": "Christie Pits Park",
-    "address": "750 Bloor St W",
+    "name": "Underpass Park",
+    "address": "33 St Lawrence St",
     "district": "Toronto",
-    "lat": 43.6646698181675,
-    "lng": -79.4207936079461,
-    "courtType": "park"
-  },
-  {
-    "name": "Maple Leaf Park",
-    "address": "320 Culford Rd",
-    "district": "North York",
-    "lat": 43.7158024734685,
-    "lng": -79.4934534865598,
-    "courtType": "park"
-  },
-  {
-    "name": "Indian Line Park",
-    "address": "655 Humberwood Blvd",
-    "district": "Etobicoke",
-    "lat": 43.7249686519113,
-    "lng": -79.6224617886124,
-    "courtType": "park"
-  },
-  {
-    "name": "West Lodge Park",
-    "address": "165 Lansdowne Ave",
-    "district": "Toronto",
-    "lat": 43.6461035010024,
-    "lng": -79.4379893570739,
+    "lat": 43.6557647312161,
+    "lng": -79.354806376871,
     "courtType": "park"
   },
   {
@@ -552,11 +480,83 @@
     "courtType": "park"
   },
   {
-    "name": "Perth Avenue Parkette",
-    "address": "160 Perth Ave",
+    "name": "Parma Park",
+    "address": "99 Parma Crt",
+    "district": "North York",
+    "lat": 43.7178659480496,
+    "lng": -79.3021453559689,
+    "courtType": "park"
+  },
+  {
+    "name": "Seven Oaks Park",
+    "address": "372 Military Trl",
+    "district": "Scarborough",
+    "lat": 43.7882509492851,
+    "lng": -79.2105842714658,
+    "courtType": "park"
+  },
+  {
+    "name": "Indian Line Park",
+    "address": "655 Humberwood Blvd",
+    "district": "Etobicoke",
+    "lat": 43.7249686519113,
+    "lng": -79.6224617886124,
+    "courtType": "park"
+  },
+  {
+    "name": "Port Union Community Recreation Centre Park",
+    "address": "5450 Lawrence Ave E",
+    "district": "Scarborough",
+    "lat": 43.7798338043484,
+    "lng": -79.1400772440666,
+    "courtType": "park"
+  },
+  {
+    "name": "Phin Park",
+    "address": "115 Condor Ave",
     "district": "Toronto",
-    "lat": 43.6587793087855,
-    "lng": -79.4499983529266,
+    "lat": 43.6779744486004,
+    "lng": -79.3362657140271,
+    "courtType": "park"
+  },
+  {
+    "name": "Pricefield Road Playground",
+    "address": "50 Pricefield Rd",
+    "district": "Toronto",
+    "lat": 43.6814867861325,
+    "lng": -79.3887552755597,
+    "courtType": "park"
+  },
+  {
+    "name": "Kew Gardens",
+    "address": "2075 Queen St E",
+    "district": "Toronto",
+    "lat": 43.6681698404802,
+    "lng": -79.2983359277853,
+    "courtType": "park"
+  },
+  {
+    "name": "Smithfield Park",
+    "address": "173 Mount Olive Dr",
+    "district": "Etobicoke",
+    "lat": 43.7473680463062,
+    "lng": -79.5953493031208,
+    "courtType": "park"
+  },
+  {
+    "name": "Regent Park Athletic Grounds",
+    "address": "480 Shuter St",
+    "district": "Toronto",
+    "lat": 43.6593498877993,
+    "lng": -79.3591084609905,
+    "courtType": "park"
+  },
+  {
+    "name": "Albert Crosland Park",
+    "address": "15 Saunders Ave",
+    "district": "Toronto",
+    "lat": 43.6408899592621,
+    "lng": -79.4401489378015,
     "courtType": "park"
   },
   {
@@ -568,6 +568,14 @@
     "courtType": "park"
   },
   {
+    "name": "Perth Avenue Parkette",
+    "address": "160 Perth Ave",
+    "district": "Toronto",
+    "lat": 43.6587793087855,
+    "lng": -79.4499983529266,
+    "courtType": "park"
+  },
+  {
     "name": "Oakdale Park",
     "address": "350 Grandravine Dr",
     "district": "North York",
@@ -576,11 +584,27 @@
     "courtType": "park"
   },
   {
-    "name": "Regent Park Athletic Grounds",
-    "address": "480 Shuter St",
-    "district": "Toronto",
-    "lat": 43.6593498877993,
-    "lng": -79.3591084609905,
+    "name": "Trethewey Park West",
+    "address": "665 Trethewey Dr",
+    "district": "North York",
+    "lat": 43.6967810342362,
+    "lng": -79.4978753800819,
+    "courtType": "park"
+  },
+  {
+    "name": "Bert Robinson Park",
+    "address": "400 Caledonia Rd",
+    "district": "York",
+    "lat": 43.6878430796668,
+    "lng": -79.4613375630626,
+    "courtType": "park"
+  },
+  {
+    "name": "Lakeshore Village Park",
+    "address": "45 Garnett Janes Rd",
+    "district": "Etobicoke",
+    "lat": 43.6008994463664,
+    "lng": -79.5100323410491,
     "courtType": "park"
   },
   {
@@ -608,19 +632,19 @@
     "courtType": "park"
   },
   {
-    "name": "Jimmie Simpson Park",
-    "address": "870 Queen St E",
-    "district": "Toronto",
-    "lat": 43.6611735030375,
-    "lng": -79.3447424177788,
+    "name": "Flagstaff Park",
+    "address": "42 Mercury Rd",
+    "district": "Etobicoke",
+    "lat": 43.7211741636735,
+    "lng": -79.5906395390043,
     "courtType": "park"
   },
   {
-    "name": "Bert Robinson Park",
-    "address": "400 Caledonia Rd",
-    "district": "York",
-    "lat": 43.6878430796668,
-    "lng": -79.4613375630626,
+    "name": "Greystone Park",
+    "address": "845 Danforth Rd",
+    "district": "Scarborough",
+    "lat": 43.7261242485564,
+    "lng": -79.252170846204,
     "courtType": "park"
   },
   {
@@ -632,163 +656,11 @@
     "courtType": "park"
   },
   {
-    "name": "Irving Paisley Park",
-    "address": "2539 A Bayview Ave",
-    "district": "North York",
-    "lat": 43.7476479219887,
-    "lng": -79.3824426703801,
-    "courtType": "park"
-  },
-  {
-    "name": "Withrow Park",
-    "address": "725 Logan Ave",
+    "name": "Wadsworth Park",
+    "address": "120 Connolly St",
     "district": "Toronto",
-    "lat": 43.6744320621775,
-    "lng": -79.3469330563353,
-    "courtType": "park"
-  },
-  {
-    "name": "Macgregor Playground",
-    "address": "346 Lansdowne Ave",
-    "district": "Toronto",
-    "lat": 43.6531646200621,
-    "lng": -79.4421095776537,
-    "courtType": "park"
-  },
-  {
-    "name": "Charles G. Williams Park",
-    "address": "75 Wabash Ave",
-    "district": "Toronto",
-    "lat": 43.6472989154183,
-    "lng": -79.443215187631,
-    "courtType": "park"
-  },
-  {
-    "name": "Port Union Community Recreation Centre Park",
-    "address": "5450 Lawrence Ave E",
-    "district": "Scarborough",
-    "lat": 43.7798338043484,
-    "lng": -79.1400772440666,
-    "courtType": "park"
-  },
-  {
-    "name": "Woodborough Park",
-    "address": "1486 Castlefield Ave",
-    "district": "York",
-    "lat": 43.6968422103694,
-    "lng": -79.4696432351612,
-    "courtType": "park"
-  },
-  {
-    "name": "Gihon Spring Park",
-    "address": "75 Gihon Spring Dr",
-    "district": "Etobicoke",
-    "lat": 43.7545277670049,
-    "lng": -79.5946310987278,
-    "courtType": "park"
-  },
-  {
-    "name": "Edgeley Park",
-    "address": "4401 Jane St",
-    "district": "North York",
-    "lat": 43.7653927434246,
-    "lng": -79.5182483409935,
-    "courtType": "park"
-  },
-  {
-    "name": "Masseygrove Park",
-    "address": "80 Kendleton Dr",
-    "district": "Etobicoke",
-    "lat": 43.7350044713691,
-    "lng": -79.5871852979597,
-    "courtType": "park"
-  },
-  {
-    "name": "Lakeshore Village Park",
-    "address": "45 Garnett Janes Rd",
-    "district": "Etobicoke",
-    "lat": 43.6008994463664,
-    "lng": -79.5100323410491,
-    "courtType": "park"
-  },
-  {
-    "name": "North Kipling Park",
-    "address": "2 Rowntree Rd",
-    "district": "Etobicoke",
-    "lat": 43.7521664904311,
-    "lng": -79.5847567877476,
-    "courtType": "park"
-  },
-  {
-    "name": "Wallace Emerson Park",
-    "address": "1260 Dufferin St",
-    "district": "Toronto",
-    "lat": 43.666780233638,
-    "lng": -79.4405096759813,
-    "courtType": "park"
-  },
-  {
-    "name": "Humberline Park",
-    "address": "32 Humberline Dr",
-    "district": "Etobicoke",
-    "lat": 43.7309671381707,
-    "lng": -79.6153240310977,
-    "courtType": "park"
-  },
-  {
-    "name": "Walter Saunders Memorial Park",
-    "address": "440 Hopewell Ave",
-    "district": "York",
-    "lat": 43.6997395310475,
-    "lng": -79.44777760595,
-    "courtType": "park"
-  },
-  {
-    "name": "Kew Gardens",
-    "address": "2075 Queen St E",
-    "district": "Toronto",
-    "lat": 43.6681698404802,
-    "lng": -79.2983359277853,
-    "courtType": "park"
-  },
-  {
-    "name": "Smithfield Park",
-    "address": "173 Mount Olive Dr",
-    "district": "Etobicoke",
-    "lat": 43.7473680463062,
-    "lng": -79.5953493031208,
-    "courtType": "park"
-  },
-  {
-    "name": "Phin Park",
-    "address": "115 Condor Ave",
-    "district": "Toronto",
-    "lat": 43.6779744486004,
-    "lng": -79.3362657140271,
-    "courtType": "park"
-  },
-  {
-    "name": "Carlton Park",
-    "address": "20 Edith Ave",
-    "district": "Toronto",
-    "lat": 43.6665622439282,
-    "lng": -79.4554776121538,
-    "courtType": "park"
-  },
-  {
-    "name": "Wanless Park",
-    "address": "250 Wanless Ave",
-    "district": "North York",
-    "lat": 43.7289322010806,
-    "lng": -79.3920573344833,
-    "courtType": "park"
-  },
-  {
-    "name": "E.T. Seton Park",
-    "address": "73 Thorncliffe Park Dr",
-    "district": "North York",
-    "lat": 43.7094332498786,
-    "lng": -79.3390544184959,
+    "lat": 43.6723317760734,
+    "lng": -79.4579824179909,
     "courtType": "park"
   },
   {
@@ -808,6 +680,14 @@
     "courtType": "park"
   },
   {
+    "name": "Carlton Park",
+    "address": "20 Edith Ave",
+    "district": "Toronto",
+    "lat": 43.6665622439282,
+    "lng": -79.4554776121538,
+    "courtType": "park"
+  },
+  {
     "name": "Vine Avenue Playground",
     "address": "200 Vine Ave",
     "district": "Toronto",
@@ -816,27 +696,11 @@
     "courtType": "park"
   },
   {
-    "name": "Frankel - Lambert Park",
-    "address": "340 Christie St",
-    "district": "Toronto",
-    "lat": 43.6721621870241,
-    "lng": -79.4244532700926,
-    "courtType": "park"
-  },
-  {
     "name": "Weston Lions Park",
     "address": "2125 Lawrence Ave W",
     "district": "York",
     "lat": 43.6979437098432,
     "lng": -79.5175390232004,
-    "courtType": "park"
-  },
-  {
-    "name": "Flemington Park",
-    "address": "2 A Flemington Rd",
-    "district": "North York",
-    "lat": 43.721464957008,
-    "lng": -79.444561304399,
     "courtType": "park"
   },
   {
@@ -872,27 +736,19 @@
     "courtType": "park"
   },
   {
-    "name": "Flagstaff Park",
-    "address": "42 Mercury Rd",
-    "district": "Etobicoke",
-    "lat": 43.7211741636735,
-    "lng": -79.5906395390043,
-    "courtType": "park"
-  },
-  {
-    "name": "Greystone Park",
-    "address": "845 Danforth Rd",
-    "district": "Scarborough",
-    "lat": 43.7261242485564,
-    "lng": -79.252170846204,
-    "courtType": "park"
-  },
-  {
-    "name": "Alexandra Park",
-    "address": "275 Bathurst St",
+    "name": "Charles G. Williams Park",
+    "address": "75 Wabash Ave",
     "district": "Toronto",
-    "lat": 43.6506653755471,
-    "lng": -79.4042555012948,
+    "lat": 43.6472989154183,
+    "lng": -79.443215187631,
+    "courtType": "park"
+  },
+  {
+    "name": "Woolner Park",
+    "address": "735 Jane St",
+    "district": "York",
+    "lat": 43.6712884418902,
+    "lng": -79.4924333593124,
     "courtType": "park"
   },
   {
@@ -912,11 +768,155 @@
     "courtType": "park"
   },
   {
-    "name": "Brookwell Park",
-    "address": "44 Streamdale Crt",
+    "name": "Alexandra Park",
+    "address": "275 Bathurst St",
+    "district": "Toronto",
+    "lat": 43.6506653755471,
+    "lng": -79.4042555012948,
+    "courtType": "park"
+  },
+  {
+    "name": "Flemington Park",
+    "address": "2 A Flemington Rd",
     "district": "North York",
-    "lat": 43.7458853711176,
-    "lng": -79.4899670435411,
+    "lat": 43.721464957008,
+    "lng": -79.444561304399,
+    "courtType": "park"
+  },
+  {
+    "name": "Keele - Mulock Parkette",
+    "address": "595 Keele St",
+    "district": "Toronto",
+    "lat": 43.6716295096463,
+    "lng": -79.4666952506382,
+    "courtType": "park"
+  },
+  {
+    "name": "Wanless Park",
+    "address": "250 Wanless Ave",
+    "district": "North York",
+    "lat": 43.7289322010806,
+    "lng": -79.3920573344833,
+    "courtType": "park"
+  },
+  {
+    "name": "E.T. Seton Park",
+    "address": "73 Thorncliffe Park Dr",
+    "district": "North York",
+    "lat": 43.7094332498786,
+    "lng": -79.3390544184959,
+    "courtType": "park"
+  },
+  {
+    "name": "Cornell Park",
+    "address": "18 Beran Dr",
+    "district": "Scarborough",
+    "lat": 43.7590595935383,
+    "lng": -79.2198450149449,
+    "courtType": "park"
+  },
+  {
+    "name": "Glamorgan Park",
+    "address": "50 Antrim Cres",
+    "district": "Scarborough",
+    "lat": 43.7726448062954,
+    "lng": -79.28867580455,
+    "courtType": "park"
+  },
+  {
+    "name": "Irving W. Chapley Park",
+    "address": "205 Wilmington Ave",
+    "district": "North York",
+    "lat": 43.7617768366639,
+    "lng": -79.4552215175651,
+    "courtType": "park"
+  },
+  {
+    "name": "Leslie Park",
+    "address": "5200 Leslie St",
+    "district": "North York",
+    "lat": 43.7847915041384,
+    "lng": -79.3676778859343,
+    "courtType": "park"
+  },
+  {
+    "name": "David Crombie Park",
+    "address": "131 The Esplanade",
+    "district": "Toronto",
+    "lat": 43.6487685171545,
+    "lng": -79.3673390336933,
+    "courtType": "park"
+  },
+  {
+    "name": "Woodborough Park",
+    "address": "1486 Castlefield Ave",
+    "district": "York",
+    "lat": 43.6968422103694,
+    "lng": -79.4696432351612,
+    "courtType": "park"
+  },
+  {
+    "name": "Firgrove Park",
+    "address": "254 Firgrove Cres",
+    "district": "North York",
+    "lat": 43.7506299180344,
+    "lng": -79.5215981441151,
+    "courtType": "park"
+  },
+  {
+    "name": "Gihon Spring Park",
+    "address": "75 Gihon Spring Dr",
+    "district": "Etobicoke",
+    "lat": 43.7545277670049,
+    "lng": -79.5946310987278,
+    "courtType": "park"
+  },
+  {
+    "name": "Manse Road Park",
+    "address": "440 Coronation Dr",
+    "district": "Scarborough",
+    "lat": 43.766196646931,
+    "lng": -79.1721177127431,
+    "courtType": "park"
+  },
+  {
+    "name": "Irving Paisley Park",
+    "address": "2539 A Bayview Ave",
+    "district": "North York",
+    "lat": 43.7476479219887,
+    "lng": -79.3824426703801,
+    "courtType": "park"
+  },
+  {
+    "name": "Parkway Forest Park",
+    "address": "80 Parkway Forest Dr",
+    "district": "North York",
+    "lat": 43.771513418939,
+    "lng": -79.3422030461915,
+    "courtType": "park"
+  },
+  {
+    "name": "Dentonia Park",
+    "address": "80 Thyra Ave",
+    "district": "East York",
+    "lat": 43.6936797661395,
+    "lng": -79.2929017260679,
+    "courtType": "park"
+  },
+  {
+    "name": "Ramsden Park",
+    "address": "1020 Yonge St",
+    "district": "Toronto",
+    "lat": 43.6764157216534,
+    "lng": -79.3930150383113,
+    "courtType": "park"
+  },
+  {
+    "name": "Joyce Trimmer Park",
+    "address": "8450 SHEPPARD AVE E",
+    "district": "Scarborough",
+    "lat": 43.8055762949212,
+    "lng": -79.1894591450785,
     "courtType": "park"
   },
   {
@@ -928,19 +928,19 @@
     "courtType": "community"
   },
   {
-    "name": "Antibes Community Centre",
-    "address": "140 ANTIBES DR",
-    "district": "North York",
-    "lat": 43.7811383805631,
-    "lng": -79.4469957593676,
-    "courtType": "community"
-  },
-  {
     "name": "Canoe Landing Community Recreation Centre",
     "address": "45 FORT YORK BLVD",
     "district": "Toronto",
     "lat": 43.6394377946956,
     "lng": -79.394731493621,
+    "courtType": "community"
+  },
+  {
+    "name": "Antibes Community Centre",
+    "address": "140 ANTIBES DR",
+    "district": "North York",
+    "lat": 43.7811383805631,
+    "lng": -79.4469957593676,
     "courtType": "community"
   },
   {
