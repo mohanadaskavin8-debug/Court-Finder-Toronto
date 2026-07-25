@@ -1,6 +1,6 @@
 import { useGetCourtsSummary } from "@workspace/api-client-react"
 import { motion, useMotionValue, useTransform, animate } from "framer-motion"
-import { useEffect } from "react"
+import { useEffect, useRef } from "react"
 
 function CountUp({ value }: { value: number }) {
   const mv = useMotionValue(0)
@@ -14,6 +14,23 @@ function CountUp({ value }: { value: number }) {
 
 export function SummaryHUD() {
   const { data: summary, isLoading } = useGetCourtsSummary()
+  const ref = useRef<HTMLDivElement>(null)
+
+  // Publish the HUD's real height as a CSS variable so other fixed overlays
+  // (e.g. the wordmark badge on mobile) can position themselves below it
+  // even when text scaling or content changes make the HUD taller.
+  useEffect(() => {
+    const el = ref.current
+    if (!el) return
+    const update = () => document.documentElement.style.setProperty("--hud-height", `${el.offsetHeight}px`)
+    update()
+    const ro = new ResizeObserver(update)
+    ro.observe(el)
+    return () => {
+      ro.disconnect()
+      document.documentElement.style.removeProperty("--hud-height")
+    }
+  }, [summary])
 
   if (isLoading || !summary) return null
 
@@ -26,6 +43,7 @@ export function SummaryHUD() {
 
   return (
     <motion.div
+      ref={ref}
       initial={{ opacity: 0, y: -24, filter: "blur(8px)" }}
       animate={{ opacity: 1, y: 0, filter: "blur(0px)" }}
       transition={{ duration: 0.7, ease: [0.16, 1, 0.3, 1] }}
