@@ -1,10 +1,10 @@
 import { motion } from "framer-motion"
 import { Dribbble } from "lucide-react"
 
-const STATUSES = [
-  { label: "Open", color: "#00ff66" },
-  { label: "Filling Up", color: "#ff9900" },
-  { label: "Full", color: "#ff0055" },
+const COURT_TYPES = [
+  { label: "Park", color: "#00ff66" },
+  { label: "School", color: "#ff9900" },
+  { label: "Community Centre", color: "#ff0055" },
 ]
 
 const EASE = [0.16, 1, 0.3, 1] as const
@@ -48,12 +48,12 @@ export function MapOverlay() {
         initial={{ opacity: 0, y: 24, filter: "blur(8px)" }}
         animate={{ opacity: 1, y: 0, filter: "blur(0px)" }}
         transition={{ duration: 0.7, delay: 0.3, ease: EASE }}
-        className="fixed bottom-6 left-4 z-40 pointer-events-none hidden sm:block"
+        className="fixed bottom-[max(1.5rem,env(safe-area-inset-bottom))] left-3 md:left-4 z-40 pointer-events-none"
       >
-        <div className="bg-background/70 backdrop-blur-xl border border-white/10 rounded-xl px-4 py-3 shadow-2xl">
-          <div className="text-[10px] uppercase tracking-widest text-muted-foreground font-bold mb-2">Court Status</div>
+        <div className="bg-background/70 backdrop-blur-xl border border-white/10 rounded-xl px-3 py-2.5 md:px-4 md:py-3 shadow-2xl">
+          <div className="text-[10px] uppercase tracking-widest text-muted-foreground font-bold mb-2">Court Type</div>
           <div className="flex flex-col gap-1.5">
-            {STATUSES.map((s) => (
+            {COURT_TYPES.map((s) => (
               <div key={s.label} className="flex items-center gap-2">
                 <span
                   className="w-2.5 h-2.5 rounded-full"

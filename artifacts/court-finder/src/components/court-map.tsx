@@ -3,7 +3,7 @@ import maplibregl, { GeoJSONSource, MapGeoJSONFeature } from "maplibre-gl"
 import type { FeatureCollection, Point } from "geojson"
 import "maplibre-gl/dist/maplibre-gl.css"
 import { Court } from "@workspace/api-client-react"
-import { getCourtStatus, getStatusHex } from "@/lib/utils"
+import { getTypeHex } from "@/lib/utils"
 
 const STYLE_URL = "https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json"
 const NEON = "#22d3ee"
@@ -20,7 +20,7 @@ function toFeatureCollection(courts: Court[]): FeatureCollection {
     features: courts.map((c) => ({
       type: "Feature",
       geometry: { type: "Point", coordinates: [c.lng, c.lat] },
-      properties: { id: c.id, color: getStatusHex(getCourtStatus(c)) },
+      properties: { id: c.id, color: getTypeHex(c.courtType) },
     })),
   }
 }

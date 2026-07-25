@@ -1,45 +1,34 @@
 import { clsx, type ClassValue } from "clsx"
 import { twMerge } from "tailwind-merge"
-import { Court } from "@workspace/api-client-react"
 
 export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs))
 }
 
-export type CourtStatus = "Open" | "Filling Up" | "Full"
+// Court type color coding: green = park, orange = school, red = community centre
+export const COURT_TYPES = [
+  { type: "park", label: "Park", hex: "#00ff66" },
+  { type: "school", label: "School", hex: "#ff9900" },
+  { type: "community", label: "Community Centre", hex: "#ff0055" },
+] as const
 
-export function getCourtStatus(court: Court): CourtStatus {
-  if (court.currentPlayers >= court.maxPlayers) return "Full"
-  if (court.currentPlayers >= court.playersNeeded / 2 && court.currentPlayers > 0) return "Filling Up"
-  return "Open"
+export function getTypeHex(courtType: string): string {
+  return COURT_TYPES.find((t) => t.type === courtType)?.hex ?? "#22d3ee"
 }
 
-export function getStatusColor(status: CourtStatus): string {
-  switch (status) {
-    case "Open":
+export function getTypeLabel(courtType: string): string {
+  return COURT_TYPES.find((t) => t.type === courtType)?.label ?? courtType
+}
+
+export function getTypeColor(courtType: string): string {
+  switch (courtType) {
+    case "park":
       return "text-[#00ff66] border-[#00ff66] bg-[#00ff66]/10"
-    case "Filling Up":
+    case "school":
       return "text-[#ff9900] border-[#ff9900] bg-[#ff9900]/10"
-    case "Full":
+    case "community":
       return "text-[#ff0055] border-[#ff0055] bg-[#ff0055]/10"
-  }
-}
-
-export function getStatusGlow(status: CourtStatus): string {
-  switch (status) {
-    case "Open":
-      return "drop-shadow-[0_0_8px_rgba(0,255,102,0.8)]"
-    case "Filling Up":
-      return "drop-shadow-[0_0_8px_rgba(255,153,0,0.8)]"
-    case "Full":
-      return "drop-shadow-[0_0_8px_rgba(255,0,85,0.8)]"
-  }
-}
-
-export function getStatusHex(status: CourtStatus): string {
-  switch (status) {
-    case "Open": return "#00ff66"
-    case "Filling Up": return "#ff9900"
-    case "Full": return "#ff0055"
+    default:
+      return "text-[#22d3ee] border-[#22d3ee] bg-[#22d3ee]/10"
   }
 }

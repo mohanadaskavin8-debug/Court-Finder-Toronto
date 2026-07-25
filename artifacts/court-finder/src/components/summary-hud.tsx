@@ -1,5 +1,4 @@
 import { useGetCourtsSummary } from "@workspace/api-client-react"
-import { Activity, Users, MapPin } from "lucide-react"
 import { motion, useMotionValue, useTransform, animate } from "framer-motion"
 import { useEffect } from "react"
 
@@ -18,47 +17,37 @@ export function SummaryHUD() {
 
   if (isLoading || !summary) return null
 
+  const stats = [
+    { label: "Courts", value: summary.totalCourts, color: "#22d3ee" },
+    { label: "Parks", value: summary.parkCourts, color: "#00ff66" },
+    { label: "Schools", value: summary.schoolCourts, color: "#ff9900" },
+    { label: "Comm. Centres", value: summary.communityCourts, color: "#ff0055" },
+  ]
+
   return (
     <motion.div
       initial={{ opacity: 0, y: -24, filter: "blur(8px)" }}
       animate={{ opacity: 1, y: 0, filter: "blur(0px)" }}
       transition={{ duration: 0.7, ease: [0.16, 1, 0.3, 1] }}
-      className="fixed top-4 left-1/2 -translate-x-1/2 z-50 pointer-events-none w-full max-w-xl px-4"
+      className="fixed top-[max(1rem,env(safe-area-inset-top))] left-1/2 -translate-x-1/2 z-50 pointer-events-none w-full max-w-xl px-3 md:px-4"
     >
-      <div className="bg-background/80 backdrop-blur-xl border border-white/10 p-4 rounded-2xl flex items-center justify-between shadow-2xl pointer-events-auto overflow-hidden relative group">
+      <div className="bg-background/80 backdrop-blur-xl border border-white/10 p-3 md:p-4 rounded-2xl flex items-center justify-between shadow-2xl pointer-events-auto overflow-hidden relative">
         <div className="absolute inset-0 bg-gradient-to-r from-primary/10 via-transparent to-primary/5 opacity-60" />
         <div className="absolute -top-px left-1/2 -translate-x-1/2 h-px w-2/3 bg-gradient-to-r from-transparent via-primary/70 to-transparent" />
 
-        <div className="relative flex flex-col items-center flex-1">
-          <span className="text-[10px] uppercase tracking-widest text-muted-foreground font-bold mb-1">Total Players</span>
-          <div className="flex items-center gap-2 text-primary">
-            <Users className="w-5 h-5" />
-            <span className="text-2xl font-black tabular-nums"><CountUp value={summary.totalPlayers} /></span>
+        {stats.map((s, i) => (
+          <div key={s.label} className="relative flex items-center flex-1">
+            {i > 0 && <div className="w-px h-8 md:h-10 bg-white/10 mr-2 md:mr-0" />}
+            <div className="flex flex-col items-center flex-1 min-w-0">
+              <span className="text-[9px] md:text-[10px] uppercase tracking-widest text-muted-foreground font-bold mb-0.5 md:mb-1 truncate max-w-full">
+                {s.label}
+              </span>
+              <span className="text-lg md:text-2xl font-black tabular-nums" style={{ color: s.color }}>
+                <CountUp value={s.value} />
+              </span>
+            </div>
           </div>
-        </div>
-
-        <div className="w-px h-10 bg-white/10" />
-
-        <div className="relative flex flex-col items-center flex-1">
-          <span className="text-[10px] uppercase tracking-widest text-muted-foreground font-bold mb-1">Active Courts</span>
-          <div className="flex items-center gap-2 text-white">
-            <Activity className="w-5 h-5 text-[#00ff66]" />
-            <span className="text-2xl font-black tabular-nums">
-              <CountUp value={summary.activeCourts} />
-              <span className="text-muted-foreground text-sm font-medium">/{summary.totalCourts}</span>
-            </span>
-          </div>
-        </div>
-
-        <div className="w-px h-10 bg-white/10" />
-
-        <div className="relative flex flex-col items-center flex-1">
-          <span className="text-[10px] uppercase tracking-widest text-muted-foreground font-bold mb-1">Needing Players</span>
-          <div className="flex items-center gap-2 text-white">
-            <MapPin className="w-5 h-5 text-[#ff9900]" />
-            <span className="text-2xl font-black tabular-nums"><CountUp value={summary.courtsNeedingPlayers} /></span>
-          </div>
-        </div>
+        ))}
       </div>
     </motion.div>
   )

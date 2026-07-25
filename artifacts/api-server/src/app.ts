@@ -6,10 +6,6 @@ import { logger } from "./lib/logger";
 
 const app: Express = express();
 
-// Behind the Replit reverse proxy — trust the first hop so req.ip reflects the
-// real client (used by the AI endpoint's rate limiter).
-app.set("trust proxy", 1);
-
 app.use(
   pinoHttp({
     logger,

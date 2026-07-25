@@ -2,7 +2,7 @@ openapi: 3.1.0
 info:
   title: Api
   version: 0.1.0
-  description: Toronto Court Finder API
+  description: Toronto Court Finder API (read-only)
 servers:
   - url: /api
     description: Base API path
@@ -31,7 +31,7 @@ paths:
       operationId: listCourts
       tags: [courts]
       summary: List all basketball courts
-      description: Returns all basketball courts in Toronto with current player counts
+      description: Returns all basketball courts in Toronto
       responses:
         "200":
           description: List of courts
@@ -47,7 +47,7 @@ paths:
       operationId: getCourtsSummary
       tags: [courts]
       summary: Get courts summary stats
-      description: Returns aggregate stats across all courts
+      description: Returns aggregate counts across all courts
       responses:
         "200":
           description: Summary stats
@@ -55,28 +55,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/CourtsSummary"
-
-  /courts/ai-update:
-    post:
-      operationId: aiUpdateCourt
-      tags: [courts]
-      summary: Update a court from a natural-language prompt
-      description: >
-        Parses a free-text command (e.g. "3 more people needed at percy williams
-        jr ps"), fuzzy-matches the court, and applies the requested player updates.
-      requestBody:
-        required: true
-        content:
-          application/json:
-            schema:
-              $ref: "#/components/schemas/AiCourtUpdateRequest"
-      responses:
-        "200":
-          description: Result of the assistant's attempt to update a court
-          content:
-            application/json:
-              schema:
-                $ref: "#/components/schemas/AiCourtUpdateResult"
 
   /courts/{id}:
     get:
@@ -92,32 +70,6 @@ paths:
       responses:
         "200":
           description: Court details
-          content:
-            application/json:
-              schema:
-                $ref: "#/components/schemas/Court"
-        "404":
-          description: Court not found
-
-    patch:
-      operationId: updateCourtPlayers
-      tags: [courts]
-      summary: Update player count at a court
-      parameters:
-        - name: id
-          in: path
-          required: true
-          schema:
-            type: integer
-      requestBody:
-        required: true
-        content:
-          application/json:
-            schema:
-              $ref: "#/components/schemas/CourtPlayersUpdate"
-      responses:
-        "200":
-          description: Updated court
           content:
             application/json:
               schema:
@@ -144,11 +96,7 @@ components:
         - neighborhood
         - lat
         - lng
-        - currentPlayers
-        - playersNeeded
-        - maxPlayers
         - courtType
-        - updatedAt
       properties:
         id:
           type: integer
@@ -162,81 +110,23 @@ components:
           type: number
         lng:
           type: number
-        currentPlayers:
-          type: integer
-        playersNeeded:
-          type: integer
-        maxPlayers:
-          type: integer
         courtType:
           type: string
           description: "park, community, or school"
-        hasLights:
-          type: boolean
-        updatedAt:
-          type: string
-
-    CourtPlayersUpdate:
-      type: object
-      required:
-        - currentPlayers
-        - playersNeeded
-      properties:
-        currentPlayers:
-          type: integer
-          minimum: 0
-        playersNeeded:
-          type: integer
-          minimum: 0
 
     CourtsSummary:
       type: object
       required:
         - totalCourts
-        - activeCourts
-        - totalPlayers
-        - courtsNeedingPlayers
+        - parkCourts
+        - schoolCourts
+        - communityCourts
       properties:
         totalCourts:
           type: integer
-        activeCourts:
+        parkCourts:
           type: integer
-        totalPlayers:
+        schoolCourts:
           type: integer
-        courtsNeedingPlayers:
+        communityCourts:
           type: integer
-
-    AiCourtUpdateRequest:
-      type: object
-      required:
-        - prompt
-      properties:
-        prompt:
-          type: string
-          minLength: 1
-          description: Free-text command describing the court update
-
-    AiCourtUpdateResult:
-      type: object
-      required:
-        - status
-        - message
-      properties:
-        status:
-          type: string
-          enum:
-            - updated
-            - not_found
-            - ambiguous
-            - no_change
-          description: Outcome of the assistant's attempt
-        message:
-          type: string
-          description: Human-readable confirmation or clarification message
-        court:
-          $ref: "#/components/schemas/Court"
-        candidates:
-          type: array
-          description: Candidate court names when the match is ambiguous
-          items:
-            type: string

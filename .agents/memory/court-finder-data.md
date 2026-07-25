@@ -25,4 +25,3 @@ The `neighborhood`/district = the school's own `MUNICIPALITY` code mapped ET/TO/
 ## Reproducibility rule
 The authoritative court list lives in `scripts/data/toronto-courts.json`. To change courts, edit that file and run `pnpm --filter @workspace/scripts run seed:courts` (DELETE + bulk insert).
 **Why:** the DB starts empty on a fresh env/deploy and must reseed from the JSON.
-**How to apply:** never hand-mutate the courts table for data changes. Player counts are demo weighted-random (most courts empty) so exact active counts differ each reseed — expected; the court list itself is deterministic.
