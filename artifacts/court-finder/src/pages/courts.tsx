@@ -2,13 +2,14 @@ import { useState } from "react"
 import { useListCourts } from "@workspace/api-client-react"
 import { SummaryHUD } from "@/components/summary-hud"
 import { Link } from "wouter"
-import { Map as MapIcon, MapPin } from "lucide-react"
+import { Map as MapIcon, MapPin, Search, X } from "lucide-react"
 import { COURT_TYPES, getTypeColor, getTypeLabel } from "@/lib/utils"
 
 export default function CourtsList() {
   const { data: courts, isLoading } = useListCourts()
   const [typeFilter, setTypeFilter] = useState("All")
   const [district, setDistrict] = useState("All")
+  const [search, setSearch] = useState("")
 
   if (isLoading || !courts) return (
     <div className="min-h-screen bg-background flex items-center justify-center">
@@ -18,10 +19,17 @@ export default function CourtsList() {
 
   const districts = ["All", ...Array.from(new Set(courts.map(c => c.neighborhood))).sort()]
 
+  const query = search.trim().toLowerCase()
+
   const filteredCourts = courts.filter(court => {
     const typeOk = typeFilter === "All" || court.courtType === typeFilter
     const districtOk = district === "All" || court.neighborhood === district
-    return typeOk && districtOk
+    const searchOk =
+      query === "" ||
+      court.name.toLowerCase().includes(query) ||
+      court.address.toLowerCase().includes(query) ||
+      court.neighborhood.toLowerCase().includes(query)
+    return typeOk && districtOk && searchOk
   })
 
   return (
@@ -51,6 +59,27 @@ export default function CourtsList() {
               </button>
             ))}
           </div>
+        </div>
+
+        <div className="relative">
+          <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-muted-foreground pointer-events-none" />
+          <input
+            type="text"
+            value={search}
+            onChange={e => setSearch(e.target.value)}
+            placeholder="Search by name, address, or district..."
+            aria-label="Search courts"
+            className="w-full bg-white/5 border border-white/10 rounded-xl pl-12 pr-12 py-3.5 text-base font-medium placeholder:text-muted-foreground focus:outline-none focus:border-primary/50 focus:ring-1 focus:ring-primary/50 transition-colors"
+          />
+          {search && (
+            <button
+              onClick={() => setSearch("")}
+              aria-label="Clear search"
+              className="absolute right-2 top-1/2 -translate-y-1/2 p-2.5 rounded-lg text-muted-foreground hover:text-white hover:bg-white/10 transition-colors"
+            >
+              <X className="w-5 h-5" />
+            </button>
+          )}
         </div>
 
         <div className="flex gap-2 overflow-x-auto no-scrollbar pb-2 -mx-1 px-1">
