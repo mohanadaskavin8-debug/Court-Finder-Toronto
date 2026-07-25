@@ -51,6 +51,12 @@ export function CourtPanel({ court, onClose }: CourtPanelProps) {
             <span className="text-sm font-bold text-white">{court.address}</span>
           </div>
         </div>
+
+        {court.courtType === "school" && (
+          <p className="text-xs text-muted-foreground relative z-10 -mt-2">
+            School courts are estimated from school grounds and may not be publicly accessible or verified.
+          </p>
+        )}
       </div>
     </div>
   )

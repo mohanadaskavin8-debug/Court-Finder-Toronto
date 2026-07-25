@@ -33,6 +33,7 @@ export default function CourtsList() {
           <div>
             <h1 className="text-3xl md:text-5xl font-black uppercase tracking-tighter">Toronto Courts</h1>
             <p className="text-muted-foreground mt-1 font-medium">{filteredCourts.length} courts citywide</p>
+            <p className="text-muted-foreground/70 text-xs mt-1">School courts are estimated from school grounds — not verified by the City.</p>
           </div>
 
           <div className="flex bg-white/5 p-1 rounded-xl border border-white/10 overflow-x-auto">
