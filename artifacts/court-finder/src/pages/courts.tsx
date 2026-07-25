@@ -25,7 +25,7 @@ export default function CourtsList() {
   })
 
   return (
-    <div className="min-h-screen bg-background text-foreground pt-28 md:pt-32 pb-24 px-4 md:px-8">
+    <div className="min-h-screen bg-background text-foreground pt-28 md:pt-32 pb-32 md:pb-24 px-4 md:px-8">
       <SummaryHUD />
 
       <div className="max-w-6xl mx-auto space-y-6">
@@ -36,7 +36,7 @@ export default function CourtsList() {
             <p className="text-muted-foreground/70 text-xs mt-1">School courts are estimated from school grounds — not verified by the City.</p>
           </div>
 
-          <div className="flex bg-white/5 p-1 rounded-xl border border-white/10 overflow-x-auto">
+          <div className="flex bg-white/5 p-1 rounded-xl border border-white/10 overflow-x-auto no-scrollbar">
             {[{ type: "All", label: "All" }, ...COURT_TYPES].map(f => (
               <button
                 key={f.type}
@@ -53,7 +53,7 @@ export default function CourtsList() {
           </div>
         </div>
 
-        <div className="flex gap-2 overflow-x-auto pb-2 -mx-1 px-1">
+        <div className="flex gap-2 overflow-x-auto no-scrollbar pb-2 -mx-1 px-1">
           {districts.map(d => (
             <button
               key={d}

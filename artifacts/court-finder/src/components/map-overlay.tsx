@@ -17,7 +17,7 @@ export function MapOverlay() {
         initial={{ opacity: 0, x: -24, filter: "blur(8px)" }}
         animate={{ opacity: 1, x: 0, filter: "blur(0px)" }}
         transition={{ duration: 0.7, delay: 0.1, ease: EASE }}
-        className="fixed top-4 left-4 z-40 pointer-events-none"
+        className="fixed left-3 top-[calc(max(1rem,env(safe-area-inset-top))+5rem)] md:left-4 md:top-4 z-40 pointer-events-none"
       >
         <div className="flex items-center gap-3 bg-background/70 backdrop-blur-xl border border-white/10 rounded-2xl pl-2.5 pr-4 py-2 shadow-2xl">
           <div className="relative w-9 h-9 rounded-xl bg-primary/15 border border-primary/30 flex items-center justify-center">

@@ -409,3 +409,12 @@
 .maplibregl-canvas:focus {
   outline: none;
 }
+
+/* Hide scrollbars on horizontally scrollable chip rows */
+.no-scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
